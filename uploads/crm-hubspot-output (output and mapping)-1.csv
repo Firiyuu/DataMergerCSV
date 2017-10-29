@@ -1,0 +1,925 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,OWNER 1 FIRST NAME,OWNER 1 LAST NAME,OWNER 2 FIRST NAME,OWNER 2 LAST NAME,EQUITY (%),Name,Name 2,Phone,Phone 2,Phone 3,Phone 4,Phone 5,Phone 6,PROPERTY ADDRESS,PROPERTY CITY,PROPERTY STATE,PROPERTY ZIP CODE,MAIL ADDRESS,MAIL CITY,MAIL STATE,MAIL CITY.1,Bedrooms,Bathrooms,Square Footage,Year Built,Folders
+0,0,0,0,Michael,Parker,,,46.0,Rafael Prado,,713-551-6627,281-226-0238,214-307-7811,,,,20410 Cajon Canyon Ct,Katy,TX,77450.0,20410 Cajon Canyon Ct,Katy,TX,,3.0,2.0,2058.0,1999.0,CanyonGateCincoRanch
+1,1,1,1,Susan,Moss,Jan,Moss,27.0,Gina Carter,David Carter,281-578-2139,281-599-7062,,,,,20506 Walnut Canyon Dr,Katy,TX,77450.0,20506 Walnut Canyon Dr,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+2,2,2,2,Tom,Rawls,Allison,Rawls,39.0,Elizabeth Anderson,John Canant,832-298-4441,713-367-3181,,,,,6314 Deep Canyon Dr,Katy,TX,77450.0,6314 Deep Canyon Dr,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+3,3,3,3,Rita,Desai,Tushar,Desai,52.0,Susan Garcia,Jose Urbaez,281-777-4147,,,,,,20415 Cajon Canyon Ct,Katy,TX,77450.0,20415 Cajon Canyon Ct,Katy,TX,,4.0,2.0,2189.0,1998.0,CanyonGateCincoRanch
+4,4,4,4,Seyed,Emami,Dawn,Emami,100.0,Chima Okorie,,832-768-6500,281-599-8664,281-960-8180,,,,20506 Verde Canyon Dr,Katy,TX,77450.0,20506 Verde Canyon Dr,Katy,TX,,3.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+5,5,5,5,Annie,Wang,,,27.0,Diedre Christian,Shane Christian,281-599-3735,,,,,,20407 Cajon Canyon Ct,Katy,TX,77450.0,20407 Cajon Canyon Ct,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+6,6,6,6,Billy,Cope,Dena,Cope,48.0,Melanie Lim,,832-868-3758,281-579-3757,,,,,6403 Bryce Canyon Dr,Katy,TX,77450.0,6403 Bryce Canyon Dr,Katy,TX,,4.0,2.0,2010.0,1999.0,CanyonGateCincoRanch
+7,7,7,7,Steven,Hickenlooper,Christine,Hickenlooper,29.0,Stephanie Bell,William Bell,,,,,,,6326 Deep Canyon Dr,Katy,TX,77450.0,6326 Deep Canyon Dr,Katy,TX,,4.0,2.0,2368.0,1999.0,CanyonGateCincoRanch
+8,8,8,8,Mark,Brewer,Donna,Brewer,33.0,Paul Clemmons,,903-890-0219,281-599-7343,,,,,6207 Piedra Negras Ct,Katy,TX,77450.0,6207 Piedra Negras Ct,Katy,TX,,3.0,2.0,2050.0,1998.0,CanyonGateCincoRanch
+9,9,9,9,James,Alexander,,,42.0,Janeth Montalvo,Rafael Amezcua,281-727-6504,281-492-1748,281-961-4007,,,,20502 Aspen Canyon Dr,Katy,TX,77450.0,20502 Aspen Canyon Dr,Katy,TX,,4.0,2.0,2253.0,1998.0,CanyonGateCincoRanch
+10,10,10,10,Abu,Aziz,,,44.0,Xuequan Liu,,281-961-1264,281-492-6686,,,,,20514 Aspen Canyon Dr,Katy,TX,77450.0,20514 Aspen Canyon Dr,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+11,11,11,11,John,Weatherly,Angela,Weatherly,40.0,Christine Hickenlooper,Steven Hickenlooper,,,,,,,6202 Canyon Trace Ct,Katy,TX,77450.0,6202 Canyon Trace Ct,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+12,12,12,12,Barbara,Sanchez,Manuel,Sanchez,27.0,Othmaro Beltran,,281-646-7949,,,,,,6218 Canyon Trace Ct,Katy,TX,77450.0,6218 Canyon Trace Ct,Katy,TX,,3.0,2.0,2444.0,1998.0,CanyonGateCincoRanch
+13,13,13,13,Sylvester,Onwas,,,41.0,Bangping Wang,,713-885-5056,281-676-8808,,,,,6511 Grand Canyon Gate Dr,Katy,TX,77450.0,6511 Grand Canyon Gate Dr,Katy,TX,,4.0,2.0,2010.0,1999.0,CanyonGateCincoRanch
+14,14,14,14,Shaoquing,Huang,Xiaohong,Liu,9.0,Martha Berryman,,832-321-4891,281-944-9938,,,,,20339 Memorial Pass Dr,Katy,TX,77450.0,20334 Memorial Darr Dr,Katy,TX,,4.0,2.0,2253.0,1999.0,CanyonGateCincoRanch
+15,15,15,15,Juan Manuel,Prieto,,,3.0,Victor Chan,,832-455-6566,,,,,,20211 Canyon Ridge Ct,Katy,TX,77450.0,20211 Canyon Ridge Ct,Katy,TX,,4.0,2.0,2189.0,1998.0,CanyonGateCincoRanch
+16,16,16,16,Vibeke,Vadstein,,,32.0,Thomas Jones,,832-801-6734,281-832-4942,972-814-1273,469-316-3132,832-721-0904,,20203 Canyon Ridge Ct,Katy,TX,77450.0,20203 Canyon Ridge Ct,Katy,TX,,4.0,3.0,2455.0,1999.0,CanyonGateCincoRanch
+17,17,17,17,Buu,Le Tran,Linh,Tran,64.0,Ismaeel Khajeh,Rebecca Khajeh,281-725-2043,281-908-7885,281-829-1795,832-691-5898,832-525-9115,903-926-0017,6538 Emerald Canyon Rd,Katy,TX,77450.0,6538 Emerald Canyon Rd,Katy,TX,,4.0,3.0,2415.0,1999.0,CanyonGateCincoRanch
+18,18,18,18,Daniella,Flinn,Philip,Flinn,56.0,Jianying Qin,,832-830-6637,512-989-7487,,,,,6226 Pebble Canyon Ct,Katy,TX,77450.0,6226 Pebble Canyon Ct,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+19,19,19,19,Ivan,Ray,Melinda,Ray,29.0,Praxedes Victoriano,,832-361-7231,832-567-8663,832-513-8926,,,,6202 Harrison Ct,Katy,TX,77450.0,6202 Harrison Ct,Katy,TX,,4.0,2.0,2368.0,1998.0,CanyonGateCincoRanch
+20,20,20,20,Kenneth,Smith,Aimee,Cantrell,6.0,Huma Raza,Safder Raza,,,,,,,6203 Piedra Negras Ct,Katy,TX,77450.0,6203 Piedra Negras Ct,Katy,TX,,4.0,2.0,2253.0,1999.0,CanyonGateCincoRanch
+21,21,21,21,Keller,Heard,Janet,Heard,53.0,Paula Hartley,Ronald Hartley,832-670-6725,,,,,,6207 Santiago Mountain Ct,Katy,TX,77450.0,6207 Santiago Mountain Ct,Katy,TX,,3.0,2.0,2189.0,1998.0,CanyonGateCincoRanch
+22,22,22,22,Jerry,Clanton,Judy,Clanton,60.0,Elvira Laghari,Majid Laghari,,,,,,,20327 Canyon Gate Blvd,Katy,TX,77450.0,20327 Canyon Gate Blvd,Katy,TX,,4.0,2.0,2368.0,1998.0,CanyonGateCincoRanch
+23,23,23,23,Rami,Tadros,Jacqueline,Ghobrial,43.0,Sandra Andress,Robert Andress,281-829-0588,,,,,,20323 Canyon Gate Blvd,Katy,TX,77450.0,20323 Canyon Gate Blvd,Katy,TX,,4.0,3.0,2368.0,1999.0,CanyonGateCincoRanch
+24,24,24,24,Israel,Schultz,,,20.0,Monique Fajardo,,281-546-8299,281-889-4684,,,,,6206 Morgan Canyon Ct,Katy,TX,77450.0,6206 Morgan Canyon Ct,Katy,TX,,4.0,2.0,2451.0,1999.0,CanyonGateCincoRanch
+25,25,25,25,Jamie,Mancuso,,,59.0,Gretchen Stockberger,Thomas Stockberger,832-643-3711,832-407-4564,713-572-5597,713-347-0221,,,20222 Black Canyon Dr,Katy,TX,77450.0,20222 Black Canyon Dr,Katy,TX,,4.0,2.0,2368.0,1999.0,CanyonGateCincoRanch
+26,26,26,26,Oscar,Aguilar,,,29.0,Zachary Browne,Gabrielle Browne,,,,,,,20219 Chelsea Canyon Ct,Katy,TX,77450.0,20219 Chelsea Canyon Ct,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+27,27,27,27,Marvin,Booker,,,38.0,Ena Ceballos,Luis Ceballos,713-607-3094,,,,,,20210 Black Canyon Dr,Katy,TX,77450.0,20210 Black Canyon Dr,Katy,TX,,4.0,2.0,2010.0,1999.0,CanyonGateCincoRanch
+28,28,28,28,Todd,Keel,Sharon,Keel,100.0,Mary Ostien,,832-321-3487,,,,,,19919 Black Canyon Dr,Katy,TX,77450.0,19919 Black Canyon Dr,Katy,TX,,3.0,2.0,2038.0,1999.0,CanyonGateCincoRanch
+29,29,29,29,Devarajan,Chellia,Kalaichelvi,Devarjan,35.0,Brian Gardner,,281-492-6513,,,,,,6211 Santiago Mountain Ct,Katy,TX,77450.0,6211 Santiago Mountain Ct,Katy,TX,,4.0,3.0,2451.0,1999.0,CanyonGateCincoRanch
+30,30,30,30,Steven,Stojack,,,4.0,Maria Regner,,,,,,,,6207 Canyon Top Ct,Katy,TX,77450.0,6207 Canyon Top Ct,Katy,TX,,3.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+31,31,31,31,Steven,Swanson,Elizabeth,Swanson,65.0,Shilpa Shah,Nimish Shah,281-829-9755,,,,,,6219 Santiago Mountain Ct,Katy,TX,77450.0,6219 Santiago Mountain Ct,Katy,TX,,3.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+32,32,32,32,Sharon,Stiewert,,,57.0,Rena Graves,,281-599-1299,713-818-9942,281-579-2277,,,,6230 Morgan Canyon Ct,Katy,TX,77450.0,6230 Morgan Canyon Ct,Katy,TX,,4.0,2.0,2010.0,1999.0,CanyonGateCincoRanch
+33,33,33,33,Annmarie,Van Natter,,,22.0,Yvette Garcia,Vincent Garcia,281-804-1779,832-290-1325,713-518-6773,832-212-9261,,,6214 Morgan Canyon Ct,Katy,TX,77450.0,6214 Morgan Canyon Ct,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+34,34,34,34,Octavio,Lopez-Lopez,Eva,Lopez-Lopez,28.0,Lisa Acevedo,,708-254-6801,708-769-8565,832-420-0486,832-798-4533,623-680-9925,713-462-5027,6223 Piedra Negras Ct,Katy,TX,77450.0,6223 Piedra Negras Ct,Katy,TX,,4.0,3.0,2455.0,1999.0,CanyonGateCincoRanch
+35,35,35,35,Katare,Sridhar,,,23.0,Randal Thom,,281-777-3379,281-827-0398,281-691-4565,281-989-6675,281-398-3065,,6222 Morgan Canyon Ct,Katy,TX,77450.0,4281 Expressway Ln #n3942,Sarasota,FL,,4.0,2.0,2189.0,1998.0,CanyonGateCincoRanch
+36,36,36,36,Shelby,Parker,,,59.0,Deyna Patino,Fransisco Patino,832-370-5295,,,,,,6210 Harrison Ct,Katy,TX,77450.0,6210 Harrison Ct,Katy,TX,,3.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+37,37,37,37,Herman,Meche,Paula,Meche,38.0,Orey Lamai,,,,,,,,6406 Arroyo Hill Ct,Katy,TX,77450.0,6406 Arroyo Hill Ct,Katy,TX,,4.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+38,38,38,38,Delfino,Lopez,Maria,Lopez,42.0,Beatriz Ramirez,,281-676-8647,,,,,,20307 Memorial Pass Dr,Katy,TX,77450.0,20307 Memorial Pass Dr,Katy,TX,,4.0,3.0,2205.0,1999.0,CanyonGateCincoRanch
+39,39,39,39,Rene,Juarez,,,94.0,Adrianne Gibson,Michael Gibson,713-204-1100,713-870-5531,281-391-4597,281-829-9108,,,6219 Canyon Run Ct,Katy,TX,77450.0,6219 Canyon Run Ct,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+40,40,40,40,Todd,Sanders,Kelly,Sanders,42.0,Saba Latif,Anjum Saif,281-965-5899,281-647-6718,,,,,6323 Canyon Chase Dr,Katy,TX,77450.0,6323 Canyon Chase Dr,Katy,TX,,3.0,2.0,2058.0,1999.0,CanyonGateCincoRanch
+41,41,41,41,Marissa,Laygo,Raul,Laygo,25.0,Qian Shen,Ran Tao,281-217-7776,,,,,,6411 Grand Canyon Gate Dr,Katy,TX,77450.0,6411 Grand Canyon Gate Dr,Katy,TX,,3.0,2.0,2050.0,1998.0,CanyonGateCincoRanch
+42,42,42,42,Robert,Wolf,Barbara,Wolf,59.0,Allison Rawls,Tom Rawls,281-944-9007,,,,,,6403 Grand Canyon Gate Dr,Katy,TX,77450.0,6403 Grand Canyon Gate Dr,Katy,TX,,5.0,3.0,2415.0,1999.0,CanyonGateCincoRanch
+43,43,43,43,Homa,Hafizi,,,46.0,Abu Ershad,,832-757-2898,936-223-4539,713-834-5331,832-687-4537,318-439-6316,713-706-3258,6511 Sterling Canyon Dr,Katy,TX,77450.0,6511 Sterling Canyon Dr,Katy,TX,,4.0,2.0,2253.0,1999.0,CanyonGateCincoRanch
+44,44,44,44,Annie,Wang,,,100.0,June Hart,Richard Hart,281-398-7884,,,,,,6515 Sterling Canyon Dr,Katy,TX,77450.0,6515 Sterling Canyon Dr,Katy,TX,,3.0,2.0,2058.0,1999.0,CanyonGateCincoRanch
+45,45,45,45,Ena,Valizadeh,Shani,Valizadeh,27.0,Melissa Young,Sean Young,713-885-3799,832-398-3711,832-289-4123,281-236-3640,281-599-0844,,6542 Emerald Canyon Rd,Katy,TX,77450.0,6542 Emerald Canyon Rd,Katy,TX,,4.0,2.0,2010.0,1998.0,CanyonGateCincoRanch
+46,46,46,46,Gustavo E,Guedez,M,Henriquez,6.0,Anna Bourg,Jason Bourg,,,,,,,6514 Sterling Canyon Dr,Katy,TX,77450.0,6514 Sterling Canyon Dr,Katy,TX,,4.0,2.0,2451.0,1999.0,CanyonGateCincoRanch
+47,47,47,47,Liwei,Guo,,,34.0,Hebe Zepeda,Raul Barrientos,281-717-4728,432-352-8046,832-463-0263,,,,20215 Canyon Ridge Ct,Katy,TX,77450.0,20215 Canyon Ridge Ct,Katy,TX,,4.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+48,48,48,48,Brian,Brown,Vara,Brown,43.0,Rana Issa,Omar Elissa,832-788-7697,832-997-2030,281-248-7244,832-640-1004,,,20302 Verde Canyon Dr,Katy,TX,77450.0,20302 Verde Canyon Dr,Katy,TX,,4.0,2.0,2451.0,1999.0,CanyonGateCincoRanch
+49,49,49,49,Rose,Schmidt,,,38.0,Sheue-Jin Chang,I-Tsun Chang,281-207-6777,,,,,,6503 Emerald Canyon Rd,Katy,TX,77450.0,6503 Emerald Canyon Rd,Katy,TX,,3.0,2.0,2038.0,1998.0,CanyonGateCincoRanch
+50,50,50,50,Mark,Probst,Corees,Probst,46.0,Antoine Ponwaye,Lan Ponwaye,713-391-0490,713-305-0281,713-305-9021,281-492-8263,713-578-5103,,20314 Verde Canyon Dr,Katy,TX,77450.0,20314 Verde Canyon Dr,Katy,TX,,4.0,3.0,2245.0,1998.0,CanyonGateCincoRanch
+51,51,51,51,Billy,Frey,Amanda,Frey,10.0,Greg Sweeney,,281-206-0072,,,,,,6414 Holly Canyon Ct,Katy,TX,77450.0,6414 Holly Canyon Ct,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+52,52,52,52,Eleonora,Slovokhotova,,,100.0,Marc Garza,,832-563-2268,281-829-5788,,,,,6503 Glen Canyon Ct,Katy,TX,77450.0,6503 Glen Canyon Ct,Katy,TX,,4.0,2.0,2451.0,1999.0,CanyonGateCincoRanch
+53,53,53,53,Randall,Nunmaker,Melissa,Nunmaker,54.0,Mehrnaz Pashootanizadeh,Manoucher Khavarian,713-894-7373,713-885-8599,432-352-8046,281-392-7579,,,6510 Kings Summit Dr,Katy,TX,77450.0,6510 Kings Summit Dr,Katy,TX,,4.0,2.0,2010.0,1999.0,CanyonGateCincoRanch
+54,54,54,54,Howard,Vo,,,47.0,Kenneth Barry,,281-944-9041,281-398-6737,,,,,20511 Cajon Canyon Ct,Katy,TX,77450.0,3615 Palmer Ct,Arlington,TX,,4.0,2.0,2368.0,1999.0,CanyonGateCincoRanch
+55,55,55,55,William,Bell,Stephanie,Bell,27.0,Eradi Al,,,,,,,,19818 Big Canyon Dr,Katy,TX,77450.0,19818 Big Canyon Dr,Katy,TX,,3.0,2.0,2058.0,1998.0,CanyonGateCincoRanch
+56,56,56,56,Larry,White,Sharon,White,52.0,Darryl Tracy,David Tracy,,,,,,,19930 Big Canyon Dr,Katy,TX,77450.0,19930 Big Canyon Dr,Katy,TX,,4.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+57,57,57,57,Larissa,Da Costa,,,9.0,Nikolina Bralo,,281-615-5333,281-266-0052,,,,,6303 Bear Canyon Ct,Katy,TX,77450.0,6303 Bear Canyon Ct,Katy,TX,,4.0,2.0,2216.0,1999.0,CanyonGateCincoRanch
+58,58,58,58,Leidys,Capiro,,,24.0,Kimberly Creekmore,William Witter,,,,,,,6218 Morgan Canyon Ct,Katy,TX,77450.0,6218 Morgan Canyon Ct,Katy,TX,,3.0,2.0,2444.0,1998.0,CanyonGateCincoRanch
+59,59,59,59,Nancy,Decharinte,,,35.0,Koren Burns,,713-962-0262,281-398-4689,281-974-0579,,,,6238 Piedra Negras Ct,Katy,TX,77450.0,6238 Piedra Negras Ct,Katy,TX,,3.0,2.0,1820.0,1998.0,CanyonGateCincoRanch
+60,60,60,60,James,Pongrass,,,57.0,Renee Wharton,,832-332-0344,903-314-6647,713-201-1090,,,,6218 Santiago Mountain Ct,Katy,TX,77450.0,6218 Santiago Mountain Ct,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+61,61,61,61,Renee,Wharton,,,27.0,Gabriela Liseth,Alexey Sebasco-Capiro,,,,,,,19903 Big Canyon Dr,Katy,TX,77450.0,19903 Big Canyon Dr,Katy,TX,,4.0,2.0,2368.0,1999.0,CanyonGateCincoRanch
+62,62,62,62,James,Mckinney,Cynthia,Mckinney,40.0,Patricia Kmiec,Sam Kmiec,281-647-6239,,,,,,19923 Big Canyon Dr,Katy,TX,77450.0,19923 Big Canyon Dr,Katy,TX,,3.0,2.0,2050.0,1999.0,CanyonGateCincoRanch
+63,63,63,63,Keenan,Hickman,Lana,Hickman,25.0,Andrea Casarez,Arnulfo Casarez,281-944-9846,832-567-1398,,,,,6231 Presidio Canyon Dr,Katy,TX,77450.0,6231 Presidio Canyon Dr,Katy,TX,,4.0,3.0,2455.0,1999.0,CanyonGateCincoRanch
+64,64,64,64,Thomas,Jones,,,55.0,Elizabeth Deguzman,Edwin Deguzman,713-410-8014,832-798-3568,713-501-1139,713-412-6184,713-410-5936,281-578-2312,6335 Deep Canyon Dr,Katy,TX,77450.0,26322 Cresent Cove Ln,Katy,TX,,4.0,2.0,2189.0,1998.0,CanyonGateCincoRanch
+65,65,65,65,Baskar,Arumugam,Kavitha,Venu,11.0,Sfr-Hou I Llc,,713-515-7442,415-421-0535,415-590-5555,,,,6306 Piedra Negras Ct,Katy,TX,77450.0,6306 Piedra Negras Ct,Katy,TX,,5.0,2.0,2952.0,1999.0,CanyonGateCincoRanch
+66,66,66,66,Greg,Sweeney,,,37.0,Rhonda Konvicka,Thomas Konvicka,,,,,,,6315 Deep Canyon Dr,Katy,TX,77450.0,6315 Deep Canyon Dr,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+67,67,67,67,James,Branch,Barbara,Branch,0.0,Supriya Anand,,832-630-8996,832-335-6922,832-814-5836,832-814-5904,,,6210 Canyon Run Ct,Katy,TX,77450.0,6210 Canyon Run Ct,Katy,TX,,4.0,2.0,2934.0,1999.0,CanyonGateCincoRanch
+68,68,68,68,Mahmoud,Sleiman,Lisa,Sleiman,72.0,Cheryl Newberry,Michael Newberry,281-492-2472,,,,,,6214 Canyon Run Ct,Katy,TX,77450.0,6214 Canyon Run Ct,Katy,TX,,3.0,2.0,2674.0,1998.0,CanyonGateCincoRanch
+69,69,69,69,Sandra,Woodbury,,,1.0,Sherry Weissman,,713-598-0119,713-598-1178,281-579-6673,,,,20414 Verde Canyon Dr,Katy,TX,77450.0,20414 Verde Canyon Dr,Katy,TX,,4.0,2.0,2010.0,1999.0,CanyonGateCincoRanch
+70,70,70,70,Luis,Salazar,,,20.0,Osarugue Orumwense,Osaretin Orumwense,281-492-2480,504-887-8003,,,,,6410 Grand Canyon Gate Dr,Katy,TX,77450.0,6410 Grand Canyon Gate Dr,Katy,TX,,4.0,3.0,2245.0,1999.0,CanyonGateCincoRanch
+71,71,71,71,Debra,Bearam,Johnny,Hopkinson,7.0,Sue Haas,Steven Haas,832-472-3677,281-578-8606,,,,,6310 Briar Canyon Ct,Katy,TX,77450.0,6310 Briar Canyon Ct,Katy,TX,,4.0,2.0,2189.0,1999.0,CanyonGateCincoRanch
+72,72,72,72,Jihad,Bazzi,,,52.0,Larissa Da Costa,,281-750-6151,303-525-7075,,,,,6518 Emerald Canyon Rd,Katy,TX,77450.0,6518 Emerald Canyon Rd,Katy,TX,,4.0,2.0,2451.0,1999.0,CanyonGateCincoRanch
+73,73,73,73,Jonathan,Hallaway,Xenia,Hallaway,53.0,Gredis Brady,,832-465-2883,,,,,,6527 Emerald Canyon Rd,Katy,TX,77450.0,6527 Emerald Canyon Rd,Katy,TX,,4.0,2.0,2216.0,1999.0,CanyonGateCincoRanch
+74,74,74,74,Cristina,Paolicchi,,,59.0,Trung Tran,,,,,,,,20207 Canyon Ridge Ct,Katy,TX,77450.0,20207 Canyon Ridge Ct,Katy,TX,,3.0,2.0,2368.0,1998.0,CanyonGateCincoRanch
+75,75,75,75,Heidi,Negron,,,40.0,Shani Valizadeh,Ena Valizadeh,713-501-1502,,,,,,6506 Kings Summit Dr,Katy,TX,77450.0,6506 Kings Summit Dr,Katy,TX,,3.0,2.0,2036.0,1999.0,CanyonGateCincoRanch
+76,76,76,76,Hanna,Francis,,,49.0,Simon Serge,Simon Rouhana,832-692-4471,832-704-6095,281-773-1000,713-443-4100,281-989-0877,,6302 Canyon Park Dr,Katy,TX,77450.0,6302 Canyon Park Dr,Katy,TX,,3.0,2.0,2036.0,1998.0,CanyonGateCincoRanch
+77,77,77,77,David,Linscott,Christina,Linscott,61.0,Cynthia Ramirez,Oscar Ramirez,281-646-8222,,,,,,20306 Verde Canyon Dr,Katy,TX,77450.0,20306 Verde Canyon Dr,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+78,78,78,78,Emelike,Murphy,,,29.0,Yuguang Zhang,,281-757-7793,,,,,,6518 Kings Summit Dr,Katy,TX,77450.0,6518 Kings Summit Dr,Katy,TX,,3.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+79,79,79,79,Sandra,Jacobson,,,35.0,Eleonora Slovokhotova,,281-236-3018,,,,,,20403 Cajon Canyon Ct,Katy,TX,77450.0,20403 Cajon Canyon Ct,Katy,TX,,3.0,2.0,2058.0,1998.0,CanyonGateCincoRanch
+80,80,80,80,Othmaro,Beltran,,,35.0,Martha Mahaffey,,281-578-6552,,,,,,6339 Deep Canyon Dr,Katy,TX,77450.0,6339 Deep Canyon Dr,Katy,TX,,3.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+81,81,81,81,Ran,Tao,Qian,Shen,100.0,Neely Cupit,,281-599-8225,,,,,,6322 Bear Canyon Ct,Katy,TX,77450.0,4503 Creek Point Ln,Missouri City,TX,,4.0,2.0,2934.0,1998.0,CanyonGateCincoRanch
+82,82,82,82,Luisa,Pabon,,,0.0,Sharon Keel,Todd Keel,281-960-6374,,,,,,6235 Pebble Canyon Ct,Katy,TX,77450.0,6235 Pebble Canyon Ct,Katy,TX,,3.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+83,83,83,83,Cesar,Ayala,Rebecca,Ayala,48.0,Angela Kendrick,Giancarlo Mitterhofer,832-659-9997,,,,,,20215 Chelsea Canyon Ct,Katy,TX,77450.0,20215 Chelsea Canyon Ct,Katy,TX,,4.0,2.0,2444.0,1999.0,CanyonGateCincoRanch
+84,84,84,84,Michael,Kallmeyer,Rhonda,Kallmeyer,41.0,Amanda Vanegas,Enrick Briceno,713-530-9148,281-492-1470,,,,,20615 Aspen Canyon Dr,Katy,TX,77450.0,20615 Aspen Canyon Dr,Katy,TX,,3.0,2.0,2453.0,1999.0,CanyonGateCincoRanch
+85,85,85,85,Elaine,Starling-Small,,,43.0,Thomas Amoo,,281-492-7408,,,,,,20318 Memorial Pass Dr,Katy,TX,77450.0,20318 Memorial Pass Dr,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+86,86,86,86,Linda,Russell,Johnny,Russell,44.0,Linda Ward,,832-443-8247,713-828-2879,,,,,20231 Memorial Pass Dr,Katy,TX,77450.0,20231 Memorial Pass Dr,Katy,TX,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+87,87,87,87,Basil,Ekpeti,Tam,Ekpeti,49.0,Imelda Moreno,Consepcion Moreno,832-693-6645,,,,,,6243 Presidio Canyon Dr,Katy,TX,77450.0,6243 Presidio Canyon Dr,Katy,TX,,3.0,2.0,2380.0,1999.0,CanyonGateCincoRanch
+88,88,88,88,William,Witter,Kimberly,Creekmore,27.0,Sariva Golubic,Craig Golubic,281-398-2679,,,,,,6314 Bear Canyon Ct,Katy,TX,77450.0,6314 Bear Canyon Ct,Katy,TX,,4.0,2.0,2216.0,1998.0,CanyonGateCincoRanch
+89,89,89,89,,,,,11.0,Anna Lotti,Thomas Lotti,713-838-5014,281-578-2792,832-216-7798,832-216-7782,281-961-0892,,6314 Tall Canyon Ct,Katy,TX,77450.0,25731 Chapman Falls Dr,Richmond,TX,,3.0,2.0,2036.0,1999.0,CanyonGateCincoRanch
+90,90,90,90,Chima,Okorie,,,69.0,John Hulse,,,,,,,,19814 Big Canyon Dr,Katy,TX,77450.0,19814 Big Canyon Dr,Katy,TX,,4.0,2.0,2216.0,1999.0,CanyonGateCincoRanch
+91,91,91,91,Luis,Castaneda,Esther,Castaneda,37.0,Amos Reed,,281-578-5969,,,,,,6210 Canyon Trace Ct,Katy,TX,77450.0,6210 Canyon Trace Ct,Katy,TX,,4.0,2.0,2253.0,1998.0,CanyonGateCincoRanch
+92,92,92,92,Jing,Li,,,47.0,Elizabeth Trejo,David Fichera,409-549-1707,409-293-6924,,,,,6227 Pebble Canyon Ct,Katy,TX,77450.0,6227 Pebble Canyon Ct,Katy,TX,,4.0,2.0,2010.0,1998.0,CanyonGateCincoRanch
+93,93,93,93,Enrique,Salguero,Carmen,Salguero,26.0,Cynthia Mckinney,James Mckinney,281-676-4621,281-829-0952,,,,,20207 Chelsea Canyon Ct,Katy,TX,77450.0,20207 Chelsea Canyon Ct,Katy,TX,,3.0,2.0,2674.0,1998.0,CanyonGateCincoRanch
+94,94,94,94,George,Duggan,Donna,Duggan,38.0,David Cazarez,,832-444-5375,281-599-9654,,,,,6203 Morgan Canyon Ct,Katy,TX,77450.0,6203 Morgan Canyon Ct,Katy,TX,,3.0,2.0,2734.0,1999.0,CanyonGateCincoRanch
+95,95,95,95,Thomas,Finnis,Sacha Rae,Finnis,100.0,Kathryn Couch,,281-398-4536,903-997-2268,,,,,6518 Sterling Canyon Dr,Katy,TX,77450.0,6518 Sterling Canyon Dr,Katy,TX,,4.0,2.0,2368.0,1998.0,CanyonGateCincoRanch
+96,96,96,96,Sam,Kmiec,Patricia,Kmiec,100.0,Karen Serpa,John Serpa,832-971-6303,,,,,,6306 Deep Canyon Dr,Katy,TX,77450.0,6306 Deep Canyon Dr,Katy,TX,,4.0,2.0,2934.0,1999.0,CanyonGateCincoRanch
+97,97,97,97,Frederick,Hodges,Alta,Hodges,32.0,Kimberly Seale,Randall Seale,985-285-4409,985-285-9445,281-676-8207,,,,6302 Briar Canyon Ct,Katy,TX,77450.0,6302 Briar Canyon Ct,Katy,TX,,4.0,2.0,2934.0,1999.0,CanyonGateCincoRanch
+98,98,98,98,Saidrasul,Bakiev,,,18.0,Ji Li,,210-216-8095,,,,,,20514 Cajon Canyon Ct,Katy,TX,77450.0,20514 Cajon Canyon Ct,Katy,TX,,4.0,2.0,2216.0,1999.0,CanyonGateCincoRanch
+99,99,99,99,Fatimah,Zahid,,,37.0,Kelly Bregenzer,,281-398-2799,903-890-8408,,,,,6206 Canyon Trace Ct,Katy,TX,77450.0,6206 Canyon Trace Ct,Katy,TX,,3.0,2.0,2734.0,1999.0,CanyonGateCincoRanch
+100,100,100,100,Hacer,Gokdemir,Metin,Oktay,53.0,Jinyu Chen,Matthew Liu,832-533-0869,281-253-7931,,,,,20502 Verde Canyon Dr,Katy,TX,77450.0,20502 Verde Canyon Dr,Katy,TX,,3.0,2.0,2036.0,1998.0,CanyonGateCincoRanch
+101,101,101,101,Roberto,Torres,,,59.0,Peggy Pearl,Jared Pearl,281-636-9284,,,,,,20423 Verde Canyon Dr,Katy,TX,77450.0,20423 Verde Canyon Dr,Katy,TX,,4.0,2.0,2934.0,1999.0,CanyonGateCincoRanch
+102,102,102,102,Steven,Nowak,,,27.0,Nerio Rodriguez,,713-480-3768,281-829-3628,832-277-7615,281-392-0986,,,6534 Emerald Canyon Rd,Katy,TX,77450.0,6534 Emerald Canyon Rd,Katy,TX,,4.0,2.0,2189.0,1998.0,CanyonGateCincoRanch
+103,103,103,103,Shamim,Choudhury,Tajin,Choudhury,36.0,Gwendolyn Mcglory,,,,,,,,20507 Cajon Canyon Ct,Katy,TX,77450.0,20507 Cajon Canyon Ct,Katy,TX,,3.0,2.0,1842.0,1999.0,CanyonGateCincoRanch
+104,104,104,104,Mauricio,Estrada,,,22.0,Rebecca Lankowski,Richard Lankowski,832-215-4408,281-676-8874,281-960-0996,,,,6215 Piedra Negras Ct,Katy,TX,77450.0,6215 Piedra Negras Ct,Katy,TX,,3.0,2.0,1842.0,1999.0,CanyonGateCincoRanch
+105,105,105,105,Shaun,Pao,,,100.0,Sharon White,Larry White,281-599-0337,,,,,,20215 Black Canyon Dr,Katy,TX,77450.0,20215 Black Canyon Dr,Katy,TX,,3.0,2.0,1856.0,1999.0,CanyonGateCincoRanch
+106,106,106,106,Nathan,Dietsch,Mary,Dietsch,41.0,Noushin Yousefi,Mortaza Divkolai,,,,,,,6226 Morgan Canyon Ct,Katy,TX,77450.0,4522 Gainsborough Dr,Brookshire,TX,,3.0,2.0,2164.0,1998.0,CanyonGateCincoRanch
+107,107,107,107,Justin,Pham,Jenny,Nguyen,100.0,Lourdes Magsino,Dario Magsino,713-818-8632,713-818-8631,281-398-2891,832-818-1995,832-704-0702,,6410 Arroyo Hill Ct,Katy,TX,77450.0,6410 Arroyo Hill Ct,Katy,TX,,3.0,2.0,2444.0,1998.0,CanyonGateCincoRanch
+108,108,108,108,Susan,Simmons,,,57.0,Amh 2014-1 Borrower Llc,,281-829-2863,,,,,,20327 Memorial Pass Dr,Katy,TX,77450.0,20327 Memorial Pass Dr,Katy,TX,,4.0,2.0,2934.0,1999.0,CanyonGateCincoRanch
+109,109,109,109,Richard,Guilbeau,Renee,Guilbeau,59.0,Paige Lee,Jesse Lee,979-966-2361,,,,,,20614 Aspen Canyon Dr,Katy,TX,77450.0,20614 Aspen Canyon Dr,Katy,TX,,3.0,2.0,1856.0,1999.0,CanyonGateCincoRanch
+110,110,110,110,William,Bird,Amy,Bird,5.0,Fahimeh Espari,,832-622-5726,409-764-3960,,,,,6219 Canyon Trace Ct,Katy,TX,77450.0,6219 Canyon Trace Ct,Katy,TX,,4.0,2.0,2934.0,1999.0,CanyonGateCincoRanch
+111,111,111,111,Domingo,Martinez,Martha,Garcia,100.0,Hemati Family Trust,,281-781-5274,832-659-3591,832-451-6316,832-974-3426,832-660-8216,,6406 Grand Canyon Gate Dr,Katy,TX,77450.0,6406 Grand Canyon Gate Dr,Katy,TX,,3.0,2.0,2169.0,1999.0,CanyonGateCincoRanch
+112,112,112,112,Ajay,Rohatgi,Neelam,Rohatgi,47.0,Olivia Baig,Mirza Baig,713-826-1217,281-676-8577,,,,,6502 Mesa Canyon Ct,Katy,TX,77450.0,6502 Mesa Canyon Ct,Katy,TX,,3.0,2.0,2674.0,1999.0,CanyonGateCincoRanch
+113,113,113,113,Gregory,Scholl,Jennifer,Scholl,29.0,Montira Kuszli,Georg Kuszli,724-834-4642,,,,,,6511 Emerald Canyon Rd,Katy,TX,77450.0,6511 Emerald Canyon Rd,Katy,TX,,4.0,2.0,2840.0,1999.0,CanyonGateCincoRanch
+114,114,114,114,Randal,Thom,,,47.0,Peter Barlow,,281-492-2002,,,,,,19831 Black Canyon Dr,Katy,TX,77450.0,19831 Black Canyon Dr,Katy,TX,,4.0,3.0,2705.0,1998.0,CanyonGateCincoRanch
+115,115,115,115,Randle,Davis,Courtney,Davis,5.0,Jose Sanchez,Kimberly Sanchez,,,,,,,6231 Jacob Canyon Dr,Katy,TX,77450.0,6231 Jacob Canyon Dr,Katy,TX,,3.0,2.0,2172.0,2002.0,CanyonGateCincoRanch
+116,116,116,116,Chasity,Wilson,,,36.0,Donna Armand,,281-829-2991,,,,,,20035 Black Canyon Dr,Katy,TX,77450.0,20035 Black Canyon Dr,Katy,TX,,4.0,2.0,2216.0,1999.0,CanyonGateCincoRanch
+117,117,117,117,Candice,Braud,,,77.0,Gary Hale,,281-944-9439,,,,,,20043 Black Canyon Dr,Katy,TX,77450.0,20043 Black Canyon Dr,Katy,TX,,3.0,2.0,2380.0,1999.0,CanyonGateCincoRanch
+118,118,118,118,Neely,Cupit,,,50.0,Joshua Connor,,281-961-0544,,,,,,19915 Big Canyon Dr,Katy,TX,77450.0,19915 Big Canyon Dr,Katy,TX,,3.0,2.0,2448.0,1999.0,CanyonGateCincoRanch
+119,119,119,119,Hua,Liu,,,45.0,Tushar Patel,,713-626-4062,,,,,,6218 Presidio Canyon Dr,Katy,TX,77450.0,3909 Skinner Ln,Richmond,TX,,3.0,2.0,2364.0,2000.0,CanyonGateCincoRanch
+120,120,120,120,Richard,Lankowski,Rebecca,Lankowski,6.0,Dinah Whitaker,David Whitaker,281-646-7001,281-538-6424,817-829-9738,,,,6307 Tall Canyon Ct,Katy,TX,77450.0,6307 Tall Canyon Ct,Katy,TX,,3.0,2.0,1842.0,1999.0,CanyonGateCincoRanch
+121,121,121,121,Bryon,Fields,Jennifer,Fields,45.0,Sonia Sharma,Mohanish Shivale,,,,,,,6214 Jacob Canyon Dr,Katy,TX,77450.0,6214 Jacob Canyon Dr,Katy,TX,,3.0,2.0,2434.0,1998.0,CanyonGateCincoRanch
+122,122,122,122,Linda,Hassan,Sleiman,Hassan,43.0,Fiona Setna,Rustom Setna,281-647-6147,832-466-6761,,,,,20103 Black Canyon Dr,Katy,TX,77450.0,20103 Black Canyon Dr,Katy,TX,,4.0,2.0,2840.0,1998.0,CanyonGateCincoRanch
+123,123,123,123,Rebecca,Hassel,,,30.0,Vineeta Sinha,Sunil Sinha,832-518-6389,281-289-7772,,,,,20243 Chelsea Canyon Ct,Katy,TX,77450.0,20243 Chelsea Canyon Ct,Katy,TX,,3.0,2.0,2380.0,1999.0,CanyonGateCincoRanch
+124,124,124,124,Paul,Davis,Sarah,Davis,44.0,Chi Tran,Marites Wilcox,817-781-5337,281-760-8140,281-760-9290,281-543-3315,281-647-8812,281-647-9437,20019 Black Canyon Dr,Katy,TX,77450.0,20019 Black Canyon Dr,Katy,TX,,4.0,2.0,3157.0,2000.0,CanyonGateCincoRanch
+125,125,125,125,Kelly,Bregenzer,,,34.0,Brian Christopher,Ania Jerrels,,,,,,,6311 Tall Canyon Ct,Katy,TX,77450.0,6311 Tall Canyon Ct,Katy,TX,,4.0,2.0,2840.0,1998.0,CanyonGateCincoRanch
+126,126,126,126,Brook,Matthews,Becky,Matthews,42.0,Cleonice Thompson,Stephen Thompson,281-578-2422,,,,,,6234 Presidio Canyon Dr,Katy,TX,77450.0,6234 Presidio Canyon Dr,Katy,TX,,3.0,2.0,2438.0,1999.0,CanyonGateCincoRanch
+127,127,127,127,Michael,Johnson,Denise,Johnson,50.0,Cynthia Melendez,Jose Melendez,832-321-4903,832-477-1034,,,,,6230 Clear Canyon Dr,Katy,TX,77450.0,6230 Clear Canyon Dr,Katy,TX,,4.0,2.0,2840.0,1999.0,CanyonGateCincoRanch
+128,128,128,128,Jean,Moreau,Dixie,Moreau,35.0,Sarah Davis,Paul Davis,281-578-5488,,,,,,6218 Quentin Canyon Ct,Katy,TX,77450.0,6218 Quentin Canyon Ct,Katy,TX,,4.0,2.0,2603.0,1999.0,CanyonGateCincoRanch
+129,129,129,129,Shelly,Grimm,,,62.0,Manoj Gupta,,,,,,,,6259 Clear Canyon Dr,Katy,TX,77450.0,6259 Clear Canyon Dr,Katy,TX,,3.0,2.0,1957.0,2000.0,CanyonGateCincoRanch
+130,130,130,130,Dzung,Nguyen,,,49.0,Shannon Roberts,,,,,,,,6226 Presidio Canyon Dr,Katy,TX,77450.0,6226 Presidio Canyon Dr,Katy,TX,,4.0,2.0,2603.0,2000.0,CanyonGateCincoRanch
+131,131,131,131,Ronald,Duncan,Tara,Benedetto-Duncan,6.0,Kevin Thomas,,281-224-7424,,,,,,6234 Clear Canyon Dr,Katy,TX,77450.0,6234 Clear Canyon Dr,Katy,TX,,4.0,2.0,2682.0,1999.0,CanyonGateCincoRanch
+132,132,132,132,Syed,Ahmed,,,50.0,Sara Maccagnan,Sergio Maccagnan,281-829-5789,,,,,,6214 Clear Canyon Dr,Katy,TX,77450.0,6214 Clear Canyon Dr,Katy,TX,,4.0,2.0,3102.0,1999.0,CanyonGateCincoRanch
+133,133,133,133,Robert,Brown,Angela,Brown,33.0,Mary Carmona,Albert Carmona,832-348-9821,512-571-8885,,,,,6218 Jacob Canyon Dr,Katy,TX,77450.0,6218 Jacob Canyon Dr,Katy,TX,,4.0,2.0,2603.0,1999.0,CanyonGateCincoRanch
+134,134,134,134,William,Long,Penny,Long,61.0,Karen Dodd,,713-560-1943,713-266-0787,,,,,6239 Presidio Canyon Dr,Katy,TX,77450.0,6239 Presidio Canyon Dr,Katy,TX,,3.0,2.0,2335.0,1999.0,CanyonGateCincoRanch
+135,135,135,135,Guillermo,Chapellin,Rosita,Chapellin,67.0,Suchitra Denson,Denson Davis,,,,,,,6210 Jacob Canyon Dr,Katy,TX,77450.0,6210 Jacob Canyon Dr,Katy,TX,,4.0,3.0,2705.0,1999.0,CanyonGateCincoRanch
+136,136,136,136,Mohamed,Hassan,Goldie,Hassan,51.0,Marion Zahn2,William Zahn2,281-660-7677,281-910-4851,281-579-1545,405-818-7601,,,6211 Presidio Canyon Dr,Katy,TX,77450.0,6211 Presidio Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+137,137,137,137,Mohanish,Shivale,Sonia,Sharma,100.0,Ahmed Faraz,,832-833-1003,832-654-8741,832-837-9001,281-498-4450,,,20011 Black Canyon Dr,Katy,TX,77450.0,20011 Black Canyon Dr,Katy,TX,,3.0,2.0,2434.0,1999.0,CanyonGateCincoRanch
+138,138,138,138,Lisa,Acevedo,,,25.0,Chasity Wilson,,713-291-1279,713-819-2469,832-349-8065,,,,19823 Big Canyon Dr,Katy,TX,77450.0,19823 Big Canyon Dr,Katy,TX,,3.0,2.0,1957.0,2001.0,CanyonGateCincoRanch
+139,139,139,139,Mary,Ostien,,,67.0,Diane Anselmo,Mark Anselmo,281-829-5870,,,,,,19815 Big Canyon Dr,Katy,TX,77450.0,19815 Big Canyon Dr,Katy,TX,,4.0,2.0,2603.0,2001.0,CanyonGateCincoRanch
+140,140,140,140,Kelley,Alkek,,,100.0,Crystal Kim,Kevin Kim,,,,,,,20521 Verde Canyon Dr,Katy,TX,77450.0,1103 Lake Grayson Dr,Katy,TX,,4.0,2.0,2840.0,1998.0,CanyonGateCincoRanch
+141,141,141,141,Carl,White,Katharine,White,53.0,Guy Mabry,,281-676-8186,,,,,,6323 Piedra Negras Ct,Katy,TX,77450.0,6323 Piedra Negras Ct,Katy,TX,,3.0,2.0,2434.0,2000.0,CanyonGateCincoRanch
+142,142,142,142,Jesse,Lee,Paige,Lee,19.0,Angelyn Atwood,,281-961-1361,,,,,,6322 Tall Canyon Ct,Katy,TX,77450.0,6322 Tall Canyon Ct,Katy,TX,,3.0,2.0,1835.0,2000.0,CanyonGateCincoRanch
+143,143,143,143,Jose,Sosa,Edith,Sosa,41.0,Juan Rodriguez,,832-403-5952,832-758-5333,713-298-3515,281-398-9785,281-398-9784,903-932-7685,6319 Piedra Negras Ct,Katy,TX,77450.0,6319 Piedra Negras Ct,Katy,TX,,4.0,2.0,3153.0,2000.0,CanyonGateCincoRanch
+144,144,144,144,Steven,Gurnell,Catherine,Gurnell,42.0,Edith Sosa,Jose Sosa,281-300-3578,281-829-3643,,,,,6250 Clear Canyon Dr,Katy,TX,77450.0,6250 Clear Canyon Dr,Katy,TX,,4.0,2.0,2603.0,2000.0,CanyonGateCincoRanch
+145,145,145,145,Annie,Wang,,,29.0,Katharine White,Carl White,713-256-9480,281-829-0162,,,,,20218 Black Canyon Dr,Katy,TX,77450.0,20218 Black Canyon Dr,Katy,TX,,3.0,2.0,2448.0,1998.0,CanyonGateCincoRanch
+146,146,146,146,Michael,Newberry,Cheryl,Newberry,55.0,Candice Braud,,281-300-0089,281-647-2833,,,,,19907 Big Canyon Dr,Katy,TX,77450.0,19907 Big Canyon Dr,Katy,TX,,4.0,3.0,2778.0,2001.0,CanyonGateCincoRanch
+147,147,147,147,Anjum,Saif,Saba,Latif,100.0,Juan Rodriguez,,832-403-5952,713-298-3515,832-758-5333,281-398-9785,281-398-9784,404-434-0884,19827 Big Canyon Dr,Katy,TX,77450.0,19827 Big Canyon Dr,Katy,TX,,4.0,2.0,2813.0,2001.0,CanyonGateCincoRanch
+148,148,148,148,Manoucher,Khavarian,Mehrnaz,Pashootanizadeh,100.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,19835 Big Canyon Dr,Katy,TX,77450.0,22514 Rippling Shore Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+149,149,149,149,Jackeline,Herrera,,,39.0,Sleiman Hassan,Linda Hassan,713-240-1651,713-319-7209,832-878-8791,832-878-0762,832-455-5035,,6219 Presidio Canyon Dr,Katy,TX,77450.0,6219 Presidio Canyon Dr,Katy,TX,,4.0,2.0,2840.0,1997.0,CanyonGateCincoRanch
+150,150,150,150,Luis,Ceballos,Ena,Ceballos,29.0,Boughton Trust,,281-599-3111,,,,,,19811 Big Canyon Dr,Katy,TX,77450.0,19811 Big Canyon Dr,Katy,TX,,4.0,3.0,2705.0,2001.0,CanyonGateCincoRanch
+151,151,151,151,Byron,Laing,,,33.0,Kavitha Venu,Baskar Arumugam,303-779-5919,,,,,,20230 Chelsea Canyon Ct,Katy,TX,77450.0,20230 Chelsea Canyon Ct,Katy,TX,,4.0,2.0,1957.0,1998.0,CanyonGateCincoRanch
+152,152,152,152,Kelly,Mannion,,,49.0,Kerry Greenland,Paul Greenland,281-795-0086,281-647-9833,,,,,20203 Chelsea Canyon Ct,Katy,TX,77450.0,20303 Chelsea Canyon Ct,Katy,TX,,4.0,2.0,2115.0,1997.0,CanyonGateCincoRanch
+153,153,153,153,,,,,40.0,Juan Bastardo,,281-796-8483,281-796-8355,281-829-5344,,,,6302 Piedra Negras Ct,Katy,TX,77450.0,6302 Piedra Negras Ct,Katy,TX,,3.0,2.0,2001.0,1998.0,CanyonGateCincoRanch
+154,154,154,154,Jose,Quijano,Gina,Pinero,6.0,Gina Pinero,Jose Quijano,281-579-0771,,,,,,6318 Piedra Negras Ct,Katy,TX,77450.0,6318 Piedra Negras Ct,Katy,TX,,4.0,2.0,2840.0,2000.0,CanyonGateCincoRanch
+155,155,155,155,Naresh,Yadav,Pushpa,Yadav,4.0,Fatima Mirza,Jahan Ghahremanzadeh,832-790-8046,832-321-4618,281-815-3652,,,,20231 Chelsea Canyon Ct,Katy,TX,77450.0,20231 Chelsea Canyon Ct,Katy,TX,,4.0,2.0,2840.0,1998.0,CanyonGateCincoRanch
+156,156,156,156,Juan,Bastardo,,,37.0,Lorie Mott,Joel Mott,713-444-5260,281-787-6075,281-787-6552,281-787-4244,281-944-9184,281-981-6703,6314 Piedra Negras Ct,Katy,TX,77450.0,6314 Piedra Negras Ct,Katy,TX,,4.0,3.0,2705.0,1997.0,CanyonGateCincoRanch
+157,157,157,157,Rafael,Prado,,,100.0,Emily Clay,,,,,,,,19807 Black Canyon Dr,Katy,TX,77450.0,19807 Black Canyon Dr,Katy,TX,,3.0,2.0,1886.0,1997.0,CanyonGateCincoRanch
+158,158,158,158,Mustafa,Erten,,,10.0,Nuria Avila,Manuel Soto,281-450-4921,281-646-8956,,,,,20027 Black Canyon Dr,Katy,TX,77450.0,20027 Black Canyon Dr,Katy,TX,,3.0,2.0,2172.0,1998.0,CanyonGateCincoRanch
+159,159,159,159,David,Carter,Gina,Carter,44.0,Kelly Mannion,,281-961-0652,713-899-5435,,,,,19811 Black Canyon Dr,Katy,TX,77450.0,19811 Black Canyon Dr,Katy,TX,,3.0,2.0,2434.0,1998.0,CanyonGateCincoRanch
+160,160,160,160,Joshua,Connor,,,26.0,Maria De La Garza,,832-321-3029,,,,,,6303 Gabrielle Canyon Ct,Katy,TX,77450.0,6303 Gabrielle Canyon Ct,Katy,TX,,4.0,3.0,2705.0,1998.0,CanyonGateCincoRanch
+161,161,161,161,Marites,Wilcox,Chi,Tran,57.0,Carmen Salguero,Enrique Salguero,281-398-2727,281-696-2584,214-759-6409,,,,6315 Gabrielle Canyon Ct,Katy,TX,77450.0,6315 Gabrielle Canyon Ct,Katy,TX,,4.0,2.0,2682.0,1998.0,CanyonGateCincoRanch
+162,162,162,162,Maria,De La Garza,,,100.0,Rebecca Ayala,Cesar Ayala,973-441-3721,,,,,,20211 Chelsea Canyon Ct,Katy,TX,77450.0,20211 Chelsea Canyon Ct,Katy,TX,,4.0,2.0,2852.0,1998.0,CanyonGateCincoRanch
+163,163,163,163,Neville,Wright,Maria,Wright,51.0,Maria Franco,,832-545-9986,956-525-9516,832-423-9022,,,,6235 Presidio Canyon Dr,Katy,TX,77450.0,6235 Presidio Canyon Dr,Katy,TX,,4.0,2.0,2874.0,1998.0,CanyonGateCincoRanch
+164,164,164,164,Nisreen,Mabrok,,,27.0,Phyllis Timmons,Lynn Timmons,504-682-7664,,,,,,6223 Clear Canyon Dr,Katy,TX,77450.0,6223 Clear Canyon Dr,Katy,TX,,3.0,2.0,2264.0,1997.0,CanyonGateCincoRanch
+165,165,165,165,Justin,Knight,Crystal,Knight,32.0,Oscar Aguilar,,,,,,,,6243 Clear Canyon Dr,Katy,TX,77450.0,6243 Clear Canyon Dr,Katy,TX,,4.0,2.0,2682.0,1998.0,CanyonGateCincoRanch
+166,166,166,166,Mirza,Baig,Olivia,Baig,43.0,Tarek Hayek,,,,,,,,6302 Tall Canyon Ct,Katy,TX,77450.0,6302 Tall Canyon Ct,Katy,TX,,4.0,2.0,3141.0,2001.0,CanyonGateCincoRanch
+167,167,167,167,Barbara,Batis,,,87.0,Linda Worsham,Ronald Worsham,,,,,,,6222 Jacob Canyon Dr,Katy,TX,77450.0,6222 Jacob Canyon Dr,Katy,TX,,3.0,2.0,2434.0,1997.0,CanyonGateCincoRanch
+168,168,168,168,Steven,Sapaugh,Becky,Sapaugh,51.0,Ria Monalisa,Paulus Siboro,832-929-9515,832-403-5690,832-757-7433,713-291-6754,,,6234 Jacob Canyon Dr,Katy,TX,77450.0,6234 Jacob Canyon Dr,Katy,TX,,4.0,2.0,2603.0,2000.0,CanyonGateCincoRanch
+169,169,169,169,Tushar,Patel,,,52.0,Martin Perez,,832-465-2577,832-321-4664,713-592-2094,281-398-2651,,,6307 Gabrielle Canyon Ct,Katy,TX,77450.0,5161 San Felipe St #160,Houston,TX,,4.0,2.0,2840.0,1998.0,CanyonGateCincoRanch
+170,170,170,170,Keith,Dyson,Suzanne,Dyson,36.0,Beverly Musick,Forest Musick,281-398-0944,281-829-1268,,,,,6206 Quentin Canyon Ct,Katy,TX,77450.0,6206 Quentin Canyon Ct,Katy,TX,,3.0,2.0,2071.0,1998.0,CanyonGateCincoRanch
+171,171,171,171,Kyle,Peterson,,,50.0,John Adams,,281-599-0366,,,,,,6203 Presidio Canyon Dr,Katy,TX,77450.0,6203 Presidio Canyon Dr,Katy,TX,,4.0,2.0,2682.0,1998.0,CanyonGateCincoRanch
+172,172,172,172,Gwendolyn,Mcglory,,,45.0,Asif Minhas,,,,,,,,19931 Black Canyon Dr,Katy,TX,77450.0,19931 Black Canyon Dr,Katy,TX,,4.0,2.0,2603.0,1999.0,CanyonGateCincoRanch
+173,173,173,173,Geoffrey,Singer,Jodie,Singer,20.0,Byron Laing,,832-330-5320,281-646-7016,281-546-7868,,,,20230 Black Canyon Dr,Katy,TX,77450.0,20230 Black Canyon Dr,Katy,TX,,4.0,2.0,3262.0,1998.0,CanyonGateCincoRanch
+174,174,174,174,Paulus,Siboro,,,26.0,Marvin Booker,,832-578-3421,832-740-8593,713-478-5266,281-961-9431,832-578-2631,,20127 Black Canyon Dr,Katy,TX,77450.0,20127 Black Canyon Dr,Katy,TX,,4.0,2.0,3141.0,2001.0,CanyonGateCincoRanch
+175,175,175,175,James,Ray,Sherry,Ray,5.0,Mara Kemp,Troy Kemp,409-543-7438,,,,,,6230 Presidio Canyon Dr,Katy,TX,77450.0,6230 Presidio Canyon Dr,Katy,TX,,3.0,2.0,2364.0,1998.0,CanyonGateCincoRanch
+176,176,176,176,Trung,Nguyen,Thi,Lan,56.0,Pushpa Yadav,Naresh Yadav,281-599-1646,,,,,,20335 Memorial Pass Dr,Katy,TX,77450.0,20335 Memorial Pass Dr,Katy,TX,,3.0,2.0,2448.0,1998.0,CanyonGateCincoRanch
+177,177,177,177,William,Davidson,Yen,An-Huei,43.0,Patricia Dean,Coy Dean,281-701-5728,832-314-8529,281-578-0016,713-501-5008,713-478-2778,832-766-2618,6242 Piedra Negras Ct,Katy,TX,77450.0,6242 Piedra Negras Ct,Katy,TX,,4.0,2.0,2840.0,1998.0,CanyonGateCincoRanch
+178,178,178,178,Hongnan,Cao,Fei,Bai,41.0,Leticia Gatus,Andrew Gatus,,,,,,,6210 Santiago Mountain Ct,Katy,TX,77450.0,6210 Santiago Mountain Ct,Katy,TX,,3.0,2.0,1957.0,1998.0,CanyonGateCincoRanch
+179,179,179,179,Omar,Rabii,,,48.0,Sijia Yu,Qi Zhang,,,,,,,20414 Cajon Canyon Ct,Katy,TX,77450.0,20414 Cajon Canyon Ct,Katy,TX,,4.0,2.0,2603.0,1999.0,CanyonGateCincoRanch
+180,180,180,180,Manuel,Soto,Nuria,Avila,69.0,Anita Lal,,832-606-5116,713-357-7728,713-628-5165,281-493-2806,713-383-0241,281-929-3115,20115 Black Canyon Dr,Katy,TX,77450.0,20115 Black Canyon Dr,Katy,TX,,4.0,2.0,2682.0,1998.0,CanyonGateCincoRanch
+181,181,181,181,Safder,Raza,Huma,Raza,7.0,Boqian Peter,Annie Wang,832-875-2964,832-638-8521,281-902-6533,281-236-7992,281-599-8803,713-347-0305,6322 Deep Canyon Dr,Katy,TX,77450.0,6322 Deep Canyon Dr,Katy,TX,,3.0,2.0,2448.0,1998.0,CanyonGateCincoRanch
+182,182,182,182,Angela,Martinez,,,47.0,Shaun Pao,,832-512-9075,,,,,,20533 Verde Canyon Dr,Katy,TX,77450.0,20533 Verde Canyon Dr,Katy,TX,,3.0,2.0,1957.0,2001.0,CanyonGateCincoRanch
+183,183,183,183,Michael,Cook,Muthoni,Cook,2.0,Jennifer Siragusa,Stacey Siragusa,281-772-8415,,,,,,6406 Canyon Park Dr,Katy,TX,77450.0,24826 Trailstone Ct,Katy,TX,,4.0,2.0,2840.0,1998.0,CanyonGateCincoRanch
+184,184,184,184,Qasim,Aziz,Maryam,Aziz,26.0,Jamie Mancuso,,281-704-7450,281-704-6130,832-321-4113,281-961-0579,,,20522 Walnut Canyon Dr,Katy,TX,77450.0,20522 Walnut Canyon Dr,Katy,TX,,4.0,2.0,2682.0,1998.0,CanyonGateCincoRanch
+185,185,185,185,Linh,Doan-Mier,,,46.0,Walter Fulvio,Luz Silva,832-913-6793,832-321-5774,281-599-9946,281-599-9950,,,6407 Bryce Canyon Dr,Katy,TX,77450.0,6407 Bryce Canyon Dr,Katy,TX,,4.0,3.0,2705.0,2001.0,CanyonGateCincoRanch
+186,186,186,186,Robert,Markiton,Audrey,Markiton,44.0,Rebecca Hassel,,,,,,,,6407 Arroyo Hill Ct,Katy,TX,77450.0,6407 Arroyo Hill Ct,Katy,TX,,4.0,2.0,2434.0,1998.0,CanyonGateCincoRanch
+187,187,187,187,Ihsan,Zaghmouth,Jamal,Zaghmouth,19.0,Hugh Durlam,Diana Durlam,281-413-0617,832-878-7321,281-375-4728,,,,6302 Holly Canyon Ct,Katy,TX,77450.0,6302 Holly Canyon Ct,Katy,TX,,3.0,2.0,2001.0,1998.0,CanyonGateCincoRanch
+188,188,188,188,Domingo,Litong,Rhodora,Litong,42.0,Janet Boucher,Ronald Boucher,832-633-0178,832-858-1465,713-269-7482,832-321-4470,,,6314 Holly Canyon Ct,Katy,TX,77450.0,6314 Holly Canyon Ct,Katy,TX,,3.0,2.0,1750.0,2001.0,CanyonGateCincoRanch
+189,189,189,189,Luai,Salaymeh,,,46.0,Stacee Shavers,,832-382-2657,832-382-2649,832-299-0081,832-299-0082,281-578-0350,832-964-7814,6406 Holly Canyon Ct,Katy,TX,77450.0,6406 Holly Canyon Ct,Katy,TX,,4.0,2.0,2840.0,1999.0,CanyonGateCincoRanch
+190,190,190,190,Thomas,Crossey,Diane,Crossey,51.0,Jodie Singer,Geoffrey Singer,850-346-7982,850-934-1585,513-515-3883,,,,6415 Holly Canyon Ct,Katy,TX,77450.0,6415 Holly Canyon Ct,Katy,TX,,4.0,2.0,2603.0,1999.0,CanyonGateCincoRanch
+191,191,191,191,Jamal,Naseralla,Myra,Naseralla,32.0,S F Mobiliari Llc,,,,,,,,20522 Aspen Canyon Dr,Katy,TX,77450.0,20522 Aspen Canyon Dr,Katy,TX,,4.0,2.0,2682.0,2001.0,CanyonGateCincoRanch
+192,192,192,192,Hoi,Nguyen,Tram-Anh,Huynh,44.0,Hassan Bashagour,,281-398-3076,281-308-3076,,,,,20431 Verde Canyon Dr,Katy,TX,77450.0,20431 Verde Canyon Dr,Katy,TX,,4.0,2.0,3141.0,1998.0,CanyonGateCincoRanch
+193,193,193,193,Olga,Birgy,,,17.0,Beatrice Jaramillo-Wells,John Wells,281-829-0114,281-599-9540,,,,,20523 Cajon Canyon Ct,Katy,TX,77450.0,20523 Cajon Canyon Ct,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+194,194,194,194,Erik,Anderson,Michaela,Butler,30.0,John Ybarra,,281-398-1113,,,,,,20331 Memorial Pass Dr,Katy,TX,77450.0,20331 Memorial Pass Dr,Katy,TX,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+195,195,195,195,David,Flanagan,Teresita,Cabrera,65.0,Suzanne Dyson,Keith Dyson,678-516-3558,281-492-7372,832-741-9129,,,,6522 Emerald Canyon Rd,Katy,TX,77450.0,6522 Emerald Canyon Rd,Katy,TX,,4.0,2.0,3241.0,1998.0,CanyonGateCincoRanch
+196,196,196,196,Truc,Vu,,,68.0,Christianne Ennis,Timothy Ennis,,,,,,,6530 Emerald Canyon Rd,Katy,TX,77450.0,6530 Emerald Canyon Rd,Katy,TX,,4.0,3.0,3476.0,1998.0,CanyonGateCincoRanch
+197,197,197,197,Joseph,Brace,Jacqueline,Ozorio,45.0,Silva Mukhtar,,832-641-4918,832-640-6374,832-774-8473,,,,6410 Canyon Park Dr,Katy,TX,77450.0,6410 Canyon Park Dr,Katy,TX,,4.0,3.0,3494.0,1999.0,CanyonGateCincoRanch
+198,198,198,198,Daryle,Stoneburner,Jill,Stoneburner,32.0,Emily Cortez,Wade Cortez,832-314-7298,713-248-0256,,,,,20311 Memorial Pass Dr,Katy,TX,77450.0,20311 Memorial Pass Dr,Katy,TX,,4.0,2.0,2216.0,1998.0,CanyonGateCincoRanch
+199,199,199,199,Baldomero,Garza,,,100.0,Catherine Gurnell,Steven Gurnell,281-398-9335,,,,,,6502 Sterling Canyon Dr,Katy,TX,77450.0,6502 Sterling Canyon Dr,Katy,TX,,4.0,2.0,3129.0,1999.0,CanyonGateCincoRanch
+200,200,200,200,Christina,Sleeper,Thomas,Sleeper,24.0,Narcelyn Abellera,Deogracias Abellera,281-974-0232,281-599-8659,,,,,6414 Bryce Canyon Dr,Katy,TX,77450.0,6414 Bryce Canyon Dr,Katy,TX,,4.0,2.0,2939.0,1999.0,CanyonGateCincoRanch
+201,201,201,201,Calvin,Hurford,,,43.0,Patricia Masek,Adam Masek,832-321-5491,,,,,,20503 Cajon Canyon Ct,Katy,TX,77450.0,20503 Cajon Canyon Ct,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+202,202,202,202,Rivera,Hayes,Daryl,Gene,22.0,Shelly Grimm,,713-302-9318,281-829-9370,,,,,6306 Canyon Park Dr,Katy,TX,77450.0,6306 Canyon Park Dr,Katy,TX,,4.0,2.0,3225.0,1999.0,CanyonGateCincoRanch
+203,203,203,203,Reyna,Huliganga,,,49.0,Yang Qing,Xu Chunming,832-867-7828,832-867-7888,832-566-3355,,,,6314 Canyon Park Dr,Katy,TX,77450.0,Po Box 881815,San Diego,CA,,3.0,2.0,2036.0,1998.0,CanyonGateCincoRanch
+204,204,204,204,Maria Fe,Aguilar,,,53.0,Barbara Drozd,Richard Drozd,281-684-3811,,,,,,6323 Grand Canyon Gate Dr,Katy,TX,77450.0,6323 Grand Canyon Gate Dr,Katy,TX,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+205,205,205,205,Barbara,Janovsky,,,44.0,Jennifer Evans,Loyd Evans,281-647-9143,,,,,,6515 Emerald Canyon Rd,Katy,TX,77450.0,6515 Emerald Canyon Rd,Katy,TX,,4.0,3.0,2590.0,1999.0,CanyonGateCincoRanch
+206,206,206,206,Bangping,Wang,,,100.0,Sudini Padmasiri,,281-398-5070,,,,,,19823 Black Canyon Dr,Katy,TX,77450.0,19823 Black Canyon Dr,Katy,TX,,4.0,3.0,3362.0,2000.0,CanyonGateCincoRanch
+207,207,207,207,Thomas,Amoo,,,39.0,Eva Lopez-Lopez,Octavio Lopez-Lopez,832-321-5213,,,,,,6307 Clear Canyon Dr,Katy,TX,77450.0,6307 Clear Canyon Dr,Katy,TX,,4.0,2.0,2934.0,1998.0,CanyonGateCincoRanch
+208,208,208,208,Mehrzad,Mehmandoost,,,46.0,Marsha Dufner,Dennis Dufner,832-264-2191,281-398-4804,832-264-1983,,,,6215 Canyon Run Ct,Katy,TX,77450.0,6215 Canyon Run Ct,Katy,TX,,4.0,3.0,3238.0,1999.0,CanyonGateCincoRanch
+209,209,209,209,I-Tsun,Chang,Sheue-Jin,Chang,100.0,Becky Sapaugh,Steven Sapaugh,281-646-0186,,,,,,6331 Clear Canyon Dr,Katy,TX,77450.0,1603 Wallberry Way,Sugar Land,TX,,5.0,3.0,3476.0,2000.0,CanyonGateCincoRanch
+210,210,210,210,Nimish,Shah,Shilpa,Shah,61.0,William England,,281-501-1011,832-359-8609,832-397-9011,,,,6355 Deep Canyon Dr,Katy,TX,77450.0,6355 Deep Canyon Dr,Katy,TX,,4.0,3.0,3238.0,2000.0,CanyonGateCincoRanch
+211,211,211,211,Nikolina,Bralo,,,37.0,Crystal Knight,Justin Knight,713-854-0454,713-377-4865,713-826-9979,,,,19906 Big Canyon Dr,Katy,TX,77450.0,19906 Big Canyon Dr,Katy,TX,,4.0,3.0,3476.0,1998.0,CanyonGateCincoRanch
+212,212,212,212,Juan,Rodriguez,,,100.0,Stuart Robinson,,832-853-0713,,,,,,6255 Piedra Negras Ct,Katy,TX,77450.0,6315 Piedra Negras Ct,Katy,TX,,4.0,2.0,3333.0,2000.0,CanyonGateCincoRanch
+213,213,213,213,Sohail,Soomro,Jaleesa,Soomro,49.0,Chien Vo,Thanh Nguyen,281-961-0259,734-417-1792,,,,,6211 Harrison Ct,Katy,TX,77450.0,6211 Harrison Ct,Katy,TX,,4.0,2.0,2216.0,1998.0,CanyonGateCincoRanch
+214,214,214,214,Paul,Greenland,Kerry,Greenland,50.0,Barbara Batis,,832-321-5747,817-331-4571,,,,,20107 Black Canyon Dr,Katy,TX,77450.0,20107 Black Canyon Dr,Katy,TX,,3.0,2.0,2590.0,1999.0,CanyonGateCincoRanch
+215,215,215,215,Richard,Priest,,,47.0,Geng Rao,,786-325-5949,786-566-3131,281-492-7561,,,,6210 Pebble Canyon Ct,Katy,TX,77450.0,6210 Pebble Canyon Ct,Katy,TX,,3.0,2.0,1948.0,1998.0,CanyonGateCincoRanch
+216,216,216,216,Martha,Mahaffey,,,55.0,Jualinda Armstrong,Jeffrey Armstrong,281-797-6493,,,,,,6326 Clear Canyon Dr,Katy,TX,77450.0,6326 Clear Canyon Dr,Katy,TX,,4.0,2.0,2912.0,1999.0,CanyonGateCincoRanch
+217,217,217,217,Diana,Durlam,Hugh,Durlam,38.0,Angela Brown,Robert Brown,281-829-5615,281-932-4983,,,,,20226 Black Canyon Dr,Katy,TX,77450.0,20226 Black Canyon Dr,Katy,TX,,4.0,3.0,3476.0,1998.0,CanyonGateCincoRanch
+218,218,218,218,Nerio,Rodriguez,,,100.0,Mei Shaq,Yuquan Zheng,281-646-0730,,,,,,6306 Clear Canyon Dr,Katy,TX,77450.0,20730 Park Bend Dr,Katy,TX,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+219,219,219,219,Kshitiz,Nautiyal,Hien,Huynh,4.0,Robyn Landry,,832-755-4014,832-661-2141,832-518-6365,,,,6235 Piedra Negras Ct,Katy,TX,77450.0,6235 Piedra Negras Ct,Katy,TX,,4.0,2.0,2934.0,1998.0,CanyonGateCincoRanch
+220,220,220,220,Nathan,Holub,,,26.0,Tara Benedetto-Duncan,Ronald Duncan,,,,,,,6202 Piedra Negras Ct,Katy,TX,77450.0,6202 Piedra Negras Ct,Katy,TX,,6.0,4.0,3476.0,1999.0,CanyonGateCincoRanch
+221,221,221,221,Angelyn,Atwood,,,60.0,Latrice Adeyinka,,832-465-1285,281-599-0443,281-974-0738,,,,20039 Black Canyon Dr,Katy,TX,77450.0,20039 Black Canyon Dr,Katy,TX,,3.0,2.0,2380.0,1998.0,CanyonGateCincoRanch
+222,222,222,222,Jeffrey,Armstrong,Jualinda,Armstrong,16.0,Wanda Coplin,,281-704-0657,713-564-2403,,,,,6238 Clear Canyon Dr,Katy,TX,77450.0,8907 Cote Ct,Katy,TX,,3.0,2.0,2272.0,2000.0,CanyonGateCincoRanch
+223,223,223,223,Michael,Gibson,Adrianne,Gibson,30.0,Jennifer Fields,Bryon Fields,281-579-6093,281-981-8901,,,,,19803 Big Canyon Dr,Katy,TX,77450.0,19803 Big Canyon Dr,Katy,TX,,4.0,3.0,3209.0,2000.0,CanyonGateCincoRanch
+224,224,224,224,Richard,Drozd,Barbara,Drozd,81.0,Ashish Biyani,,,,,,,,6255 Clear Canyon Dr,Katy,TX,77450.0,6255 Clear Canyon Dr,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+225,225,225,225,Wanda,Coplin,,,100.0,Courtney Davis,Randle Davis,713-367-6199,713-367-8031,,,,,6235 Clear Canyon Dr,Katy,TX,77450.0,6235 Clear Canyon Dr,Katy,TX,,4.0,2.0,2590.0,1999.0,CanyonGateCincoRanch
+226,226,226,226,Sook,Choi,,,100.0,Tonja Moon,Jared Moon,281-732-7450,,,,,,19815 Black Canyon Dr,Katy,TX,77450.0,18423 Windsor Lakes Dr,Houston,TX,,3.0,2.0,2674.0,1998.0,CanyonGateCincoRanch
+227,227,227,227,George,Nwanguma,,,47.0,Denise Johnson,Michael Johnson,832-748-8757,281-794-4639,281-460-2423,,,,6214 Santiago Mountain Ct,Katy,TX,77450.0,6214 Santiago Mountain Ct,Katy,TX,,4.0,2.0,2692.0,1999.0,CanyonGateCincoRanch
+228,228,228,228,James,Bass,,,35.0,Angelina Coco,Salvatore Coco,832-472-4999,281-829-3301,281-658-3223,,,,6210 Morgan Canyon Ct,Katy,TX,77450.0,6210 Morgan Canyon Ct,Katy,TX,,4.0,2.0,2272.0,2000.0,CanyonGateCincoRanch
+229,229,229,229,Wisam,Elhaj,,,39.0,Debra Ilijev,Daniel Ilijev,281-610-5998,281-928-4810,281-610-5840,,,,6211 Canyon Run Ct,Katy,TX,77450.0,6211 Canyon Run Ct,Katy,TX,,4.0,2.0,3064.0,1999.0,CanyonGateCincoRanch
+230,230,230,230,Thanh,Nguyen,Chien,Vo,100.0,Rosita Chapellin,Guillermo Chapellin,713-294-4742,713-344-0500,,,,,6219 Piedra Negras Ct,Katy,TX,77450.0,Po Box 589,Barker,TX,,5.0,3.0,3129.0,2000.0,CanyonGateCincoRanch
+231,231,231,231,Andrew,Harbulak,Angela,Harbulak,5.0,Soghra Zeinali,Arash Firouzi,,,,,,,6203 Pebble Canyon Ct,Katy,TX,77450.0,6203 Pebble Canyon Ct,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+232,232,232,232,Ricardo,Negrin,,,23.0,Donna Brewer,Mark Brewer,281-813-6661,281-647-6668,281-952-3057,,,,6306 Holly Canyon Ct,Katy,TX,77450.0,24939 Green Emerald Ct,Katy,TX,,4.0,2.0,2952.0,1998.0,CanyonGateCincoRanch
+233,233,233,233,Lewis,Muirden,Keri,Muirden,32.0,Nathan Holub,,281-932-4701,,,,,,6407 Canyon Park Dr,Katy,TX,77450.0,6407 Canyon Park Dr,Katy,TX,,3.0,2.0,1856.0,1998.0,CanyonGateCincoRanch
+234,234,234,234,Augustine,Sebastian,,,32.0,Yang Liu,,,,,,,,20511 Walnut Canyon Dr,Katy,TX,77450.0,20511 Walnut Canyon Dr,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+235,235,235,235,Dawn,Folsom,,,20.0,Patricia Hahn,,281-578-0361,,,,,,6303 Bryce Canyon Dr,Katy,TX,77450.0,6303 Bryce Canyon Dr,Katy,TX,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+236,236,236,236,Barton,Price,Heather,Price,30.0,Isidiro Deleon,,281-944-9408,,,,,,6403 Canyon Park Dr,Katy,TX,77450.0,6403 Canyon Park Dr,Katy,TX,,4.0,3.0,3280.0,2000.0,CanyonGateCincoRanch
+237,237,237,237,Chih-Chau,Hwang,Yen,Pei-Wan,30.0,Wendy Ragan,Frank Ragan,281-829-5614,,,,,,6410 Bryce Canyon Dr,Katy,TX,77450.0,6410 Bryce Canyon Dr,Katy,TX,,4.0,2.0,2590.0,1999.0,CanyonGateCincoRanch
+238,238,238,238,Mark,Leopold,,,23.0,Jermone Coggins,,281-660-1409,713-838-5980,281-660-5651,,,,6314 Bryce Canyon Dr,Katy,TX,77450.0,6314 Bryce Canyon Dr,Katy,TX,,5.0,3.0,3476.0,2000.0,CanyonGateCincoRanch
+239,239,239,239,Arnulfo,Casarez,Andrea,Casarez,41.0,Becky Matthews,Brook Matthews,806-928-9141,281-939-8293,,,,,6307 Bear Canyon Ct,Katy,TX,77450.0,6307 Bear Canyon Ct,Katy,TX,,4.0,2.0,2912.0,1999.0,CanyonGateCincoRanch
+240,240,240,240,Steven,Haas,Sue,Haas,58.0,Aimee Cantrell,Kenneth Smith,832-684-3396,,,,,,6302 Deep Canyon Dr,Katy,TX,77450.0,6302 Deep Canyon Dr,Katy,TX,,4.0,3.0,3032.0,1998.0,CanyonGateCincoRanch
+241,241,241,241,Vincent,Garcia,Yvette,Garcia,42.0,Sherry Ray,James Ray,281-513-4014,281-829-3307,,,,,6319 Bear Canyon Ct,Katy,TX,77450.0,6319 Bear Canyon Ct,Katy,TX,,4.0,2.0,2590.0,1999.0,CanyonGateCincoRanch
+242,242,242,242,Steven,Brown,Adele,Brown,58.0,Mary Harrell,Christopher Harrell,281-579-3828,,,,,,6507 Grand Canyon Gate Dr,Katy,TX,77450.0,6507 Grand Canyon Gate Dr,Katy,TX,,4.0,2.0,2272.0,1998.0,CanyonGateCincoRanch
+243,243,243,243,Bryan,Bierstedt,,,26.0,Dzung Nguyen,,832-659-3696,,,,,,6502 Grand Canyon Gate Dr,Katy,TX,77450.0,6502 Grand Canyon Gate Dr,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+244,244,244,244,Robert,Cortez,Gabriele,Cortez,42.0,Nisreen Mabrok,,281-829-5779,281-960-5533,,,,,20418 Verde Canyon Dr,Katy,TX,77450.0,20418 Verde Canyon Dr,Katy,TX,,4.0,3.0,3200.0,2000.0,CanyonGateCincoRanch
+245,245,245,245,Louis,Conner,Edna,Conner,37.0,Hua Liu,,956-564-2543,281-589-2667,,,,,6203 Canyon Run Ct,Katy,TX,77450.0,6203 Canyon Run Ct,Katy,TX,,4.0,2.0,2272.0,1999.0,CanyonGateCincoRanch
+246,246,246,246,Donald,Gibson,Phyllis,Gibson,43.0,Odiri Akushe,,832-888-5713,832-708-5796,281-829-2616,,,,6207 Canyon Run Ct,Katy,TX,77450.0,6207 Canyon Run Ct,Katy,TX,,4.0,3.0,3476.0,1999.0,CanyonGateCincoRanch
+247,247,247,247,Trien,Pham,Hanh,My-Thi,21.0,Nadine Cote,Adrian Cote,281-398-2476,,,,,,6514 Mesa Canyon Ct,Katy,TX,77450.0,6514 Mesa Canyon Ct,Katy,TX,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+248,248,248,248,Maria,Quezada,,,32.0,Muhammad Akhtar,Shazia Akhtar,832-287-1542,713-530-3156,713-534-2901,,,,6503 Mesa Canyon Ct,Katy,TX,77450.0,20330 Memorial Pass Dr,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+249,249,249,249,Umesh,Parwal,Sheetal,Sarda,41.0,Bernardo Nacino,Maria Nacino,832-620-3330,713-584-9733,281-676-4347,,,,6510 Glen Canyon Ct,Katy,TX,77450.0,6510 Glen Canyon Ct,Katy,TX,,4.0,2.0,2590.0,1999.0,CanyonGateCincoRanch
+250,250,250,250,Xiaotong,Qiu,,,52.0,Syed Ahmed,,281-398-8472,281-974-0181,,,,,6518 Glen Canyon Ct,Katy,TX,77450.0,6518 Glen Canyon Ct,Katy,TX,,4.0,2.0,3317.0,1998.0,CanyonGateCincoRanch
+251,251,251,251,Olufolakemi,Akosa-Ofili,,,83.0,Penny Long,William Long,281-961-1252,,,,,,6531 Emerald Canyon Rd,Katy,TX,77450.0,6531 Emerald Canyon Rd,Katy,TX,,4.0,3.0,3238.0,2000.0,CanyonGateCincoRanch
+252,252,252,252,Emad,Turki,Mayson,Jabro,34.0,Maria Wright,Neville Wright,832-704-6439,281-235-9056,281-579-3938,,,,20510 Walnut Canyon Dr,Katy,TX,77450.0,20510 Walnut Canyon Dr,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+253,253,253,253,Michael,Glover,Kim,Glover,44.0,Tam Ekpeti,Basil Ekpeti,713-397-0316,713-397-8619,281-646-0346,,,,6311 Holly Canyon Ct,Katy,TX,77450.0,6311 Holly Canyon Ct,Katy,TX,,4.0,2.0,3076.0,2000.0,CanyonGateCincoRanch
+254,254,254,254,Ricardo,Jimenez,Margarita,Jimenez,32.0,Lana Hickman,Keenan Hickman,281-398-2691,,,,,,6318 Briar Canyon Ct,Katy,TX,77450.0,6318 Briar Canyon Ct,Katy,TX,,4.0,2.0,3321.0,1999.0,CanyonGateCincoRanch
+255,255,255,255,Kimberly,Sanchez,Jose,Sanchez,37.0,La Shavia Palmer,,281-829-7408,713-202-4110,832-967-5008,,,,19947 Big Canyon Dr,Katy,TX,77450.0,19947 Big Canyon Dr,Katy,TX,,5.0,4.0,3494.0,2000.0,CanyonGateCincoRanch
+256,256,256,256,Fransisco,Patino,Deyna,Patino,55.0,Ekta Burman,Kabir Puri,,,,,,,6323 Deep Canyon Dr,Katy,TX,77450.0,6323 Deep Canyon Dr,Katy,TX,,4.0,2.0,2692.0,2000.0,CanyonGateCincoRanch
+257,257,257,257,Ji,Li,,,38.0,Jacob Russell,Teresa Russell,780-276-5000,281-829-6927,713-694-2555,,,,6315 Tall Canyon Ct,Katy,TX,77450.0,5519 Grandwood Ln,Katy,TX,,4.0,2.0,2803.0,1999.0,CanyonGateCincoRanch
+258,258,258,258,Gary,Hale,,,38.0,Jackeline Herrera,,713-703-8983,,,,,,6306 Tall Canyon Ct,Katy,TX,77450.0,4007 Mccullough Ave #269,San Antonio,TX,,4.0,2.0,3064.0,2000.0,CanyonGateCincoRanch
+259,259,259,259,Beatriz,Ramirez,,,26.0,Allison Mcdowell,,281-673-9791,646-209-0650,347-862-8785,,,,19834 Big Canyon Dr,Katy,TX,77450.0,19834 Big Canyon Dr,Katy,TX,,4.0,2.0,2912.0,1999.0,CanyonGateCincoRanch
+260,260,260,260,Rafael,Amezcua,Janeth,Montalvo,28.0,Goldie Hassan,Mohamed Hassan,281-498-0941,281-639-6534,281-492-6657,,,,6331 Bear Canyon Ct,Katy,TX,77450.0,6331 Bear Canyon Ct,Katy,TX,,4.0,3.0,3238.0,1999.0,CanyonGateCincoRanch
+261,261,261,261,Rena,Graves,,,54.0,Darieke Kortmann,,713-582-3741,281-578-0375,,,,,6318 Deep Canyon Dr,Katy,TX,77450.0,6318 Deep Canyon Dr,Katy,TX,,4.0,2.0,2908.0,2000.0,CanyonGateCincoRanch
+262,262,262,262,Melanie,Lim,,,41.0,C & M Byrd Properties Llc,,832-321-4927,281-829-9718,281-932-3799,,,,6330 Deep Canyon Dr,Katy,TX,77450.0,6330 Deep Canyon Dr,Katy,TX,,4.0,2.0,2678.0,1999.0,CanyonGateCincoRanch
+263,263,263,263,Enrick,Briceno,Amanda,Vanegas,59.0,Kyle Peterson,,281-705-2951,832-495-7735,281-827-7028,,,,19918 Big Canyon Dr,Katy,TX,77450.0,19918 Big Canyon Dr,Katy,TX,,4.0,2.0,3068.0,1999.0,CanyonGateCincoRanch
+264,264,264,264,Eleonora,Slovokhotova,,,100.0,Shani Valizadeh,Ena Valizadeh,713-882-6682,,,,,,6311 Clear Canyon Dr,Katy,TX,77450.0,6311 Clear Canyon Dr,Katy,TX,,4.0,3.0,3362.0,1999.0,CanyonGateCincoRanch
+265,265,265,265,Kenneth,Barry,,,31.0,Stephen Champion,,713-542-0780,281-507-4068,281-961-9105,,,,6327 Clear Canyon Dr,Katy,TX,77450.0,6327 Clear Canyon Dr,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+266,266,266,266,Xudong,Yang,Ying,Gao,36.0,Juana Llanos,,,,,,,,6203 Canyon Park Dr,Katy,TX,77450.0,6203 Canyon Park Dr,Katy,TX,,3.0,2.0,1444.0,2000.0,CanyonGateCincoRanch
+267,267,267,267,Leland,Terry,Geri,Terry,35.0,Jo Parshall,Joel Parshall,281-814-0015,281-578-3704,,,,,6331 Canyon Chase Dr,Katy,TX,77450.0,6331 Canyon Chase Dr,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+268,268,268,268,Jared,Moon,Tonja,Moon,42.0,Maaz Nasser,,832-341-2608,832-367-8718,832-512-2737,,,,6210 Piedra Negras Ct,Katy,TX,77450.0,6210 Piedra Negras Ct,Katy,TX,,4.0,2.0,2477.0,2000.0,CanyonGateCincoRanch
+269,269,269,269,Oscar,Ramirez,Cynthia,Ramirez,36.0,Mary York,Dana York,281-398-1592,832-368-6117,,,,,6330 Clear Canyon Dr,Katy,TX,77450.0,6330 Clear Canyon Dr,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+270,270,270,270,Adrian,Cote,Nadine,Cote,29.0,Rayford Cooks,,281-829-9519,281-704-8270,,,,,6218 Clear Canyon Dr,Katy,TX,77450.0,6218 Clear Canyon Dr,Katy,TX,,3.0,2.0,1796.0,2000.0,CanyonGateCincoRanch
+271,271,271,271,Kevin,Kim,Crystal,Kim,49.0,Margarett Sanchez,,,,,,,,6307 Piedra Negras Ct,Katy,TX,77450.0,6307 Piedra Negras Ct,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+272,272,272,272,Asif,Minhas,,,23.0,Alero Esisi,,713-979-7655,832-310-9352,713-985-9954,,,,20227 Chelsea Canyon Ct,Katy,TX,77450.0,20227 Chelsea Canyon Ct,Katy,TX,,3.0,2.0,2352.0,2000.0,CanyonGateCincoRanch
+273,273,273,273,Mohammad,Yazdanpanah,Casandra,Yazdanpanah,41.0,Georgina Sequeira,Guillermo Sequeira,832-867-8715,832-867-8641,832-419-5424,,,,20223 Chelsea Canyon Ct,Katy,TX,77450.0,20223 Chelsea Canyon Ct,Katy,TX,,4.0,2.0,2159.0,2000.0,CanyonGateCincoRanch
+274,274,274,274,Rebecca,Khajeh,Ismaeel,Khajeh,42.0,David Hebert,Stefanie Hebert,281-748-7686,903-888-3264,,,,,6347 Deep Canyon Dr,Katy,TX,77450.0,6347 Deep Canyon Dr,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+275,275,275,275,Shannon,Roberts,,,1.0,Ana Medrano,,832-715-1032,,,,,,6331 Gabrielle Canyon Ct,Katy,TX,77450.0,6331 Gabrielle Canyon Ct,Katy,TX,,3.0,2.0,2352.0,2000.0,CanyonGateCincoRanch
+276,276,276,276,William,England,,,27.0,Ali Zaza,,832-434-3332,713-995-8400,713-298-4151,,,,6230 Jacob Canyon Dr,Katy,TX,77450.0,6230 Jacob Canyon Dr,Katy,TX,,4.0,2.0,2477.0,2000.0,CanyonGateCincoRanch
+277,277,277,277,Daniel,Coyer,,,47.0,Kristopher Hawxhurst,,318-478-5957,,,,,,6234 Piedra Negras Ct,Katy,TX,77450.0,6234 Piedra Negras Ct,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+278,278,278,278,Adrian,Loskot,,,24.0,Joann Hopkins,,281-675-4446,713-855-3822,979-826-4486,,,,6222 Piedra Negras Ct,Katy,TX,77450.0,6222 Piedra Negras Ct,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+279,279,279,279,Jennifer,Southern,Javier,Santiago,2.0,Frederic Mangin,,,,,,,,6246 Piedra Negras Ct,Katy,TX,77450.0,6246 Piedra Negras Ct,Katy,TX,,3.0,2.0,1611.0,1999.0,CanyonGateCincoRanch
+280,280,280,280,Iradj,Ayazi,,,59.0,Pearl Dmello,Naveen Dmello,281-380-5462,713-391-7038,,,,,6214 Harrison Ct,Katy,TX,77450.0,8832 Chatsworth Dr,Houston,TX,,3.0,2.0,1717.0,2000.0,CanyonGateCincoRanch
+281,281,281,281,Jude,Mcnamara,Betty,Mcnamara,40.0,Sandra Espinosa,,832-670-1182,713-478-1346,713-922-8967,,,,6227 Morgan Canyon Ct,Katy,TX,77450.0,6227 Morgan Canyon Ct,Katy,TX,,3.0,2.0,2159.0,1999.0,CanyonGateCincoRanch
+282,282,282,282,Jacob,Leblanc,Melissa,Leblanc,29.0,Shannon Hayes,,,,,,,,20510 Cajon Canyon Ct,Katy,TX,77450.0,20510 Cajon Canyon Ct,Katy,TX,,3.0,2.0,1444.0,1999.0,CanyonGateCincoRanch
+283,283,283,283,Doyle,Coleman,Jennifer,Coleman,62.0,Maryum Mims,,281-578-0613,,,,,,20315 Canyon Gate Blvd,Katy,TX,77450.0,20315 Canyon Gate Blvd,Katy,TX,,3.0,2.0,1897.0,1999.0,CanyonGateCincoRanch
+284,284,284,284,Sergio,Cabrera,,,100.0,Ana Flores,Amilcar Flores,832-474-3760,,,,,,20402 Cajon Canyon Ct,Katy,TX,77450.0,4631 Magnolia Creek Rd,Houston,TX,,3.0,2.0,1614.0,1999.0,CanyonGateCincoRanch
+285,285,285,285,Paul,Williams,Susan,Eddleston,48.0,Laquishe Wright,Bryant Wright,281-647-9895,832-724-7965,,,,,6418 Arroyo Hill Ct,Katy,TX,77450.0,6418 Arroyo Hill Ct,Katy,TX,,3.0,2.0,1717.0,2000.0,CanyonGateCincoRanch
+286,286,286,286,Francisco,Forn,,,56.0,Freenea Stewart,Miguel Stewart,832-814-0227,713-269-9804,832-544-7767,,,,6514 Kings Summit Dr,Katy,TX,77450.0,6514 Kings Summit Dr,Katy,TX,,3.0,2.0,1619.0,2000.0,CanyonGateCincoRanch
+287,287,287,287,Rakesh,Patel,,,45.0,Jonathan Bowers,,281-682-6053,281-753-9315,,,,,6303 Holly Canyon Ct,Katy,TX,77450.0,6303 Holly Canyon Ct,Katy,TX,,3.0,2.0,1444.0,2000.0,CanyonGateCincoRanch
+288,288,288,288,Robert,Andress,Sandra,Andress,57.0,Mopelola Adebo,Adediran Adebo,832-744-3629,832-348-0488,281-650-0450,,,,6323 Bear Canyon Ct,Katy,TX,77450.0,6323 Bear Canyon Ct,Katy,TX,,4.0,2.0,2477.0,2000.0,CanyonGateCincoRanch
+289,289,289,289,Lan,Ponwaye,Antoine,Ponwaye,78.0,Ternisha Law,Jason Law,,,,,,,6318 Bear Canyon Ct,Katy,TX,77450.0,6318 Bear Canyon Ct,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+290,290,290,290,Savitha,Rajan,Rajaraman,Anand,31.0,Eric Hepler,,703-649-1479,281-301-9774,713-530-0006,,,,6319 Grand Canyon Gate Dr,Katy,TX,77450.0,6319 Grand Canyon Gate Dr,Katy,TX,,3.0,2.0,1619.0,1999.0,CanyonGateCincoRanch
+291,291,291,291,Joseph,Gibson,,,42.0,Ching-Wah Kwong,Scott Shen,,,,,,,6402 Grand Canyon Gate Dr,Katy,TX,77450.0,6402 Grand Canyon Gate Dr,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+292,292,292,292,Francisco,Santos,Elizabeth,Wyss,33.0,Gary Bishop,Diane Bishop,,,,,,,20519 Walnut Canyon Dr,Katy,TX,77450.0,20519 Walnut Canyon Dr,Katy,TX,,4.0,2.0,2477.0,2000.0,CanyonGateCincoRanch
+293,293,293,293,Madan,Naidu,Sylvia,Naidu,55.0,Joseph Russell,Caramel Russell,614-679-7759,832-865-1912,614-901-9544,,,,6506 Sterling Canyon Dr,Katy,TX,77450.0,6506 Sterling Canyon Dr,Katy,TX,,3.0,2.0,1796.0,2000.0,CanyonGateCincoRanch
+294,294,294,294,John,Hulse,,,59.0,Fernando Abascal,,832-275-8278,,,,,,19922 Big Canyon Dr,Katy,TX,77450.0,19922 Big Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+295,295,295,295,William,Herrmann,Sarah,Herrmann,18.0,Kevin Yang,,713-851-5761,832-606-2897,484-542-0810,,,,6211 Canyon Park Dr,Katy,TX,77450.0,6211 Canyon Park Dr,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+296,296,296,296,Yasmeen,Arya,,,60.0,Haihong Jiang,Wan Liu,832-515-4025,,,,,,6210 Canyon Park Dr,Katy,TX,77450.0,6210 Canyon Park Dr,Katy,TX,,3.0,2.0,2352.0,1998.0,CanyonGateCincoRanch
+297,297,297,297,James,White,Camille,White,28.0,Mcm Houston Properties Llc,,281-513-3455,281-943-4960,281-636-3052,,,,6230 Piedra Negras Ct,Katy,TX,77450.0,6230 Piedra Negras Ct,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+298,298,298,298,Latrice,Adeyinka,,,41.0,Capstone Luxury Rentals Llc,,773-857-1121,773-248-9792,312-933-9566,,,,6211 Piedra Negras Ct,Katy,TX,77450.0,6211 Piedra Negras Ct,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+299,299,299,299,Xu,Chunming,Yang,Qing,52.0,Michelle Wagner,Jacob Wagner,281-253-7875,,,,,,6227 Piedra Negras Ct,Katy,TX,77450.0,6227 Piedra Negras Ct,Katy,TX,,3.0,2.0,1614.0,2000.0,CanyonGateCincoRanch
+300,300,300,300,Guy,Mabry,,,43.0,K N Realty Llc,,281-342-5208,832-439-6173,832-741-5064,,,,6311 Piedra Negras Ct,Katy,TX,77450.0,6311 Piedra Negras Ct,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+301,301,301,301,Jermone,Coggins,,,62.0,Janet Exposito,Santiago Exposito,281-960-5360,713-291-4443,214-934-8332,,,,6238 Presidio Canyon Dr,Katy,TX,77450.0,6238 Presidio Canyon Dr,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+302,302,302,302,Adam,Masek,Patricia,Masek,53.0,Abir Sami Elfishawy,,713-319-7124,832-859-9738,832-359-5495,,,,6263 Clear Canyon Dr,Katy,TX,77450.0,6263 Clear Canyon Dr,Katy,TX,,3.0,2.0,2352.0,2000.0,CanyonGateCincoRanch
+303,303,303,303,Matthew,Liu,Jinyu,Chen,25.0,Ella Jackson,,281-777-5651,281-398-1353,281-745-1607,,,,19927 Big Canyon Dr,Katy,TX,77450.0,26110 Jasmine Field Way,Katy,TX,,3.0,2.0,1614.0,1999.0,CanyonGateCincoRanch
+304,304,304,304,Eric,Hall,,,37.0,Lynn Wilkinson,,281-398-6755,,,,,,6223 Santiago Mountain Ct,Katy,TX,77450.0,6223 Santiago Mountain Ct,Katy,TX,,3.0,2.0,2167.0,1999.0,CanyonGateCincoRanch
+305,305,305,305,Shane,Christian,Diedre,Christian,23.0,Anna Musselman,,347-845-2521,347-415-9600,347-845-2426,,,,19806 Big Canyon Dr,Katy,TX,77450.0,27130 Cottage Stream Ln,Fulshear,TX,,3.0,2.0,1717.0,1998.0,CanyonGateCincoRanch
+306,306,306,306,Michael,Winings,,,77.0,Cynthia Jackson,,281-770-7302,832-974-3262,281-546-7155,,,,6510 Sterling Canyon Dr,Katy,TX,77450.0,6510 Sterling Canyon Dr,Katy,TX,,4.0,2.0,2167.0,2000.0,CanyonGateCincoRanch
+307,307,307,307,Khalad,Maoed,,,53.0,Constance Mesecher,Kirk Mesecher,713-203-9794,713-459-8373,832-768-5348,,,,6311 Canyon Park Dr,Katy,TX,77450.0,6311 Canyon Park Dr,Katy,TX,,3.0,2.0,1619.0,1999.0,CanyonGateCincoRanch
+308,308,308,308,Matthew,Howl,Kerry,Howl,3.0,Faramarz Faramarzi,,,,,,,,20518 Aspen Canyon Dr,Katy,TX,77450.0,20518 Aspen Canyon Dr,Katy,TX,,3.0,2.0,1796.0,2000.0,CanyonGateCincoRanch
+309,309,309,309,Robert,Denton,Catherine,Denton,56.0,Amir Memisevic,Mirela Memisevic,832-766-6845,832-766-1124,,,,,20606 Aspen Canyon Dr,Katy,TX,77450.0,20606 Aspen Canyon Dr,Katy,TX,,3.0,2.0,1619.0,1999.0,CanyonGateCincoRanch
+310,310,310,310,Yeqiong,Zhu,Masood,Rahman,51.0,Camina Toledo,,281-300-1129,,,,,,6507 Mesa Canyon Ct,Katy,TX,77450.0,6507 Mesa Canyon Ct,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+311,311,311,311,Godwin,Bibah,Emelia,Bibah,26.0,Suzanne Mihaloglou,,832-607-5127,832-607-1128,,,,,6307 Holly Canyon Ct,Katy,TX,77450.0,2002 S Mason Rd #713,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+312,312,312,312,Scott,Maeker,Andrea,Maeker,34.0,Bolaji Ajimotokan,,832-483-6140,832-836-3480,281-818-0506,,,,6318 Holly Canyon Ct,Katy,TX,77450.0,6318 Holly Canyon Ct,Katy,TX,,4.0,2.0,2477.0,2000.0,CanyonGateCincoRanch
+313,313,313,313,Daniel,Lozano,,,17.0,Tosha Gonsoulin,Corey Gonsoulin,281-829-9896,,,,,,20519 Cajon Canyon Ct,Katy,TX,77450.0,20519 Cajon Canyon Ct,Katy,TX,,4.0,2.0,2159.0,2000.0,CanyonGateCincoRanch
+314,314,314,314,Paul,Bonner,,,57.0,Monica Solarte,,281-829-2617,713-721-6051,,,,,20522 Cajon Canyon Ct,Katy,TX,77450.0,20522 Cajon Canyon Ct,Katy,TX,,3.0,2.0,1614.0,1999.0,CanyonGateCincoRanch
+315,315,315,315,Omar,Elissa,Rana,Issa,100.0,Timothy Paisley,,713-826-4782,281-647-0109,713-826-2725,,,,19902 Big Canyon Dr,Katy,TX,77450.0,19902 Big Canyon Dr,Katy,TX,,3.0,2.0,2352.0,2000.0,CanyonGateCincoRanch
+316,316,316,316,Linda,Ward,,,38.0,Lisa Parks,Jeffrey Parks,281-829-6698,,,,,,6318 Clear Canyon Dr,Katy,TX,77450.0,6318 Clear Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+317,317,317,317,Daniel,Huckabee,Mary,Huckabee,57.0,Stacey Cusimano,,713-269-6229,,,,,,6202 Santiago Mountain Ct,Katy,TX,77450.0,6202 Santiago Mountain Ct,Katy,TX,,3.0,2.0,1444.0,2000.0,CanyonGateCincoRanch
+318,318,318,318,Fermin,Cantu,Mary,Cantu,100.0,Ruben Ramirez,,832-622-2208,713-339-0044,713-930-0609,,,,6203 Santiago Mountain Ct,Katy,TX,77450.0,6203 Santiago Mountain Ct,Katy,TX,,3.0,2.0,1614.0,2000.0,CanyonGateCincoRanch
+319,319,319,319,Ronald,Boucher,Janet,Boucher,58.0,Bonnie Leidecker,,281-579-0655,,,,,,20223 Black Canyon Dr,Katy,TX,77450.0,20223 Black Canyon Dr,Katy,TX,,3.0,2.0,1717.0,2000.0,CanyonGateCincoRanch
+320,320,320,320,Joel,Mott,Lorie,Mott,25.0,Courtney Dycus,Matthew Dycus,281-773-0723,,,,,,20111 Black Canyon Dr,Katy,TX,77450.0,20111 Black Canyon Dr,Katy,TX,,4.0,2.0,2477.0,2000.0,CanyonGateCincoRanch
+321,321,321,321,Robert,Rao,,,49.0,Hungwei Lin,Sharon Lin,,,,,,,20319 Canyon Gate Blvd,Katy,TX,77450.0,20319 Canyon Gate Blvd,Katy,TX,,4.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+322,322,322,322,Sunil,Sinha,Vineeta,Sinha,66.0,Nicole Moeller,Mark Moeller,832-984-2448,281-646-0630,713-569-9606,,,,20022 Black Canyon Dr,Katy,TX,77450.0,20022 Black Canyon Dr,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+323,323,323,323,Monique,Fajardo,,,36.0,Bc & J Enterprise Llc,,832-443-5392,,,,,,6327 Deep Canyon Dr,Katy,TX,77450.0,6327 Deep Canyon Dr,Katy,TX,,4.0,2.0,2477.0,2000.0,CanyonGateCincoRanch
+324,324,324,324,Jason,Mckey,Kassie,Olwen,20.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6206 Pebble Canyon Ct,Katy,TX,77450.0,6206 Pebble Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+325,325,325,325,Elizabeth,Davis,Justin,Davis,48.0,Ricardo Rubin,,,,,,,,6239 Pebble Canyon Ct,Katy,TX,77450.0,6239 Pebble Canyon Ct,Katy,TX,,3.0,2.0,1889.0,1999.0,CanyonGateCincoRanch
+326,326,326,326,Kabir,Puri,Ekta,Burman,3.0,Svetlana Micovic,Aleksandar Micovic,281-578-3142,,,,,,6223 Presidio Canyon Dr,Katy,TX,77450.0,6223 Presidio Canyon Dr,Katy,TX,,3.0,2.0,1507.0,2000.0,CanyonGateCincoRanch
+327,327,327,327,Dario,Magsino,Lourdes,Magsino,43.0,Mohammed Alam,,713-977-6640,713-875-7783,,,,,6302 Clear Canyon Dr,Katy,TX,77450.0,6302 Clear Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+328,328,328,328,Brian,Gardner,,,18.0,Barbara Kirshy,,281-646-7106,,,,,,19819 Big Canyon Dr,Katy,TX,77450.0,19819 Big Canyon Dr,Katy,TX,,4.0,2.0,2167.0,2000.0,CanyonGateCincoRanch
+329,329,329,329,Ronald,Worsham,Linda,Worsham,78.0,Agt2 Properties Llc,,314-882-7116,713-922-8176,713-526-8176,,,,20126 Black Canyon Dr,Katy,TX,77450.0,20126 Black Canyon Dr,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+330,330,330,330,Gredis,Brady,,,42.0,Zoom Holdings Lp,,408-614-9652,713-384-4666,281-907-9793,,,,19915 Black Canyon Dr,Katy,TX,77450.0,19915 Black Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+331,331,331,331,Ahmed,Faraz,,,100.0,Rainne Jerram,,,,,,,,6326 Gabrielle Canyon Ct,Katy,TX,77450.0,6326 Gabrielle Canyon Ct,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+332,332,332,332,Jose,Melendez,Cynthia,Melendez,43.0,Kristy Mount,Stephen Mount,,,,,,,6323 Gabrielle Canyon Ct,Katy,TX,77450.0,6323 Gabrielle Canyon Ct,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+333,333,333,333,La Shavia,Palmer,,,39.0,Katherine Harper,,713-562-5473,,,,,,6227 Presidio Canyon Dr,Katy,TX,77450.0,6227 Presidio Canyon Dr,Katy,TX,,3.0,2.0,1796.0,2000.0,CanyonGateCincoRanch
+334,334,334,334,Patricia,Hahn,,,100.0,Cynthia Blackman,Delwin Blackman,512-221-7941,281-380-4664,,,,,6227 Clear Canyon Dr,Katy,TX,77450.0,6227 Clear Canyon Dr,Katy,TX,,3.0,2.0,1444.0,2000.0,CanyonGateCincoRanch
+335,335,335,335,Manoj,Gupta,,,18.0,Victoria Mahabir,Richard Mahabir,281-782-7341,281-961-0700,,,,,6327 Gabrielle Canyon Ct,Katy,TX,77450.0,6327 Gabrielle Canyon Ct,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+336,336,336,336,Denson,Davis,Suchitra,Denson,41.0,Aida Dimitric,Mirko Dimitric,,,,,,,6318 Gabrielle Canyon Ct,Katy,TX,77450.0,6318 Gabrielle Canyon Ct,Katy,TX,,3.0,2.0,1614.0,1999.0,CanyonGateCincoRanch
+337,337,337,337,Hassan,Bashagour,,,100.0,Jonathan Christman,,281-636-0637,832-993-1363,713-302-8287,,,,20234 Black Canyon Dr,Katy,TX,77450.0,20234 Black Canyon Dr,Katy,TX,,3.0,2.0,1614.0,1999.0,CanyonGateCincoRanch
+338,338,338,338,John,Canant,Elizabeth,Anderson,8.0,Danuta Olkusnik,Marek Olkusnik,832-466-8575,832-466-5641,713-505-9781,,,,19803 Black Canyon Dr,Katy,TX,77450.0,19803 Black Canyon Dr,Katy,TX,,3.0,2.0,1507.0,2000.0,CanyonGateCincoRanch
+339,339,339,339,Ronald,Hartley,Paula,Hartley,1.0,Ying Gao,Xudong Yang,832-428-0730,832-818-2302,832-235-3199,,,,6351 Deep Canyon Dr,Katy,TX,77450.0,6351 Deep Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+340,340,340,340,Stacey,Siragusa,Jennifer,Siragusa,100.0,Arlene Buckingham,Richard Buckingham,281-578-7795,832-974-3391,,,,,20239 Chelsea Canyon Ct,Katy,TX,77450.0,20239 Chelsea Canyon Ct,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+341,341,341,341,Julio C,Garcia,Gloria C,De Hernandez,21.0,Sylvia Moore,,832-368-2815,832-292-5990,,,,,6214 Pebble Canyon Ct,Katy,TX,77450.0,6214 Pebble Canyon Ct,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+342,342,342,342,Zheng,Ma,,,100.0,Diana Estrella,Anthony Estrella,,,,,,,6311 Bryce Canyon Dr,Katy,TX,77450.0,6311 Bryce Canyon Dr,Katy,TX,,3.0,2.0,1796.0,2000.0,CanyonGateCincoRanch
+343,343,343,343,William,Whitfield,,,31.0,Jessica Terry,,832-964-3252,281-717-4178,,,,,6411 Bryce Canyon Dr,Katy,TX,77450.0,6411 Bryce Canyon Dr,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+344,344,344,344,Zahra,Bodaghi,,,100.0,Audra Partee,Corey Partee,832-535-6488,281-660-3374,281-795-4819,,,,6402 Bryce Canyon Dr,Katy,TX,77450.0,6402 Bryce Canyon Dr,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+345,345,345,345,Anna,Musselman,,,41.0,Rene Menendez,Mimi Yau,713-391-5628,,,,,,6315 Holly Canyon Ct,Katy,TX,77450.0,6315 Holly Canyon Ct,Katy,TX,,3.0,2.0,1444.0,1999.0,CanyonGateCincoRanch
+346,346,346,346,Leon,Duarte,Maria,Gamero-Nunez,45.0,Amanda Keller,Jerry Keller,,,,,,,6214 Canyon Trace Ct,Katy,TX,77450.0,7115 S Mason Rd #514,Katy,TX,,3.0,2.0,1507.0,2000.0,CanyonGateCincoRanch
+347,347,347,347,Gary,Williams,Judith,Dykhouse,37.0,Patricia Acevedo,,281-829-7729,,,,,,6503 Grand Canyon Gate Dr,Katy,TX,77450.0,6503 Grand Canyon Gate Dr,Katy,TX,,3.0,2.0,1614.0,1999.0,CanyonGateCincoRanch
+348,348,348,348,Elise,Chilton,Robert,Chilton,43.0,Judith Rice,,281-578-0485,,,,,,6207 Canyon Park Dr,Katy,TX,77450.0,6207 Canyon Park Dr,Katy,TX,,3.0,2.0,1614.0,1999.0,CanyonGateCincoRanch
+349,349,349,349,Wentian,Bai,Juan,Wen,56.0,Glenda Schlimper,Philip Schlimper,281-513-3346,281-513-3387,409-659-5571,,,,20427 Verde Canyon Dr,Katy,TX,77450.0,20427 Verde Canyon Dr,Katy,TX,,3.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+350,350,350,350,Aaron,Copeland,,,43.0,Wesley Barren,,832-213-6706,832-388-2604,,,,,20319 Memorial Pass Dr,Katy,TX,77450.0,20319 Memorial Pass Dr,Katy,TX,,3.0,2.0,1897.0,1998.0,CanyonGateCincoRanch
+351,351,351,351,Gabriel,Galindo,Martha,Galindo,47.0,Jin Zhang,,832-692-4917,832-437-4737,281-829-1684,,,,20525 Verde Canyon Dr,Katy,TX,77450.0,20525 Verde Canyon Dr,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+352,352,352,352,Enelia,Ramos,,,59.0,Felipe Gutierrez,,281-658-6142,,,,,,6506 Emerald Canyon Rd,Katy,TX,77450.0,6506 Emerald Canyon Rd,Katy,TX,,3.0,2.0,1444.0,2000.0,CanyonGateCincoRanch
+353,353,353,353,Mamta,Yerneni,,,54.0,Jennifer Butterfras,,713-347-4248,,,,,,6310 Bryce Canyon Dr,Katy,TX,77450.0,6310 Bryce Canyon Dr,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+354,354,354,354,Jerry,Van Dusen,,,41.0,Stephanie Blair,,832-794-6328,832-877-4170,832-321-5588,,,,6507 Sterling Canyon Dr,Katy,TX,77450.0,6507 Sterling Canyon Dr,Katy,TX,,3.0,2.0,1796.0,2000.0,CanyonGateCincoRanch
+355,355,355,355,John,Keeler,Amy,Keeler,33.0,Clara Pearse,,832-640-7620,832-526-0127,281-222-7530,,,,6502 Kings Summit Dr,Katy,TX,77450.0,6502 Kings Summit Dr,Katy,TX,,3.0,2.0,1619.0,2000.0,CanyonGateCincoRanch
+356,356,356,356,Larysa,Kuznetsova,,,14.0,Jennifer Kiser,Ren Kiser,918-640-0859,,,,,,20419 Cajon Canyon Ct,Katy,TX,77450.0,20419 Cajon Canyon Ct,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+357,357,357,357,Nelson,Laracuente,Deresharee,Laracuente,25.0,American Residential Leasing Company Llc,,,,,,,,20430 Verde Canyon Dr,Katy,TX,77450.0,20430 Verde Canyon Dr,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+358,358,358,358,Diana,Manzano,,,41.0,May Truong,Steven Tran,,,,,,,6535 Emerald Canyon Rd,Katy,TX,77450.0,6739 Autumn Thistle Dr,Katy,TX,,4.0,2.0,2167.0,2000.0,CanyonGateCincoRanch
+359,359,359,359,Donald,Dale,Melissa,Dale,20.0,Jennifer Perez,Reyes Perez,281-546-2503,281-224-9910,281-829-6649,,,,6315 Bryce Canyon Dr,Katy,TX,77450.0,6315 Bryce Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+360,360,360,360,Victor,Chan,,,48.0,Christy Schwarz,,,,,,,,6327 Bear Canyon Ct,Katy,TX,77450.0,6327 Bear Canyon Ct,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+361,361,361,361,Paul,Clemmons,,,66.0,Aaron Alvarez,,,,,,,,19819 Black Canyon Dr,Katy,TX,77450.0,19819 Black Canyon Dr,Katy,TX,,3.0,2.0,1444.0,1999.0,CanyonGateCincoRanch
+362,362,362,362,Frank,Ragan,Wendy,Ragan,47.0,Adam Bozeman,,318-837-5986,,,,,,6206 Jacob Canyon Dr,Katy,TX,77450.0,6206 Jacob Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+363,363,363,363,Michael,Hearne,Kamika,Hearne,21.0,Janho Basel,,281-398-5466,832-633-3329,832-863-4050,,,,6214 Canyon Park Dr,Katy,TX,77450.0,6214 Canyon Park Dr,Katy,TX,,3.0,2.0,1717.0,1999.0,CanyonGateCincoRanch
+364,364,364,364,Orey,Lamai,,,32.0,Jackie Antonoff,,281-236-2450,281-579-7060,281-961-9761,,,,6326 Bear Canyon Ct,Katy,TX,77450.0,6326 Bear Canyon Ct,Katy,TX,,3.0,2.0,1889.0,1998.0,CanyonGateCincoRanch
+365,365,365,365,Sean,Young,Melissa,Young,28.0,Jon Christenson,Jeriann Christenson,713-409-3333,281-685-1611,,,,,6315 Bear Canyon Ct,Katy,TX,77450.0,6315 Bear Canyon Ct,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+366,366,366,366,Geng,Rao,,,51.0,Alfredia Wilbert,Mark Wilbert,713-444-9525,281-794-1666,281-794-4565,,,,6218 Piedra Negras Ct,Katy,TX,77450.0,20411 Wild View Ct,Katy,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+367,367,367,367,Shuyan,Qiu,Yuanwei,Lao,33.0,Tianxia Zhao,,832-228-2911,,,,,,6251 Piedra Negras Ct,Katy,TX,77450.0,6251 Piedra Negras Ct,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+368,368,368,368,Luz,Silva,,,32.0,Glen Fogle,,281-236-6401,903-941-2715,,,,,20219 Black Canyon Dr,Katy,TX,77450.0,20219 Black Canyon Dr,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+369,369,369,369,Kevin,Ragsdale,Michelle,Ragsdale,22.0,Maria Martinez,,,,,,,,6202 Pebble Canyon Ct,Katy,TX,77450.0,6202 Pebble Canyon Ct,Katy,TX,,3.0,2.0,1611.0,1999.0,CanyonGateCincoRanch
+370,370,370,370,Anita,Lal,,,51.0,Rene Salis,Nuirca Salis,281-829-6192,713-894-2513,,,,,20235 Chelsea Canyon Ct,Katy,TX,77450.0,13514 Braeswest Dr,Houston,TX,,4.0,2.0,2477.0,1999.0,CanyonGateCincoRanch
+371,371,371,371,Troy,Kemp,Mara,Kemp,46.0,Vipin Kumar,,713-882-6090,713-208-7846,281-647-0324,,,,20207 Black Canyon Dr,Katy,TX,77450.0,20207 Black Canyon Dr,Katy,TX,,3.0,2.0,2167.0,1999.0,CanyonGateCincoRanch
+372,372,372,372,Kevin,Thomas,,,33.0,Junior Properties Llc,,281-614-9049,281-530-1044,281-530-5900,,,,20023 Black Canyon Dr,Katy,TX,77450.0,20023 Black Canyon Dr,Katy,TX,,3.0,2.0,1796.0,1999.0,CanyonGateCincoRanch
+373,373,373,373,Forest,Musick,Beverly,Musick,70.0,Franklin Gonzalez,,713-345-0131,832-287-1600,713-446-3380,,,,20202 Black Canyon Dr,Katy,TX,77450.0,20202 Black Canyon Dr,Katy,TX,,3.0,2.0,2352.0,1999.0,CanyonGateCincoRanch
+374,374,374,374,Arash,Firouzi,Soghra,Zeinali,56.0,Ines Catano,,832-876-7215,281-704-5453,,,,,6215 Jacob Canyon Dr,Katy,TX,77450.0,6215 Jacob Canyon Dr,Katy,TX,,3.0,2.0,1444.0,1999.0,CanyonGateCincoRanch
+375,375,375,375,John,Wells,Beatrice,Jaramillo-Wells,74.0,M Henriquez,Gustavo E Guedez,832-468-6463,832-512-6779,832-284-2979,,,,6219 Quentin Canyon Ct,Katy,TX,77450.0,6219 Quentin Canyon Ct,Katy,TX,,4.0,2.0,2554.0,2001.0,CanyonGateCincoRanch
+376,376,376,376,Odiri,Akushe,,,91.0,Kari Dyson,,281-960-4999,,,,,,6214 Presidio Canyon Dr,Katy,TX,77450.0,1727 Lake Charlotte Ln,Richmond,TX,,4.0,2.0,2380.0,1999.0,CanyonGateCincoRanch
+377,377,377,377,Timothy,Ennis,Christianne,Ennis,23.0,Sacha Rae Finnis,Thomas Finnis,713-294-4455,916-215-3305,,,,,6211 Quentin Canyon Ct,Katy,TX,77450.0,6211 Quentin Canyon Ct,Katy,TX,,4.0,2.0,2246.0,2001.0,CanyonGateCincoRanch
+378,378,378,378,Jared,Pearl,Peggy,Pearl,19.0,Tesha Mccray,Briant Mccray,832-898-7895,832-867-2192,832-867-3393,832-867-3655,281-599-3655,,19930 Black Canyon Dr,Katy,TX,77450.0,19930 Black Canyon Dr,Katy,TX,,4.0,2.0,3061.0,2001.0,CanyonGateCincoRanch
+379,379,379,379,Michael,Cutherell,Melissa,Jersild,46.0,Judith Dykhouse,Gary Williams,281-599-0281,,,,,,6239 Piedra Negras Ct,Katy,TX,77450.0,6239 Piedra Negras Ct,Katy,TX,,4.0,2.0,3409.0,2001.0,CanyonGateCincoRanch
+380,380,380,380,Shazia,Akhtar,Muhammad,Akhtar,57.0,Christopher Tita,,281-829-0782,310-977-1549,,,,,6210 Presidio Canyon Dr,Katy,TX,77450.0,6210 Presidio Canyon Dr,Katy,TX,,5.0,2.0,3129.0,1999.0,CanyonGateCincoRanch
+381,381,381,381,Albert,Carmona,Mary,Carmona,39.0,Carol Bland,Ronald Bland,281-579-9565,,,,,,6310 Gabrielle Canyon Ct,Katy,TX,77450.0,6310 Gabrielle Canyon Ct,Katy,TX,,4.0,2.0,3103.0,2001.0,CanyonGateCincoRanch
+382,382,382,382,Qi,Zhang,Sijia,Yu,1.0,Anupam Bhaumik,,713-269-5291,713-201-3044,832-618-7388,,,,20211 Black Canyon Dr,Katy,TX,77450.0,20211 Black Canyon Dr,Katy,TX,,4.0,2.0,2791.0,2001.0,CanyonGateCincoRanch
+383,383,383,383,Matthew,Sparks,Alexandra,Whittick,18.0,Martha Garcia,Domingo Martinez,347-310-4120,713-624-0250,832-998-9111,,,,6254 Piedra Negras Ct,Katy,TX,77450.0,6254 Piedra Negras Ct,Katy,TX,,5.0,3.0,3772.0,1999.0,CanyonGateCincoRanch
+384,384,384,384,Reza,Azimi,Shermineh,Banatehrani,5.0,Jerry Van Dusen,,281-829-5217,,,,,,6215 Harrison Ct,Katy,TX,77450.0,2495 S Mason Rd #1333,Katy,TX,,4.0,2.0,2246.0,2000.0,CanyonGateCincoRanch
+385,385,385,385,James,Ecklund,Janice,Ecklund,41.0,Homa Hafizi,,832-217-8906,832-974-3270,509-290-5450,,,,6306 Bryce Canyon Dr,Katy,TX,77450.0,6306 Bryce Canyon Dr,Katy,TX,,4.0,2.0,1899.0,2000.0,CanyonGateCincoRanch
+386,386,386,386,Alvaro,Sarmiento,Maria,Huby,64.0,Manuel Sanchez,,832-540-7012,,,,,,20502 Walnut Canyon Dr,Katy,TX,77450.0,20502 Walnut Canyon Dr,Katy,TX,,4.0,2.0,2246.0,2000.0,CanyonGateCincoRanch
+387,387,387,387,Ryan,Bush,Julie,Bush,29.0,Booian Peter,Annie Wang,404-427-1983,,,,,,6419 Arroyo Hill Ct,Katy,TX,77450.0,6419 Arroyo Hill Ct,Katy,TX,,4.0,2.0,2150.0,1999.0,CanyonGateCincoRanch
+388,388,388,388,Steve,Lee,Irene,Law,24.0,Thi Lan,Trung Nguyen,832-863-1160,281-854-9224,925-580-6203,,,,6310 Holly Canyon Ct,Katy,TX,77450.0,6310 Holly Canyon Ct,Katy,TX,,5.0,3.0,3129.0,2000.0,CanyonGateCincoRanch
+389,389,389,389,Giancarlo,Mitterhofer,Angela,Kendrick,29.0,Osarennomase Osarumwense,,281-492-1218,,,,,,6302 Bear Canyon Ct,Katy,TX,77450.0,6302 Bear Canyon Ct,Katy,TX,,4.0,2.0,2791.0,2000.0,CanyonGateCincoRanch
+390,390,390,390,Mark,Olson,Anje,Olson,47.0,Joseph Gibson,,,,,,,,6215 Canyon Trace Ct,Katy,TX,77450.0,6215 Canyon Trace Ct,Katy,TX,,4.0,3.0,3292.0,1999.0,CanyonGateCincoRanch
+391,391,391,391,Matthew,Terry,Ruth,Terry,48.0,Casey Pelletiere,Nicholas Pelletiere,,,,,,,6202 Canyon Run Ct,Katy,TX,77450.0,6202 Canyon Run Ct,Katy,TX,,5.0,3.0,3449.0,2001.0,CanyonGateCincoRanch
+392,392,392,392,Joseph,Rouhana,Noelle,Rouhana,54.0,Raul Laygo,Marissa Laygo,281-536-6138,281-513-9062,832-360-4511,,,,6306 Briar Canyon Ct,Katy,TX,77450.0,6306 Briar Canyon Ct,Katy,TX,,5.0,3.0,4244.0,2002.0,CanyonGateCincoRanch
+393,393,393,393,Babatunde,Omidele,,,47.0,Yunhai Zhang,,,,,,,,6407 Grand Canyon Gate Dr,Katy,TX,77450.0,6407 Grand Canyon Gate Dr,Katy,TX,,5.0,3.0,3409.0,2000.0,CanyonGateCincoRanch
+394,394,394,394,Tufail,Ahmad,Nagma,Ahmad,100.0,Neelam Rohatgi,Ajay Rohatgi,281-492-3409,281-492-1105,281-206-7605,,,,6515 Glen Canyon Ct,Katy,TX,77450.0,6515 Glen Canyon Ct,Katy,TX,,4.0,2.0,2875.0,2001.0,CanyonGateCincoRanch
+395,395,395,395,Stuart,Gray,Emily,Gray,9.0,Michaela Butler,Erik Anderson,281-398-8444,713-302-8516,281-961-9576,,,,6314 Briar Canyon Ct,Katy,TX,77450.0,6314 Briar Canyon Ct,Katy,TX,,4.0,2.0,2246.0,1999.0,CanyonGateCincoRanch
+396,396,396,396,Margaret,Alzate,,,63.0,Diego Parra,Maria Parra,,,,,,,6507 Emerald Canyon Rd,Katy,TX,77450.0,6507 Emerald Canyon Rd,Katy,TX,,4.0,2.0,2380.0,1999.0,CanyonGateCincoRanch
+397,397,397,397,Maria,Parra,Diego,Parra,42.0,Mary Prejean,,281-636-2227,281-876-0003,,,,,20330 Memorial Pass Dr,Katy,TX,77450.0,20330 Memorial Pass Dr,Katy,TX,,4.0,2.0,2692.0,2001.0,CanyonGateCincoRanch
+398,398,398,398,Amit,Ajmeri,Nazma,Ajmeri,45.0,Babatunde Omidele,,281-871-0103,281-381-4410,281-647-2855,,,,20323 Memorial Pass Dr,Katy,TX,77450.0,20323 Memorial Pass Dr,Katy,TX,,5.0,3.0,3569.0,2000.0,CanyonGateCincoRanch
+399,399,399,399,Osarennomase,Osarumwense,,,46.0,Fouga Management Trust,,281-829-6675,832-971-8732,,,,,20334 Memorial Pass Dr,Katy,TX,77450.0,20334 Memorial Pass Dr,Katy,TX,,4.0,2.0,2246.0,1999.0,CanyonGateCincoRanch
+400,400,400,400,Sumitro,Chowdhury,,,27.0,Jin Lee,Kyong Hong,337-991-9486,,,,,,20326 Memorial Pass Dr,Katy,TX,77450.0,20326 Memorial Pass Dr,Katy,TX,,4.0,2.0,2791.0,1999.0,CanyonGateCincoRanch
+401,401,401,401,Steven,Wilhelm,Anita,Wilhelm,63.0,Kelly Sanders,Todd Sanders,281-599-1106,,,,,,20210 Canyon Ridge Ct,Katy,TX,77450.0,20210 Canyon Ridge Ct,Katy,TX,,4.0,2.0,2910.0,2000.0,CanyonGateCincoRanch
+402,402,402,402,Christina,Micu,Oscar,Quintero,45.0,Priya Muralidharan,Venkataramanan Muralidharan,832-766-6807,832-353-5989,832-620-7521,,,,6411 Canyon Park Dr,Katy,TX,77450.0,6411 Canyon Park Dr,Katy,TX,,3.0,2.0,2404.0,2000.0,CanyonGateCincoRanch
+403,403,403,403,Yuk,Mak,Hung,Kwok,54.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6411 Arroyo Hill Ct,Katy,TX,77450.0,6411 Arroyo Hill Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+404,404,404,404,Humphrey,Esechie,,,56.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20406 Cajon Canyon Ct,Katy,TX,77450.0,20406 Cajon Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+405,405,405,405,Syeda,Iqbal,Syed,Hussain,53.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6502 Glen Canyon Ct,Katy,TX,77450.0,6502 Glen Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+406,406,406,406,Dennis,Aldridge,Barbara,Aldridge,100.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20303 Memorial Pass Dr,Katy,TX,77450.0,20303 Memorial Pass Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+407,407,407,407,Marc,Garza,,,50.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6310 Deep Canyon Dr,Katy,TX,77450.0,6310 Deep Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+408,408,408,408,James,Ingram,Jennifer,Ingram,35.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20611 Aspen Canyon Dr,Katy,TX,77450.0,20611 Aspen Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+409,409,409,409,Meghan,Flanagan,,,11.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6230 Pebble Canyon Ct,Katy,TX,77450.0,6230 Pebble Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+410,410,410,410,Ania,Jerrels,Brian,Christopher,32.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20015 Black Canyon Dr,Katy,TX,77450.0,20015 Black Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+411,411,411,411,Tarek,Hayek,,,32.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20123 Black Canyon Dr,Katy,TX,77450.0,20123 Black Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+412,412,412,412,Juan,Rodriguez,,,100.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6327 Piedra Negras Ct,Katy,TX,77450.0,6315 Piedra Negras Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+413,413,413,413,Guillermo,Medina,,,39.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6231 Pebble Canyon Ct,Katy,TX,77450.0,6231 Pebble Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+414,414,414,414,Donna,Armand,,,51.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6310 Tall Canyon Ct,Katy,TX,77450.0,6310 Tall Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+415,415,415,415,Raul,Barrientos,Hebe,Zepeda,19.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,19831 Big Canyon Dr,Katy,TX,77450.0,19835 Big Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+416,416,416,416,Abu,Ershad,,,40.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6359 Deep Canyon Dr,Katy,TX,77450.0,6359 Deep Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+417,417,417,417,Martin,Perez,,,27.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20222 Chelsea Canyon Ct,Katy,TX,77450.0,20222 Chelsea Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+418,418,418,418,Craig,Golubic,Sariva,Golubic,78.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,19919 Big Canyon Dr,Katy,TX,77450.0,19919 Big Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+419,419,419,419,Majid,Laghari,Elvira,Laghari,68.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,19827 Black Canyon Dr,Katy,TX,77450.0,19827 Black Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+420,420,420,420,Jin,Lee,Theresa,Concepcion-Lee,26.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6214 Quentin Canyon Ct,Katy,TX,77450.0,6214 Quentin Canyon Ct,Katy,TX,,0.0,0.0,3920.0,1998.0,CanyonGateCincoRanch
+421,421,421,421,Andrew,Gatus,Leticia,Gatus,28.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20234 Chelsea Canyon Ct,Katy,TX,77450.0,20234 Chelsea Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+422,422,422,422,Yang,Liu,,,38.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6226 Clear Canyon Dr,Katy,TX,77450.0,6226 Clear Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+423,423,423,423,Georg,Kuszli,Montira,Kuszli,100.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,19955 Big Canyon Dr,Katy,TX,77450.0,19955 Big Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+424,424,424,424,Stuart,Robinson,,,85.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6226 Jacob Canyon Dr,Katy,TX,77450.0,6226 Jacob Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+425,425,425,425,David,Whitaker,Dinah,Whitaker,100.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,20018 Black Canyon Dr,Katy,TX,77450.0,20018 Black Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+426,426,426,426,Karen,Dodd,,,39.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,6314 Gabrielle Canyon Ct,Katy,TX,77450.0,6314 Gabrielle Canyon Ct,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+427,427,427,427,Jose,Urbaez,Susan,Garcia,64.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,19810 Big Canyon Dr,Katy,TX,77450.0,19810 Big Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+428,428,428,428,Alicia,Delgado,Gonzalo,Delgado,39.0,Hanh My-Thi,Trien Pham,,,,,,,6211 Canyon Top Ct,Katy,TX,77450.0,6211 Canyon Top Ct,Katy,TX,,3.0,2.0,2791.0,1999.0,CanyonGateCincoRanch
+429,429,429,429,Dom,Nguyen,Phuong,Nguyen,100.0,Susan Simmons,,281-829-6380,,,,,,6219 Harrison Ct,Katy,TX,77450.0,6219 Harrison Ct,Katy,TX,,3.0,2.0,1899.0,2002.0,CanyonGateCincoRanch
+430,430,430,430,Robyn,Landry,,,59.0,Carrie White,Collin White,281-676-8416,281-398-1784,,,,,6214 Piedra Negras Ct,Katy,TX,77450.0,6214 Piedra Negras Ct,Katy,TX,,5.0,3.0,3557.0,2000.0,CanyonGateCincoRanch
+431,431,431,431,Robert,Lokkesmoe,Suzanne,Lokkesmoe,24.0,Sumitro Chowdhury,,,,,,,,20315 Memorial Pass Dr,Katy,TX,77450.0,20315 Memorial Pass Dr,Katy,TX,,4.0,2.0,2875.0,2001.0,CanyonGateCincoRanch
+432,432,432,432,Ji,Lee,,,100.0,Barbara Wolf,Robert Wolf,281-579-0458,281-630-1414,979-256-9378,,,,6250 Piedra Negras Ct,Katy,TX,77450.0,6250 Piedra Negras Ct,Katy,TX,,4.0,2.0,3016.0,2001.0,CanyonGateCincoRanch
+433,433,433,433,M A Roselyne,Tubay,Roel,Tubay,53.0,Milouda Haddafi,Mohammad Siddiqui,713-398-4845,,,,,,6210 Quentin Canyon Ct,Katy,TX,77450.0,6210 Quentin Canyon Ct,Katy,TX,,4.0,2.0,3317.0,2001.0,CanyonGateCincoRanch
+434,434,434,434,David,Cazarez,,,18.0,Corees Probst,Mark Probst,281-599-8512,915-691-5374,,,,,19926 Black Canyon Dr,Katy,TX,77450.0,19926 Black Canyon Dr,Katy,TX,,4.0,2.0,2142.0,2000.0,CanyonGateCincoRanch
+435,435,435,435,Christopher,Harrell,Mary,Harrell,50.0,Geri Terry,Leland Terry,281-578-5263,,,,,,6222 Clear Canyon Dr,Katy,TX,77450.0,6222 Clear Canyon Dr,Katy,TX,,5.0,3.0,3454.0,2001.0,CanyonGateCincoRanch
+436,436,436,436,John,Ybarra,,,41.0,Judy Clanton,Jerry Clanton,713-376-8432,832-455-5148,713-933-7476,,,,6215 Quentin Canyon Ct,Katy,TX,77450.0,6215 Quentin Canyon Ct,Katy,TX,,4.0,2.0,2590.0,1997.0,CanyonGateCincoRanch
+437,437,437,437,Silva,Mukhtar,,,100.0,Nazma Ajmeri,Amit Ajmeri,713-471-7512,281-647-9818,281-974-0561,,,,6202 Quentin Canyon Ct,Katy,TX,77450.0,6202 Quentin Canyon Ct,Katy,TX,,4.0,2.0,3061.0,2000.0,CanyonGateCincoRanch
+438,438,438,438,Darieke,Kortmann,,,39.0,T Riley Homes Llc,,281-857-3930,713-480-1445,832-289-8406,,,,6206 Clear Canyon Dr,Katy,TX,77450.0,6206 Clear Canyon Dr,Katy,TX,,4.0,2.0,2150.0,1999.0,CanyonGateCincoRanch
+439,439,439,439,Deogracias,Abellera,Narcelyn,Abellera,75.0,Maria Fe Aguilar,,,,,,,,6267 Clear Canyon Dr,Katy,TX,77450.0,6267 Clear Canyon Dr,Katy,TX,,4.0,2.0,2471.0,2001.0,CanyonGateCincoRanch
+440,440,440,440,Kenneth,Anderson,Mary,Anderson,50.0,Maria Quezada,,281-497-0353,,,,,,6206 Santiago Mountain Ct,Katy,TX,77450.0,6206 Santiago Mountain Ct,Katy,TX,,4.0,2.0,2510.0,2001.0,CanyonGateCincoRanch
+441,441,441,441,Caroline,Yancy-Anih,,,48.0,Minerva Redmon,,281-398-6458,,,,,,6207 Harrison Ct,Katy,TX,77450.0,6207 Harrison Ct,Katy,TX,,4.0,2.0,2246.0,1999.0,CanyonGateCincoRanch
+442,442,442,442,Patrick,Anastasio,Frances,Anastasio,42.0,Jacqueline Ghobrial,Rami Tadros,713-703-9350,832-922-7777,281-578-9444,,,,6203 Harrison Ct,Katy,TX,77450.0,6203 Harrison Ct,Katy,TX,,4.0,3.0,3362.0,1998.0,CanyonGateCincoRanch
+443,443,443,443,David,Tyler,Linda,Tyler,44.0,Masood Rahman,Yeqiong Zhu,281-646-0752,281-919-3871,281-701-7345,,,,6211 Pebble Canyon Ct,Katy,TX,77450.0,6211 Pebble Canyon Ct,Katy,TX,,4.0,2.0,2246.0,1999.0,CanyonGateCincoRanch
+444,444,444,444,Xuequan,Liu,,,54.0,Christina Linscott,David Linscott,713-448-9238,832-461-7914,832-276-7931,,,,19822 Big Canyon Dr,Katy,TX,77450.0,19822 Big Canyon Dr,Katy,TX,,5.0,2.0,3129.0,1999.0,CanyonGateCincoRanch
+445,445,445,445,Samuel,Ekwueme,,,34.0,Aaron Copeland,,281-647-8207,,,,,,6215 Canyon Park Dr,Katy,TX,77450.0,6215 Canyon Park Dr,Katy,TX,,4.0,2.0,2791.0,1999.0,CanyonGateCincoRanch
+446,446,446,446,Dane,Tipton,Geralyn,Tipton,60.0,Gomes Homes Builders & Property Investments Llc,,713-992-4082,832-471-6231,832-847-4380,,,,6202 Canyon Park Dr,Katy,TX,77450.0,6202 Canyon Park Dr,Katy,TX,,5.0,3.0,3196.0,2000.0,CanyonGateCincoRanch
+447,447,447,447,Kari,Dyson,,,39.0,Elaine Starling-Small,,281-646-1966,281-974-0474,,,,,20410 Verde Canyon Dr,Katy,TX,77450.0,20410 Verde Canyon Dr,Katy,TX,,3.0,2.0,2475.0,2000.0,CanyonGateCincoRanch
+448,448,448,448,Walter,Hammock,,,48.0,Robert Rao,,281-492-9130,,,,,,20314 Memorial Pass Dr,Katy,TX,77450.0,20314 Memorial Pass Dr,Katy,TX,,4.0,2.0,2272.0,2000.0,CanyonGateCincoRanch
+449,449,449,449,Gabrielle,Browne,Zachary,Browne,24.0,Linda Mei,Bing Mei,832-980-2581,832-708-5439,281-687-3974,,,,6330 Bear Canyon Ct,Katy,TX,77450.0,6330 Bear Canyon Ct,Katy,TX,,5.0,2.0,3129.0,2000.0,CanyonGateCincoRanch
+450,450,450,450,Alexey,Sebasco-Capiro,,,3.0,James Pongrass,,832-713-1340,832-661-4867,281-952-5387,,,,6311 Deep Canyon Dr,Katy,TX,77450.0,6311 Deep Canyon Dr,Katy,TX,,3.0,2.0,2272.0,1998.0,CanyonGateCincoRanch
+451,451,451,451,Ena,Valizadeh,Shani,Valizadeh,39.0,Enelia Ramos,,281-776-9783,,,,,,19914 Big Canyon Dr,Katy,TX,77450.0,19914 Big Canyon Dr,Katy,TX,,4.0,2.0,2150.0,2000.0,CanyonGateCincoRanch
+452,452,452,452,Koren,Burns,,,55.0,Rajaraman Anand,Savitha Rajan,512-653-3613,,,,,,6323 Clear Canyon Dr,Katy,TX,77450.0,6323 Clear Canyon Dr,Katy,TX,,5.0,3.0,3912.0,2001.0,CanyonGateCincoRanch
+453,453,453,453,Randall,Seale,Kimberly,Seale,34.0,Troy Steinberg,,281-217-7782,281-829-6435,,,,,19926 Big Canyon Dr,Katy,TX,77450.0,19926 Big Canyon Dr,Katy,TX,,4.0,2.0,2791.0,1999.0,CanyonGateCincoRanch
+454,454,454,454,Jason,Bourg,Anna,Bourg,37.0,Michele Lengyel,Larry Lengyel,832-439-6410,,,,,,19903 Black Canyon Dr,Katy,TX,77450.0,19903 Black Canyon Dr,Katy,TX,,4.0,2.0,2034.0,1999.0,CanyonGateCincoRanch
+455,455,455,455,Thomas,Stockberger,Gretchen,Stockberger,44.0,Suzanne Lokkesmoe,Robert Lokkesmoe,281-829-5908,,,,,,19830 Big Canyon Dr,Katy,TX,77450.0,19830 Big Canyon Dr,Katy,TX,,4.0,2.0,2034.0,2001.0,CanyonGateCincoRanch
+456,456,456,456,Simon,Rouhana,Simon,Serge,100.0,Jennifer Coleman,Doyle Coleman,281-829-0472,,,,,,19911 Big Canyon Dr,Katy,TX,77450.0,19911 Big Canyon Dr,Katy,TX,,4.0,2.0,2908.0,2001.0,CanyonGateCincoRanch
+457,457,457,457,Teresa,Russell,Jacob,Russell,45.0,Walter Hammock,,713-291-5757,281-398-4051,713-366-6703,,,,6210 Clear Canyon Dr,Katy,TX,77450.0,6210 Clear Canyon Dr,Katy,TX,,4.0,2.0,2246.0,2000.0,CanyonGateCincoRanch
+458,458,458,458,John,Adams,,,61.0,Vara Brown,Brian Brown,281-398-1733,,,,,,20203 Black Canyon Dr,Katy,TX,77450.0,20203 Black Canyon Dr,Katy,TX,,4.0,2.0,2791.0,1999.0,CanyonGateCincoRanch
+459,459,459,459,Stacee,Shavers,,,35.0,Rajalakshmi Parthasarathy,Santhanam Parthasarathy,281-829-6061,,,,,,20231 Black Canyon Dr,Katy,TX,77450.0,20231 Black Canyon Dr,Katy,TX,,4.0,2.0,2875.0,2001.0,CanyonGateCincoRanch
+460,460,460,460,Mortaza,Divkolai,Noushin,Yousefi,37.0,George Nwanguma,,281-578-9501,,,,,,19931 Big Canyon Dr,Katy,TX,77450.0,19931 Big Canyon Dr,Katy,TX,,4.0,3.0,3476.0,1998.0,CanyonGateCincoRanch
+461,461,461,461,Andrew,Harbulak,Angela,Harbulak,16.0,Eric Hall,,281-492-9070,713-371-7934,281-347-4109,,,,6203 Pebble Canyon Ct,Katy,TX,77450.0,6203 Pebble Canyon Ct,Katy,TX,,4.0,2.0,2692.0,1998.0,CanyonGateCincoRanch
+462,462,462,462,Louis,Migues,Vicki,Migues,61.0,Lan-Anh Nguyen,,281-748-1222,832-630-5066,,,,,6202 Morgan Canyon Ct,Katy,TX,77450.0,6202 Morgan Canyon Ct,Katy,TX,,4.0,2.0,3196.0,2000.0,CanyonGateCincoRanch
+463,463,463,463,Wesley,Yeh,,,100.0,Jill Stoneburner,Daryle Stoneburner,281-599-1412,281-330-1085,,,,,6203 Canyon Top Ct,Katy,TX,77450.0,10734 Sea Myrtle Dr,Houston,TX,,4.0,2.0,3210.0,2001.0,CanyonGateCincoRanch
+464,464,464,464,Edwin,Rodriguez,Sandra,Rodriguez,43.0,Rose Schmidt,,832-689-6727,832-567-8477,832-428-3967,,,,6215 Pebble Canyon Ct,Katy,TX,77450.0,26511 Blanchard Grove Dr,Katy,TX,,4.0,2.0,2246.0,2001.0,CanyonGateCincoRanch
+465,465,465,465,Robert,Donaldson,Lisa,Donaldson,40.0,Jihad Bazzi,,832-360-6447,713-416-6469,281-829-6321,,,,6222 Harrison Ct,Katy,TX,77450.0,6222 Harrison Ct,Katy,TX,,4.0,2.0,3203.0,1999.0,CanyonGateCincoRanch
+466,466,466,466,Bladimyr,Guzman,,,40.0,Elizabeth Swanson,Steven Swanson,713-576-9539,281-919-3836,,,,,6315 Canyon Park Dr,Katy,TX,77450.0,6315 Canyon Park Dr,Katy,TX,,4.0,3.0,3206.0,1998.0,CanyonGateCincoRanch
+467,467,467,467,Sherry,Weissman,,,42.0,Fei Bai,Hongnan Cao,281-549-4121,,,,,,6307 Deep Canyon Dr,Katy,TX,77450.0,6307 Deep Canyon Dr,Katy,TX,,4.0,2.0,3439.0,1998.0,CanyonGateCincoRanch
+468,468,468,468,David,Tracy,Darryl,Tracy,12.0,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,19907 Black Canyon Dr,Katy,TX,77450.0,19907 Black Canyon Dr,Katy,TX,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+469,469,469,469,Ashishkumar,Desai,,,55.0,Teresita Cabrera,David Flanagan,,,,,,,6543 Emerald Canyon Rd,Katy,TX,77450.0,6543 Emerald Canyon Rd,Katy,TX,,4.0,2.0,2246.0,1999.0,CanyonGateCincoRanch
+470,470,470,470,John,Ngene,,,48.0,Shani Valizadeh,Ena Valizadeh,,,,,,,20411 Cajon Canyon Ct,Katy,TX,77450.0,20411 Cajon Canyon Ct,Katy,TX,,3.0,2.0,2475.0,2001.0,CanyonGateCincoRanch
+471,471,471,471,David,Fichera,Elizabeth,Trejo,23.0,Linh Tran,Buu Tran,281-646-1763,,,,,,6303 Clear Canyon Dr,Katy,TX,77450.0,6303 Clear Canyon Dr,Katy,TX,,4.0,2.0,2246.0,1999.0,CanyonGateCincoRanch
+472,472,472,472,Trung,Tran,,,4.0,Steven Nowak,,281-748-8079,281-748-8052,,,,,6306 Bear Canyon Ct,Katy,TX,77450.0,6306 Bear Canyon Ct,Katy,TX,,3.0,2.0,1899.0,2001.0,CanyonGateCincoRanch
+473,473,473,473,Rustom,Setna,Fiona,Setna,40.0,Truc Vu,,281-818-4488,713-371-7607,713-382-0569,,,,6311 Gabrielle Canyon Ct,Katy,TX,77450.0,6311 Gabrielle Canyon Ct,Katy,TX,,3.0,2.0,2475.0,2001.0,CanyonGateCincoRanch
+474,474,474,474,Franklin,Pardo,Marta,Pardo,42.0,Priti Jha,Binay Anand,281-599-8462,713-294-4459,713-261-2201,,,,6207 Morgan Canyon Ct,Katy,TX,77450.0,6207 Morgan Canyon Ct,Katy,TX,,4.0,2.0,2875.0,2001.0,CanyonGateCincoRanch
+475,475,475,475,,,,,,Margaret Alzate,,832-974-3645,,,,,,,,,,,,,,3.0,2.0,2404.0,2001.0,CanyonGateCincoRanch
+476,476,476,476,,,,,,Maria Lopez,Delfino Lopez,,,,,,,,,,,,,,,4.0,2.0,2246.0,2000.0,CanyonGateCincoRanch
+477,477,477,477,,,,,,James Easterling,,832-461-3433,281-398-1926,,,,,,,,,,,,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+478,478,478,478,,,,,,Mary Anderson,Kenneth Anderson,281-578-0023,281-961-9317,,,,,,,,,,,,,4.0,3.0,3358.0,1998.0,CanyonGateCincoRanch
+479,479,479,479,,,,,,Jennifer Scholl,Gregory Scholl,832-373-8845,832-474-4062,281-579-0082,,,,,,,,,,,,4.0,2.0,2510.0,2001.0,CanyonGateCincoRanch
+480,480,480,480,,,,,,Sharon Stiewert,,281-217-8016,713-248-6193,281-398-6626,,,,,,,,,,,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+481,481,481,481,,,,,,Kalaichelvi Devarjan,Devarajan Chellia,281-579-7388,,,,,,,,,,,,,,4.0,2.0,3068.0,1998.0,CanyonGateCincoRanch
+482,482,482,482,,,,,,Barbara Aldridge,Dennis Aldridge,281-579-9851,281-960-7653,,,,,,,,,,,,,3.0,2.0,2475.0,2001.0,CanyonGateCincoRanch
+483,483,483,483,,,,,,Mary Dietsch,Nathan Dietsch,281-948-1216,281-248-3017,,,,,,,,,,,,,4.0,2.0,2912.0,1998.0,CanyonGateCincoRanch
+484,484,484,484,,,,,,Barbara Janovsky,,281-829-3878,281-507-2950,,,,,,,,,,,,,4.0,2.0,2246.0,2000.0,CanyonGateCincoRanch
+485,485,485,485,,,,,,Araceli Bueno,Javier Montemayor,312-307-9087,,,,,,,,,,,,,,4.0,2.0,2554.0,2000.0,CanyonGateCincoRanch
+486,486,486,486,,,,,,Mary Huckabee,Daniel Huckabee,713-253-7890,281-865-2153,281-578-9541,,,,,,,,,,,,4.0,2.0,3305.0,1998.0,CanyonGateCincoRanch
+487,487,487,487,,,,,,Liwei Guo,,281-944-9251,281-989-5204,,,,,,,,,,,,,5.0,2.0,3141.0,2001.0,CanyonGateCincoRanch
+488,488,488,488,,,,,,Katare Sridhar,,,,,,,,,,,,,,,,4.0,2.0,2553.0,1998.0,CanyonGateCincoRanch
+489,489,489,489,,,,,,Johnny Russell,Linda Russell,409-350-3709,,,,,,,,,,,,,,4.0,2.0,2150.0,1999.0,CanyonGateCincoRanch
+490,490,490,490,,,,,,Janet Heard,Keller Heard,832-738-3722,832-738-3699,281-579-0349,,,,,,,,,,,,4.0,2.0,3144.0,1998.0,CanyonGateCincoRanch
+491,491,491,491,,,,,,Diana Manzano,,713-307-2861,713-340-7171,281-829-9222,,,,,,,,,,,,4.0,2.0,2150.0,2001.0,CanyonGateCincoRanch
+492,492,492,492,,,,,,Olufolakemi Akosa-Ofili,,806-470-2246,806-470-2254,806-470-2233,,,,,,,,,,,,5.0,2.0,3129.0,2000.0,CanyonGateCincoRanch
+493,493,493,493,,,,,,Ybetisam Flores,Jesus Flores,281-974-8580,,,,,,,,,,,,,,4.0,2.0,2241.0,2001.0,CanyonGateCincoRanch
+494,494,494,494,,,,,,Xenia Hallaway,Jonathan Hallaway,281-840-1906,281-605-9524,281-748-4162,,,,,,,,,,,,4.0,2.0,2096.0,2001.0,CanyonGateCincoRanch
+495,495,495,495,,,,,,Ashishkumar Desai,,713-320-6372,281-492-7787,713-815-4476,,,,,,,,,,,,4.0,2.0,2722.0,2001.0,CanyonGateCincoRanch
+496,496,496,496,,,,,,Anita Wilhelm,Steven Wilhelm,832-623-3749,281-492-7982,713-206-7992,,,,,,,,,,,,4.0,2.0,2730.0,2007.0,CanyonGateCincoRanch
+497,497,497,497,,,,,,Juan Manuel Prieto,,281-829-3809,832-453-0272,,,,,,,,,,,,,4.0,2.0,2246.0,2000.0,CanyonGateCincoRanch
+498,498,498,498,,,,,,Olivia Mcgowan,Terry Mcgowan,832-524-6113,832-746-2584,281-676-4178,,,,,,,,,,,,4.0,2.0,2246.0,2000.0,CanyonGateCincoRanch
+499,499,499,499,,,,,,Mary Cantu,Fermin Cantu,281-646-1566,832-692-6990,,,,,,,,,,,,,4.0,2.0,3021.0,1998.0,CanyonGateCincoRanch
+500,500,500,500,,,,,,Betty Mcnamara,Jude Mcnamara,832-321-4001,210-781-7131,281-584-9834,,,,,,,,,,,,4.0,2.0,3068.0,1997.0,CanyonGateCincoRanch
+501,501,501,501,,,,,,Annmarie Van Natter,,281-398-7275,,,,,,,,,,,,,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+502,502,502,502,,,,,,Cristina Paolicchi,,,,,,,,,,,,,,,,3.0,2.0,2404.0,2000.0,CanyonGateCincoRanch
+503,503,503,503,,,,,,James Bass,,281-579-7914,713-253-0081,832-482-2720,,,,,,,,,,,,4.0,2.0,3305.0,1998.0,CanyonGateCincoRanch
+504,504,504,504,,,,,,V Williams,Mark Williams,281-578-7860,,,,,,,,,,,,,,4.0,2.0,2692.0,1997.0,CanyonGateCincoRanch
+505,505,505,505,,,,,,Israel Schultz,,724-457-0786,,,,,,,,,,,,,,4.0,2.0,2939.0,1998.0,CanyonGateCincoRanch
+506,506,506,506,,,,,,Vibeke Vadstein,,713-384-6976,713-384-9931,281-944-9061,,,,,,,,,,,,4.0,2.0,2829.0,2001.0,CanyonGateCincoRanch
+507,507,507,507,,,,,,Amber Cheng,Ruben Cheng,832-876-8535,281-676-8801,,,,,,,,,,,,,4.0,2.0,3091.0,1997.0,CanyonGateCincoRanch
+508,508,508,508,,,,,,Lisa Donaldson,Robert Donaldson,281-579-7227,281-579-7224,713-870-9702,,,,,,,,,,,,4.0,3.0,3362.0,1998.0,CanyonGateCincoRanch
+509,509,509,509,,,,,,Marta Pardo,Franklin Pardo,,,,,,,,,,,,,,,4.0,2.0,2527.0,1998.0,CanyonGateCincoRanch
+510,510,510,510,,,,,,Vicki Migues,Louis Migues,832-439-2722,281-813-5599,281-398-8215,,,,,,,,,,,,4.0,2.0,2678.0,1998.0,CanyonGateCincoRanch
+511,511,511,511,,,,,,Nadine Sales,Harvey Sales,281-701-4193,713-459-2167,281-492-7327,,,,,,,,,,,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+512,512,512,512,,,,,,Donna Duggan,George Duggan,281-599-8580,,,,,,,,,,,,,,5.0,3.0,3129.0,1997.0,CanyonGateCincoRanch
+513,513,513,513,,,,,,Iradj Ayazi,,936-648-6336,832-541-2221,936-321-3065,,,,,,,,,,,,4.0,2.0,2553.0,1998.0,CanyonGateCincoRanch
+514,514,514,514,,,,,,Phuong Nguyen,Dom Nguyen,281-492-6578,,,,,,,,,,,,,,4.0,2.0,2272.0,1998.0,CanyonGateCincoRanch
+515,515,515,515,,,,,,Shelby Parker,,281-684-1784,281-578-0924,,,,,,,,,,,,,4.0,2.0,2272.0,1998.0,CanyonGateCincoRanch
+516,516,516,516,,,,,,Shermineh Banatehrani,Reza Azimi,281-455-4368,,,,,,,,,,,,,,4.0,2.0,3305.0,1998.0,CanyonGateCincoRanch
+517,517,517,517,,,,,,Ksenija Babic,,713-340-8382,713-448-9240,832-646-6167,,,,,,,,,,,,4.0,2.0,2520.0,1997.0,CanyonGateCincoRanch
+518,518,518,518,,,,,,Lillian Borjas,,832-857-8466,,,,,,,,,,,,,,4.0,2.0,2590.0,1998.0,CanyonGateCincoRanch
+519,519,519,519,,,,,,Jaleesa Soomro,Sohail Soomro,832-607-9653,281-687-0662,281-646-9499,,,,,,,,,,,,4.0,2.0,2912.0,1998.0,CanyonGateCincoRanch
+520,520,520,520,,,,,,Barbara Moore,,817-331-8126,713-935-0432,713-935-0513,,,,,,,,,,,,4.0,2.0,1842.0,1997.0,CanyonGateCincoRanch
+521,521,521,521,,,,,,Justin Davis,Elizabeth Davis,832-401-8478,,,,,,,,,,,,,,4.0,2.0,2380.0,1997.0,CanyonGateCincoRanch
+522,522,522,522,,,,,,Meghan Flanagan,,,,,,,,,,,,,,,,3.0,2.0,1498.0,1997.0,CanyonGateCincoRanch
+523,523,523,523,,,,,,Caroline Yancy-Anih,,281-492-9736,281-389-9184,713-829-0943,,,,,,,,,,,,4.0,3.0,3216.0,2000.0,CanyonGateCincoRanch
+524,524,524,524,,,,,,Luisa Pabon,,281-829-2038,,,,,,,,,,,,,,3.0,2.0,1802.0,1997.0,CanyonGateCincoRanch
+525,525,525,525,,,,,,Philip Flinn,Daniella Flinn,979-422-1711,832-790-4388,713-584-0635,,,,,,,,,,,,3.0,2.0,1802.0,1997.0,CanyonGateCincoRanch
+526,526,526,526,,,,,,Melinda Ray,Ivan Ray,713-870-3490,281-599-1282,713-870-5262,,,,,,,,,,,,4.0,2.0,2678.0,1998.0,CanyonGateCincoRanch
+527,527,527,527,,,,,,Frances Anastasio,Patrick Anastasio,281-398-8542,281-961-6191,281-398-8609,,,,,,,,,,,,5.0,3.0,3152.0,1998.0,CanyonGateCincoRanch
+528,528,528,528,,,,,,Guillermo Medina,,,,,,,,,,,,,,,,3.0,2.0,2164.0,1997.0,CanyonGateCincoRanch
+529,529,529,529,,,,,,Souheil Samara,Adela Samara,281-599-0185,713-594-5801,,,,,,,,,,,,,3.0,2.0,1842.0,1998.0,CanyonGateCincoRanch
+530,530,530,530,,,,,,Ji Lee,,832-876-1001,,,,,,,,,,,,,,3.0,2.0,1842.0,1998.0,CanyonGateCincoRanch
+531,531,531,531,,,,,,Jing Li,,832-298-2556,713-256-4488,832-475-5898,,,,,,,,,,,,3.0,2.0,1727.0,1997.0,CanyonGateCincoRanch
+532,532,532,532,,,,,,Connie Peurifoy,,281-627-3535,,,,,,,,,,,,,,4.0,2.0,2952.0,1998.0,CanyonGateCincoRanch
+533,533,533,533,,,,,,Juan Rodriguez,,832-758-5333,713-298-3515,832-403-5952,,,,,,,,,,,,3.0,2.0,1842.0,1998.0,CanyonGateCincoRanch
+534,534,534,534,,,,,,Wfi Properties Inc,,281-725-7408,713-498-9694,281-398-7394,,,,,,,,,,,,4.0,2.0,2502.0,1997.0,CanyonGateCincoRanch
+535,535,535,535,,,,,,Gloria C De Hernandez,Julio C Garcia,,,,,,,,,,,,,,,3.0,2.0,1842.0,1998.0,CanyonGateCincoRanch
+536,536,536,536,,,,,,Yen An-Huei,William Davidson,281-398-1568,,,,,,,,,,,,,,3.0,2.0,1842.0,1998.0,CanyonGateCincoRanch
+537,537,537,537,,,,,,Yuanwei Lao,Shuyan Qiu,281-829-0720,,,,,,,,,,,,,,4.0,2.0,2502.0,1998.0,CanyonGateCincoRanch
+538,538,538,538,,,,,,Marta Pardo,Franklin Pardo,501-952-5337,,,,,,,,,,,,,,3.0,2.0,2107.0,1997.0,CanyonGateCincoRanch
+539,539,539,539,,,,,,Richard Priest,,281-513-8598,,,,,,,,,,,,,,3.0,2.0,2271.0,1998.0,CanyonGateCincoRanch
+540,540,540,540,,,,,,Dixie Moreau,Jean Moreau,281-216-0643,281-744-4550,281-492-8191,,,,,,,,,,,,4.0,3.0,3238.0,2000.0,CanyonGateCincoRanch
+541,541,541,541,,,,,,Nancy Decharinte,,281-578-6464,281-798-3730,,,,,,,,,,,,,4.0,2.0,2952.0,1998.0,CanyonGateCincoRanch
+542,542,542,542,,,,,,Bernadette Murphy,Daniel Murphy,281-398-4493,,,,,,,,,,,,,,3.0,2.0,2036.0,1998.0,CanyonGateCincoRanch
+543,543,543,543,,,,,,Sandra Rodriguez,Edwin Rodriguez,713-775-6811,713-410-3896,,,,,,,,,,,,,3.0,2.0,1498.0,1998.0,CanyonGateCincoRanch
+544,544,544,544,,,,,,Daniel Coyer,,281-398-1193,832-628-8270,713-548-4442,,,,,,,,,,,,3.0,2.0,1948.0,1998.0,CanyonGateCincoRanch
+545,545,545,545,,,,,,Theresa Concepcion-Lee,Jin Lee,281-250-5185,281-748-8680,713-530-7479,,,,,,,,,,,,4.0,3.0,3280.0,2000.0,CanyonGateCincoRanch
+546,546,546,546,,,,,,Cosby Barbara,,281-578-3909,,,,,,,,,,,,,,3.0,2.0,1842.0,1998.0,CanyonGateCincoRanch
+547,547,547,547,,,,,,Linda Tyler,David Tyler,832-457-5490,832-457-5493,281-646-1069,,,,,,,,,,,,4.0,2.0,2996.0,1998.0,CanyonGateCincoRanch
+548,548,548,548,,,,,,Kassie Olwen,Jason Mckey,281-676-8279,281-676-8278,,,,,,,,,,,,,4.0,2.0,1856.0,1998.0,CanyonGateCincoRanch
+549,549,549,549,,,,,,Camille White,James White,,,,,,,,,,,,,,,4.0,2.0,2502.0,1998.0,CanyonGateCincoRanch
+550,550,550,550,,,,,,Melissa Jersild,Michael Cutherell,281-829-5474,281-960-3752,,,,,,,,,,,,,3.0,2.0,2164.0,1998.0,CanyonGateCincoRanch
+551,551,551,551,,,,,,Roel Tubay,M a Roselyne Tubay,281-857-9434,281-599-8215,832-213-7893,,,,,,,,,,,,4.0,2.0,2939.0,1998.0,CanyonGateCincoRanch
+552,552,552,552,,,,,,Nelson Linda,,281-647-6660,,,,,,,,,,,,,,3.0,2.0,2002.0,1998.0,CanyonGateCincoRanch
+553,553,553,553,,,,,,Hien Huynh,Kshitiz Nautiyal,,,,,,,,,,,,,,,4.0,2.0,2690.0,1998.0,CanyonGateCincoRanch
+554,554,554,554,,,,,,Adrian Loskot,,281-704-9180,281-829-7945,281-676-4186,,,,,,,,,,,,4.0,2.0,2380.0,1998.0,CanyonGateCincoRanch
+555,555,555,555,,,,,,Michelle Ragsdale,Kevin Ragsdale,832-321-4203,281-229-3085,,,,,,,,,,,,,3.0,2.0,2376.0,1998.0,CanyonGateCincoRanch
+556,556,556,556,,,,,,Rhodora Litong,Domingo Litong,281-578-2448,832-715-4793,,,,,,,,,,,,,4.0,2.0,2769.0,2000.0,CanyonGateCincoRanch
+557,557,557,557,,,,,,Irene Law,Steve Lee,281-829-6705,,,,,,,,,,,,,,4.0,2.0,2729.0,2000.0,CanyonGateCincoRanch
+558,558,558,558,,,,,,Andrea Maeker,Scott Maeker,281-914-2456,832-603-3812,,,,,,,,,,,,,4.0,4.0,3178.0,2000.0,CanyonGateCincoRanch
+559,559,559,559,,,,,,Mary Radwan,Farid Radwan,832-607-4480,832-782-2739,,,,,,,,,,,,,3.0,2.0,2755.0,2000.0,CanyonGateCincoRanch
+560,560,560,560,,,,,,Luai Salaymeh,,832-321-3495,,,,,,,,,,,,,,5.0,3.0,2957.0,2000.0,CanyonGateCincoRanch
+561,561,561,561,,,,,,Jamal Zaghmouth,Ihsan Zaghmouth,281-250-0877,281-961-1452,,,,,,,,,,,,,4.0,2.0,2601.0,2000.0,CanyonGateCincoRanch
+562,562,562,562,,,,,,Amanda Frey,Billy Frey,281-599-0442,,,,,,,,,,,,,,5.0,4.0,3401.0,2000.0,CanyonGateCincoRanch
+563,563,563,563,,,,,,Manuel Sanchez,Barbara Sanchez,281-734-2211,915-778-0139,,,,,,,,,,,,,3.0,2.0,2799.0,1999.0,CanyonGateCincoRanch
+564,564,564,564,,,,,,Maria Gamero-Nunez,Leon Duarte,,,,,,,,,,,,,,,4.0,3.0,3020.0,2000.0,CanyonGateCincoRanch
+565,565,565,565,,,,,,Esther Castaneda,Luis Castaneda,832-818-5300,,,,,,,,,,,,,,4.0,2.0,3107.0,2000.0,CanyonGateCincoRanch
+566,566,566,566,,,,,,Fatimah Zahid,,832-576-7452,713-231-3611,281-515-0461,,,,,,,,,,,,5.0,3.0,3569.0,2000.0,CanyonGateCincoRanch
+567,567,567,567,,,,,,Angela Weatherly,John Weatherly,209-740-8255,209-676-1137,209-740-8303,,,,,,,,,,,,4.0,3.0,3364.0,1999.0,CanyonGateCincoRanch
+568,568,568,568,,,,,,Anna Musselman,,281-866-5833,832-321-3480,,,,,,,,,,,,,4.0,2.0,2854.0,2002.0,CanyonGateCincoRanch
+569,569,569,569,,,,,,Diane Pakel,Patrick Pakel,281-330-6268,,,,,,,,,,,,,,4.0,3.0,3905.0,2001.0,CanyonGateCincoRanch
+570,570,570,570,,,,,,Kim Glover,Michael Glover,281-974-0480,,,,,,,,,,,,,,5.0,3.0,2973.0,2001.0,CanyonGateCincoRanch
+571,571,571,571,,,,,,William Baber,,281-398-5637,,,,,,,,,,,,,,4.0,3.0,3546.0,2001.0,CanyonGateCincoRanch
+572,572,572,572,,,,,,Emelia Bibah,Godwin Bibah,281-854-7496,281-515-6267,832-437-3125,,,,,,,,,,,,5.0,3.0,3437.0,2002.0,CanyonGateCincoRanch
+573,573,573,573,,,,,,Rakesh Patel,,281-599-7892,,,,,,,,,,,,,,5.0,3.0,3232.0,2002.0,CanyonGateCincoRanch
+574,574,574,574,,,,,,Diane Crossey,Thomas Crossey,281-578-3096,713-974-0169,713-542-4211,,,,,,,,,,,,5.0,4.0,3578.0,2000.0,CanyonGateCincoRanch
+575,575,575,575,,,,,,Diem Luong,Lam Vu,,,,,,,,,,,,,,,4.0,2.0,2792.0,1999.0,CanyonGateCincoRanch
+576,576,576,576,,,,,,Rhonda Kallmeyer,Michael Kallmeyer,281-250-9784,281-635-5293,281-398-7496,,,,,,,,,,,,5.0,3.0,3566.0,1999.0,CanyonGateCincoRanch
+577,577,577,577,,,,,,Anje Olson,Mark Olson,832-472-4992,281-829-6751,713-858-0325,,,,,,,,,,,,5.0,3.0,3566.0,1999.0,CanyonGateCincoRanch
+578,578,578,578,,,,,,Fidyarti Gumilar,Bambang Gumilar,832-321-5002,832-531-9847,832-774-2823,,,,,,,,,,,,5.0,3.0,3437.0,2002.0,CanyonGateCincoRanch
+579,579,579,579,,,,,,Reyna Huliganga,,281-995-7921,956-222-4512,,,,,,,,,,,,,5.0,4.0,3574.0,2001.0,CanyonGateCincoRanch
+580,580,580,580,,,,,,Renee Guilbeau,Richard Guilbeau,281-599-1068,,,,,,,,,,,,,,4.0,2.0,3615.0,1999.0,CanyonGateCincoRanch
+581,581,581,581,,,,,,Jeanine Callaway,James Callaway,281-647-2844,,,,,,,,,,,,,,4.0,3.0,3546.0,2000.0,CanyonGateCincoRanch
+582,582,582,582,,,,,,Muthoni Cook,Michael Cook,281-578-2171,832-437-9112,281-693-4919,,,,,,,,,,,,5.0,2.0,2838.0,2002.0,CanyonGateCincoRanch
+583,583,583,583,,,,,,Jennifer Ingram,James Ingram,832-513-9446,,,,,,,,,,,,,,5.0,4.0,3802.0,2000.0,CanyonGateCincoRanch
+584,584,584,584,,,,,,Daryl Gene,Rivera Hayes,,,,,,,,,,,,,,,4.0,4.0,3051.0,2000.0,CanyonGateCincoRanch
+585,585,585,585,,,,,,Jacqueline Ozorio,Joseph Brace,832-563-9765,832-754-5579,,,,,,,,,,,,,5.0,3.0,3051.0,2001.0,CanyonGateCincoRanch
+586,586,586,586,,,,,,Hanna Francis,,281-236-8793,832-814-0700,832-276-0453,,,,,,,,,,,,5.0,3.0,3437.0,2002.0,CanyonGateCincoRanch
+587,587,587,587,,,,,,Kamika Hearne,Michael Hearne,281-380-9049,,,,,,,,,,,,,,5.0,3.0,3282.0,2001.0,CanyonGateCincoRanch
+588,588,588,588,,,,,,Kimberly Clayborn,Raymond Clayborn,281-455-5304,281-647-0085,832-444-8988,,,,,,,,,,,,3.0,2.0,2533.0,1999.0,CanyonGateCincoRanch
+589,589,589,589,,,,,,Mohan Sanjay,Yasmeen Arya,832-629-1464,832-629-1204,713-851-6879,,,,,,,,,,,,4.0,2.0,3409.0,2001.0,CanyonGateCincoRanch
+590,590,590,590,,,,,,Chiung-Li Hsieh,Chu Huang,832-513-0661,832-513-0586,832-704-1121,,,,,,,,,,,,5.0,3.0,3557.0,2001.0,CanyonGateCincoRanch
+591,591,591,591,,,,,,Geralyn Tipton,Dane Tipton,,,,,,,,,,,,,,,4.0,2.0,3302.0,2000.0,CanyonGateCincoRanch
+592,592,592,592,,,,,,Westside Church of Christ,,281-579-3100,281-492-9814,,,,,,,,,,,,,0.0,0.0,31400.0,2009.0,CanyonGateCincoRanch
+593,593,593,593,,,,,,Catherine Denton,Robert Denton,281-658-3369,,,,,,,,,,,,,,4.0,2.0,2788.0,1999.0,CanyonGateCincoRanch
+594,594,594,594,,,,,,Angela Martinez,,832-618-7748,713-894-5761,832-858-4864,,,,,,,,,,,,5.0,3.0,3466.0,2002.0,CanyonGateCincoRanch
+595,595,595,595,,,,,,Heather Price,Barton Price,713-480-0311,281-646-9017,,,,,,,,,,,,,5.0,4.0,3232.0,2002.0,CanyonGateCincoRanch
+596,596,596,596,,,,,,Bladimyr Guzman,,,,,,,,,,,,,,,,4.0,3.0,3534.0,2001.0,CanyonGateCincoRanch
+597,597,597,597,,,,,,Keri Muirden,Lewis Muirden,281-646-8028,,,,,,,,,,,,,,4.0,3.0,2854.0,2002.0,CanyonGateCincoRanch
+598,598,598,598,,,,,,Khalad Maoed,,281-676-8658,281-829-6917,832-647-5959,,,,,,,,,,,,4.0,2.0,2436.0,2003.0,CanyonGateCincoRanch
+599,599,599,599,,,,,,Oscar Quintero,Christina Micu,,,,,,,,,,,,,,,4.0,2.0,2501.0,2002.0,CanyonGateCincoRanch
+600,600,600,600,,,,,,Maryam Aziz,Qasim Aziz,832-970-6475,832-613-4508,281-635-5617,,,,,,,,,,,,5.0,4.0,3232.0,2002.0,CanyonGateCincoRanch
+601,601,601,601,,,,,,Paulette Archer,,281-398-4455,832-974-3289,281-961-9788,,,,,,,,,,,,4.0,3.0,2950.0,1999.0,CanyonGateCincoRanch
+602,602,602,602,,,,,,Laura Henry,,281-685-8404,,,,,,,,,,,,,,5.0,3.0,3772.0,2002.0,CanyonGateCincoRanch
+603,603,603,603,,,,,,Samuel Ekwueme,,281-829-7219,,,,,,,,,,,,,,4.0,3.0,3364.0,1999.0,CanyonGateCincoRanch
+604,604,604,604,,,,,,Robert Chilton,Elise Chilton,713-594-5943,,,,,,,,,,,,,,4.0,2.0,2788.0,2000.0,CanyonGateCincoRanch
+605,605,605,605,,,,,,Paula Meche,Herman Meche,281-599-0067,337-991-9410,,,,,,,,,,,,,3.0,2.0,2061.0,2002.0,CanyonGateCincoRanch
+606,606,606,606,,,,,,Ying Gao,Xudong Yang,832-428-0730,832-818-2302,832-235-3199,,,,,,,,,,,,4.0,2.0,3409.0,2001.0,CanyonGateCincoRanch
+607,607,607,607,,,,,,Jenny Nguyen,Justin Pham,,,,,,,,,,,,,,,4.0,4.0,3051.0,2001.0,CanyonGateCincoRanch
+608,608,608,608,,,,,,Martha Galindo,Gabriel Galindo,832-275-2638,281-829-6510,832-903-0093,,,,,,,,,,,,5.0,3.0,3569.0,2002.0,CanyonGateCincoRanch
+609,609,609,609,,,,,,Elizabeth Wyss,Francisco Santos,281-755-4317,,,,,,,,,,,,,,4.0,2.0,2436.0,2002.0,CanyonGateCincoRanch
+610,610,610,610,,,,,,Myra Naseralla,Jamal Naseralla,713-870-2918,281-250-4640,713-870-2165,,,,,,,,,,,,4.0,3.0,3136.0,1999.0,CanyonGateCincoRanch
+611,611,611,611,,,,,,Yongming Cheng,,,,,,,,,,,,,,,,5.0,3.0,3437.0,2002.0,CanyonGateCincoRanch
+612,612,612,612,,,,,,Susan Eddleston,Paul Williams,281-492-9407,281-704-0827,832-382-3671,,,,,,,,,,,,5.0,3.0,3784.0,2001.0,CanyonGateCincoRanch
+613,613,613,613,,,,,,Kelley Alkek,,832-437-4179,281-394-2420,,,,,,,,,,,,,4.0,2.0,3016.0,2002.0,CanyonGateCincoRanch
+614,614,614,614,,,,,,Kerry Howl,Matthew Howl,,,,,,,,,,,,,,,4.0,3.0,3364.0,1999.0,CanyonGateCincoRanch
+615,615,615,615,,,,,,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,,,,,,,,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+616,616,616,616,,,,,,Lisa Sleiman,Mahmoud Sleiman,281-380-3106,,,,,,,,,,,,,,4.0,2.0,3791.0,1999.0,CanyonGateCincoRanch
+617,617,617,617,,,,,,Tonya Campbell,,281-599-3763,409-692-2308,903-834-7257,,,,,,,,,,,,4.0,2.0,2854.0,2003.0,CanyonGateCincoRanch
+618,618,618,618,,,,,,Ruth Terry,Matthew Terry,,,,,,,,,,,,,,,4.0,2.0,3306.0,1999.0,CanyonGateCincoRanch
+619,619,619,619,,,,,,Barbara Branch,James Branch,713-582-3931,281-398-2873,,,,,,,,,,,,,3.0,2.0,2799.0,1999.0,CanyonGateCincoRanch
+620,620,620,620,,,,,,Ryan Killam,,832-738-0366,281-678-2084,281-676-4889,,,,,,,,,,,,4.0,2.0,3364.0,1999.0,CanyonGateCincoRanch
+621,621,621,621,,,,,,Augustine Sebastian,,,,,,,,,,,,,,,,4.0,2.0,2527.0,2002.0,CanyonGateCincoRanch
+622,622,622,622,,,,,,Syed Hussain,Syeda Iqbal,832-433-3764,713-965-3380,832-339-0460,,,,,,,,,,,,5.0,3.0,3371.0,2000.0,CanyonGateCincoRanch
+623,623,623,623,,,,,,Farhin Lamia,Abu Aziz,281-961-9331,,,,,,,,,,,,,,4.0,2.0,2919.0,1999.0,CanyonGateCincoRanch
+624,624,624,624,,,,,,Sonja Murrell,Douglas Murrell,832-368-5954,281-578-1014,,,,,,,,,,,,,4.0,2.0,2471.0,2000.0,CanyonGateCincoRanch
+625,625,625,625,,,,,,Audrey Markiton,Robert Markiton,281-799-6812,281-829-6029,,,,,,,,,,,,,4.0,4.0,3190.0,2001.0,CanyonGateCincoRanch
+626,626,626,626,,,,,,Mayson Jabro,Emad Turki,,,,,,,,,,,,,,,5.0,3.0,2973.0,2001.0,CanyonGateCincoRanch
+627,627,627,627,,,,,,Sheetal Sarda,Umesh Parwal,,,,,,,,,,,,,,,4.0,2.0,2847.0,2001.0,CanyonGateCincoRanch
+628,628,628,628,,,,,,Hung Kwok,Yuk Mak,832-858-1668,832-668-0501,,,,,,,,,,,,,5.0,4.0,3397.0,2001.0,CanyonGateCincoRanch
+629,629,629,629,,,,,,Becky Neely,Russell Neely,281-676-8754,,,,,,,,,,,,,,5.0,3.0,3391.0,2000.0,CanyonGateCincoRanch
+630,630,630,630,,,,,,Julie Bush,Ryan Bush,281-717-4615,,,,,,,,,,,,,,4.0,4.0,3190.0,2001.0,CanyonGateCincoRanch
+631,631,631,631,,,,,,Sandra Nsobundu,,281-492-2704,832-498-4980,281-398-5525,,,,,,,,,,,,5.0,4.0,3954.0,2001.0,CanyonGateCincoRanch
+632,632,632,632,,,,,,Paul Bonner,,281-579-9549,281-578-7717,213-299-3822,,,,,,,,,,,,5.0,3.0,3557.0,2000.0,CanyonGateCincoRanch
+633,633,633,633,,,,,,Janice Ecklund,James Ecklund,281-599-7421,540-280-5067,281-656-4646,,,,,,,,,,,,3.0,2.0,2449.0,2000.0,CanyonGateCincoRanch
+634,634,634,634,,,,,,Jan Moss,Susan Moss,409-201-2777,409-201-2214,,,,,,,,,,,,,3.0,2.0,2061.0,2002.0,CanyonGateCincoRanch
+635,635,635,635,,,,,,Olga Birgy,,832-921-0314,832-921-3575,832-552-7373,,,,,,,,,,,,4.0,2.0,2757.0,2000.0,CanyonGateCincoRanch
+636,636,636,636,,,,,,Mamta Yerneni,,281-829-7585,281-829-5468,,,,,,,,,,,,,4.0,3.0,3217.0,2000.0,CanyonGateCincoRanch
+637,637,637,637,,,,,,James Alexander,,,,,,,,,,,,,,,,5.0,4.0,3214.0,1999.0,CanyonGateCincoRanch
+638,638,638,638,,,,,,Xiaotong Qiu,,281-398-3584,518-573-2161,,,,,,,,,,,,,5.0,3.0,3978.0,2000.0,CanyonGateCincoRanch
+639,639,639,639,,,,,,Phyllis Gibson,Donald Gibson,281-398-7877,281-755-2179,281-496-9641,,,,,,,,,,,,4.0,2.0,3615.0,1999.0,CanyonGateCincoRanch
+640,640,640,640,,,,,,Edna Conner,Louis Conner,281-578-2883,281-732-6000,,,,,,,,,,,,,3.0,2.0,2799.0,1999.0,CanyonGateCincoRanch
+641,641,641,641,,,,,,Wisam Elhaj,,832-514-5677,,,,,,,,,,,,,,4.0,3.0,3981.0,1999.0,CanyonGateCincoRanch
+642,642,642,642,,,,,,Mark Leopold,,281-221-2868,,,,,,,,,,,,,,4.0,3.0,3534.0,2001.0,CanyonGateCincoRanch
+643,643,643,643,,,,,,Mehrzad Mehmandoost,,832-530-3617,281-829-7094,832-598-1338,,,,,,,,,,,,5.0,4.0,3214.0,1999.0,CanyonGateCincoRanch
+644,644,644,644,,,,,,Jimmy Nguyen,,832-971-8866,281-578-1808,,,,,,,,,,,,,3.0,2.0,2004.0,2000.0,CanyonGateCincoRanch
+645,645,645,645,,,,,,Thomas Sleeper,Christina Sleeper,281-385-8497,281-599-1061,,,,,,,,,,,,,5.0,3.0,3051.0,2001.0,CanyonGateCincoRanch
+646,646,646,646,,,,,,Rene Juarez,,832-433-2813,713-875-1714,832-434-7832,,,,,,,,,,,,4.0,3.0,3376.0,1999.0,CanyonGateCincoRanch
+647,647,647,647,,,,,,Daniel Lozano,,281-492-2640,281-889-8870,,,,,,,,,,,,,5.0,3.0,3391.0,2000.0,CanyonGateCincoRanch
+648,648,648,648,,,,,,Zahra Bodaghi,,281-829-7495,,,,,,,,,,,,,,4.0,2.0,2061.0,2002.0,CanyonGateCincoRanch
+649,649,649,649,,,,,,Eleonora Slovokhotova,,713-857-6205,,,,,,,,,,,,,,5.0,3.0,3814.0,2000.0,CanyonGateCincoRanch
+650,650,650,650,,,,,,Maria Huby,Alvaro Sarmiento,281-599-0345,281-224-5791,,,,,,,,,,,,,5.0,3.0,3784.0,2000.0,CanyonGateCincoRanch
+651,651,651,651,,,,,,Yen Pei-Wan,Chih-Chau Hwang,,,,,,,,,,,,,,,5.0,4.0,3397.0,2001.0,CanyonGateCincoRanch
+652,652,652,652,,,,,,Orelessa Brown,,832-643-4945,,,,,,,,,,,,,,5.0,3.0,3772.0,2001.0,CanyonGateCincoRanch
+653,653,653,653,,,,,,Nagma Ahmad,Tufail Ahmad,281-578-8870,,,,,,,,,,,,,,5.0,3.0,3569.0,2000.0,CanyonGateCincoRanch
+654,654,654,654,,,,,,Saidrasul Bakiev,,281-222-7968,,,,,,,,,,,,,,5.0,3.0,2766.0,2000.0,CanyonGateCincoRanch
+655,655,655,655,,,,,,Dawn Folsom,,281-944-9747,281-932-5504,832-439-0409,,,,,,,,,,,,5.0,3.0,3437.0,2002.0,CanyonGateCincoRanch
+656,656,656,656,,,,,,Sharonda Book,Greg Book,832-704-8045,832-704-8046,832-321-4469,,,,,,,,,,,,3.0,2.0,2202.0,2000.0,CanyonGateCincoRanch
+657,657,657,657,,,,,,Wesley Yeh,,832-220-6920,,,,,,,,,,,,,,4.0,2.0,2451.0,1998.0,CanyonGateCincoRanch
+658,658,658,658,,,,,,Carl Rogers,,281-433-8409,281-647-6164,,,,,,,,,,,,,3.0,2.0,2923.0,2000.0,CanyonGateCincoRanch
+659,659,659,659,,,,,,Melissa Leblanc,Jacob Leblanc,713-444-2222,281-578-8028,713-421-1413,,,,,,,,,,,,4.0,2.0,2471.0,2000.0,CanyonGateCincoRanch
+660,660,660,660,,,,,,J Guan,Bo Cui,281-701-8646,,,,,,,,,,,,,,5.0,3.0,3409.0,2000.0,CanyonGateCincoRanch
+661,661,661,661,,,,,,Dawn Emami,Seyed Emami,713-992-2576,713-992-2064,505-620-4608,,,,,,,,,,,,6.0,4.0,3802.0,2000.0,CanyonGateCincoRanch
+662,662,662,662,,,,,,Howard Vo,,682-553-1498,,,,,,,,,,,,,,3.0,2.0,2004.0,2000.0,CanyonGateCincoRanch
+663,663,663,663,,,,,,Melissa Dale,Donald Dale,,,,,,,,,,,,,,,5.0,3.0,3435.0,2000.0,CanyonGateCincoRanch
+664,664,664,664,,,,,,Amy Keeler,John Keeler,281-944-9888,,,,,,,,,,,,,,5.0,4.0,3391.0,2000.0,CanyonGateCincoRanch
+665,665,665,665,,,,,,Jose Fernandez,,713-351-9036,832-744-2888,,,,,,,,,,,,,4.0,2.0,2246.0,1999.0,CanyonGateCincoRanch
+666,666,666,666,,,,,,Heidi Negron,,281-301-9497,832-716-3280,832-282-7218,,,,,,,,,,,,4.0,2.0,2471.0,2000.0,CanyonGateCincoRanch
+667,667,667,667,,,,,,Steven Stojack,,832-643-2758,,,,,,,,,,,,,,3.0,2.0,2038.0,1998.0,CanyonGateCincoRanch
+668,668,668,668,,,,,,Dena Cope,Billy Cope,281-795-3101,281-398-9971,,,,,,,,,,,,,4.0,2.0,2506.0,2000.0,CanyonGateCincoRanch
+669,669,669,669,,,,,,Melissa Nunmaker,Randall Nunmaker,281-948-7901,713-261-2979,281-748-9054,,,,,,,,,,,,4.0,2.0,2910.0,2000.0,CanyonGateCincoRanch
+670,670,670,670,,,,,,Oluwakemi Orekoya,Adedolapo Orekoya,832-597-5094,281-829-6984,832-375-5283,,,,,,,,,,,,4.0,2.0,3583.0,1999.0,CanyonGateCincoRanch
+671,671,671,671,,,,,,Francisco Forn,,423-920-8933,713-854-7583,713-283-4981,,,,,,,,,,,,4.0,2.0,2757.0,2000.0,CanyonGateCincoRanch
+672,672,672,672,,,,,,Eileen Swanson,,832-533-4858,,,,,,,,,,,,,,5.0,3.0,3391.0,2000.0,CanyonGateCincoRanch
+673,673,673,673,,,,,,Metin Oktay,Hacer Gokdemir,281-829-6239,,,,,,,,,,,,,,5.0,3.0,3786.0,2001.0,CanyonGateCincoRanch
+674,674,674,674,,,,,,Rosa Alanis,Edelmiro Alanis,281-804-5916,,,,,,,,,,,,,,4.0,2.0,2910.0,2001.0,CanyonGateCincoRanch
+675,675,675,675,,,,,,Tajin Choudhury,Shamim Choudhury,281-717-4989,281-578-0040,,,,,,,,,,,,,5.0,3.0,3569.0,2000.0,CanyonGateCincoRanch
+676,676,676,676,,,,,,Gonzalo Delgado,Alicia Delgado,312-215-0908,773-972-6113,832-643-9649,,,,,,,,,,,,4.0,2.0,2502.0,1997.0,CanyonGateCincoRanch
+677,677,677,677,,,,,,Linh Doan-Mier,,281-935-4985,281-935-4983,281-579-6864,,,,,,,,,,,,4.0,2.0,2729.0,2000.0,CanyonGateCincoRanch
+678,678,678,678,,,,,,Emelike Murphy,,,281-665-9827,,,,,,,,,,,,,5.0,3.0,3569.0,2000.0,CanyonGateCincoRanch
+679,679,679,679,,,,,,William Whitfield,,281-507-5651,832-489-4981,,,,,,,,,,,,,4.0,3.0,3270.0,2001.0,CanyonGateCincoRanch
+680,680,680,680,,,,,,Lisa Criss,,713-504-0812,281-647-9883,,,,,,,,,,,,,3.0,2.0,1856.0,1997.0,CanyonGateCincoRanch
+681,681,681,681,,,,,,Bernadette Leaney,W Leaney,832-390-8601,281-579-8416,281-896-3910,,,,,,,,,,,,5.0,3.0,3306.0,2000.0,CanyonGateCincoRanch
+682,682,682,682,,,,,,Canyon Gate Cinco Ranch Owners Assn Inc,,281-492-6020,281-555-9131,,,,,,,,,,,,,0.0,0.0,0.0,0.0,CanyonGateCincoRanch
+683,683,683,683,,,,,,Calvin Hurford,,281-492-2106,817-312-7281,,,,,,,,,,,,,4.0,2.0,2471.0,2000.0,CanyonGateCincoRanch
+684,684,684,684,,,,,,Deresharee Laracuente,Nelson Laracuente,281-777-5277,,,,,,,,,,,,,,5.0,3.0,3504.0,2002.0,CanyonGateCincoRanch
+685,685,685,685,,,,,,Jennifer Weze,,281-647-6741,281-647-6776,,,,,,,,,,,,,4.0,2.0,2757.0,2000.0,CanyonGateCincoRanch
+686,686,686,686,,,,,,Shik Mak,,832-955-4571,832-552-3051,,,,,,,,,,,,,3.0,2.0,2434.0,1997.0,CanyonGateCincoRanch
+687,687,687,687,,,,,,Noelle Rouhana,Joseph Rouhana,917-687-9972,,,,,,,,,,,,,,5.0,3.0,3488.0,2001.0,CanyonGateCincoRanch
+688,688,688,688,,,,,,Tram-Anh Huynh,Hoi Nguyen,713-702-3301,832-321-4782,,,,,,,,,,,,,5.0,3.0,3619.0,2000.0,CanyonGateCincoRanch
+689,689,689,689,,,,,,Alta Hodges,Frederick Hodges,281-579-3712,,,,,,,,,,,,,,5.0,3.0,3998.0,2001.0,CanyonGateCincoRanch
+690,690,690,690,,,,,,Larysa Kuznetsova,,832-646-3519,832-561-0393,,,,,,,,,,,,,4.0,3.0,2740.0,2001.0,CanyonGateCincoRanch
+691,691,691,691,,,,,,Margaret Cruz,,281-752-6937,,,,,,,,,,,,,,4.0,2.0,2840.0,1997.0,CanyonGateCincoRanch
+692,692,692,692,,,,,,Evelyn Ugwuzor,Daniel Ugwuzor,713-702-2471,713-894-7069,713-206-8516,,,,,,,,,,,,5.0,3.0,3569.0,2001.0,CanyonGateCincoRanch
+693,693,693,693,,,,,,Omar Rabii,,281-617-8641,832-860-7033,,,,,,,,,,,,,5.0,3.0,3569.0,2000.0,CanyonGateCincoRanch
+694,694,694,694,,,,,,Paul Popovic,,,,,,,,,,,,,,,,4.0,2.0,3270.0,2000.0,CanyonGateCincoRanch
+695,695,695,695,,,,,,Eddie Osborne,,832-705-0539,832-705-0540,832-659-3456,,,,,,,,,,,,4.0,2.0,3397.0,2001.0,CanyonGateCincoRanch
+696,696,696,696,,,,,,Emily Gray,Stuart Gray,,,,,,,,,,,,,,,4.0,2.0,2757.0,2000.0,CanyonGateCincoRanch
+697,697,697,697,,,,,,Juan Wen,Wentian Bai,281-691-3896,,,,,,,,,,,,,,4.0,2.0,2835.0,2000.0,CanyonGateCincoRanch
+698,698,698,698,,,,,,Tushar Desai,Rita Desai,281-646-9897,,,,,,,,,,,,,,4.0,2.0,2835.0,2000.0,CanyonGateCincoRanch
+699,699,699,699,,,,,,Margarita Jimenez,Ricardo Jimenez,281-578-8199,281-772-5549,,,,,,,,,,,,,5.0,3.0,3614.0,2001.0,CanyonGateCincoRanch
+700,700,700,700,,,,,,Michael Parker,,832-248-7450,832-248-7452,,,,,,,,,,,,,4.0,2.0,2471.0,2000.0,CanyonGateCincoRanch
+701,701,701,701,,,,,,Debra Gardner,,817-680-6457,281-829-7028,,,,,,,,,,,,,4.0,2.0,2471.0,2000.0,CanyonGateCincoRanch
+702,702,702,702,,,,,,Laith Mughrabi,,281-647-9908,281-647-9084,281-960-7054,,,,,,,,,,,,5.0,3.0,3772.0,2000.0,CanyonGateCincoRanch
+703,703,703,703,,,,,,Roberto Torres,,713-885-1999,281-730-7074,832-282-0002,,,,,,,,,,,,5.0,3.0,3814.0,2001.0,CanyonGateCincoRanch
+704,704,704,704,,,,,,Marisol Rojas,Enrique Rojas,281-599-1012,,,,,,,,,,,,,,5.0,3.0,3312.0,2001.0,CanyonGateCincoRanch
+705,705,705,705,,,,,,John Ngene,,832-492-3922,281-492-1504,832-492-1504,,,,,,,,,,,,4.0,2.0,2757.0,2001.0,CanyonGateCincoRanch
+706,706,706,706,,,,,,Angela Demaria,Mervin Sealy,713-412-7386,713-775-1047,281-578-8776,,,,,,,,,,,,4.0,2.0,2700.0,2000.0,CanyonGateCincoRanch
+707,707,707,707,,,,,,Gabriele Cortez,Robert Cortez,,,,,,,,,,,,,,,4.0,2.0,3124.0,2001.0,CanyonGateCincoRanch
+708,708,708,708,,,,,,Sylvester Onwas,,713-302-3530,713-292-3604,713-292-4073,,,,,,,,,,,,5.0,3.0,3391.0,2000.0,CanyonGateCincoRanch
+709,709,709,709,,,,,,Humphrey Esechie,,281-829-1070,814-769-1373,,,,,,,,,,,,,5.0,3.0,3619.0,2000.0,CanyonGateCincoRanch
+710,710,710,710,,,,,,Hercules Fernandez,Lourdes Fernandez,281-513-3493,281-877-2020,832-875-4627,,,,,,,,,,,,5.0,3.0,3466.0,2001.0,CanyonGateCincoRanch
+711,711,711,711,,,,,,Bryan Bierstedt,,,,,,,,,,,,,,,,4.0,3.0,3306.0,2000.0,CanyonGateCincoRanch
+712,712,712,712,,,,,,Ming-Yao Lee,,713-363-3911,281-380-2695,713-459-1676,,,,,,,,,,,,5.0,3.0,3898.0,2001.0,CanyonGateCincoRanch
+713,713,713,713,,,,,,Wei Chen,,,,,,,,,,,,,,,,5.0,3.0,3338.0,2001.0,CanyonGateCincoRanch
+714,714,714,714,,,,,,Sandra Woodbury,,,,,,,,,,,,,,,,4.0,3.0,3203.0,1999.0,CanyonGateCincoRanch
+715,715,715,715,,,,,,Boqian Peter,Annie Wang,281-235-6192,281-730-6396,832-907-3418,,,,,,,,,,,,6.0,3.0,3562.0,2000.0,CanyonGateCincoRanch
+716,716,716,716,,,,,,Oscar Aguilar,,,,,,,,,,,,,,,,5.0,3.0,3403.0,2001.0,CanyonGateCincoRanch
+717,717,717,717,,,,,,Sergio Cabrera,,,,,,,,,,,,,,,,5.0,3.0,3802.0,2001.0,CanyonGateCincoRanch
+718,718,718,718,,,,,,Adele Brown,Steven Brown,,,,,,,,,,,,,,,5.0,3.0,3880.0,2001.0,CanyonGateCincoRanch
+719,719,719,719,,,,,,Luis Salazar,,,,,,,,,,,,,,,,4.0,2.0,2735.0,2002.0,CanyonGateCincoRanch
+720,720,720,720,,,,,,Baldomero Garza,,,,,,,,,,,,,,,,4.0,2.0,3061.0,2001.0,CanyonGateCincoRanch
+721,721,721,721,,,,,,Sylvia Naidu,Madan Naidu,281-829-2985,,,,,,,,,,,,,,5.0,2.0,3129.0,1999.0,CanyonGateCincoRanch
+722,722,722,722,,,,,,Sandra Jacobson,,713-858-8389,,,,,,,,,,,,,,5.0,3.0,3581.0,2000.0,CanyonGateCincoRanch
+723,723,723,723,,,,,,Michael Winings,,832-640-5021,832-574-0489,832-574-0488,,,,,,,,,,,,4.0,2.0,3205.0,2000.0,CanyonGateCincoRanch
+724,724,724,724,,,,,,Guadalupe Cosme,Julio Cosme,832-363-7814,,,,,,,,,,,,,,3.0,2.0,2462.0,1997.0,CanyonGateCincoRanch
+725,725,725,725,,,,,,Nancy Mcanally,David Mcanally,713-855-8278,713-398-8123,,,,,,,,,,,,,4.0,2.0,2233.0,1997.0,CanyonGateCincoRanch
+726,726,726,726,,,,,,Dorothy Martinez,Daniel Martinez,281-799-5085,281-579-0244,,,,,,,,,,,,,3.0,2.0,1686.0,1997.0,CanyonGateCincoRanch
+727,727,727,727,,,,,,Phyllis Mclennan,,281-844-6214,,,,,,,,,,,,,,3.0,2.0,1686.0,1997.0,CanyonGateCincoRanch
+728,728,728,728,,,,,,Seresa Carpenter,Dusty Carpenter,832-289-3868,281-408-6032,,,,,,,,,,,,,4.0,2.0,2233.0,1997.0,CanyonGateCincoRanch
+729,729,729,729,,,,,,James Westerman,,281-660-9686,281-599-8993,,,,,,,,,,,,,4.0,2.0,2451.0,1997.0,CanyonGateCincoRanch
+730,730,730,730,,,,,,Angela Cortes,,281-578-0518,281-960-8664,,,,,,,,,,,,,3.0,2.0,1752.0,1997.0,CanyonGateCincoRanch
+731,731,731,731,,,,,,Jesse Black,,713-384-4084,281-398-4836,,,,,,,,,,,,,4.0,2.0,2204.0,1997.0,CanyonGateCincoRanch
+732,732,732,732,,,,,,Pamela Istre,Mitchell Istre,713-320-5017,,,,,,,,,,,,,,3.0,2.0,1752.0,1997.0,CanyonGateCincoRanch
+733,733,733,733,,,,,,Carlos Velasco,,713-589-2839,203-856-7545,,,,,,,,,,,,,4.0,2.0,2451.0,1997.0,CanyonGateCincoRanch
+734,734,734,734,,,,,,Cheri Hayes,Ronald Hayes,,,,,,,,,,,,,,,4.0,2.0,2368.0,1997.0,CanyonGateCincoRanch
+735,735,735,735,,,,,,Corina Soto,Ivan Soto,281-646-0019,,,,,,,,,,,,,,4.0,2.0,2368.0,1997.0,CanyonGateCincoRanch
+736,736,736,736,,,,,,Natasha Mueller-Hickler,Bruce Mueller-Hickler,,,,,,,,,,,,,,,4.0,2.0,2204.0,1997.0,CanyonGateCincoRanch
+737,737,737,737,,,,,,Sandra Skrobul,Anthony Skrobul,281-398-7227,,,,,,,,,,,,,,4.0,2.0,2293.0,1997.0,CanyonGateCincoRanch
+738,738,738,738,,,,,,Edward Liem,,281-546-7493,281-646-7499,,,,,,,,,,,,,4.0,2.0,2172.0,1997.0,CanyonGateCincoRanch
+739,739,739,739,,,,,,Maria Casas,,281-398-7574,,,,,,,,,,,,,,4.0,2.0,2204.0,1997.0,CanyonGateCincoRanch
+740,740,740,740,,,,,,Lenore Tasker,,,,,,,,,,,,,,,,0.0,2.0,1820.0,1997.0,CanyonGateCincoRanch
+741,741,741,741,,,,,,Red Oak Bend Holdings Llc,,281-501-2613,,,,,,,,,,,,,,3.0,2.0,1752.0,1998.0,CanyonGateCincoRanch
+742,742,742,742,,,,,,Nasim Khan,Mohammad Khan,281-370-1609,,,,,,,,,,,,,,3.0,2.0,1686.0,1997.0,CanyonGateCincoRanch
+743,743,743,743,,,,,,Carolyn Robinson,William Robinson,281-599-9976,281-733-6942,,,,,,,,,,,,,4.0,2.0,2204.0,1997.0,CanyonGateCincoRanch
+744,744,744,744,,,,,,Stacia Jackson,Brian Wilson,281-217-2431,,,,,,,,,,,,,,3.0,2.0,1752.0,1997.0,CanyonGateCincoRanch
+745,745,745,745,,,,,,Elizabeth Bundrick,Andrew Bundrick,281-398-9054,832-704-3455,,,,,,,,,,,,,3.0,2.0,2444.0,1998.0,CanyonGateCincoRanch
+746,746,746,746,,,,,,Solange Arias,Cesar Arias,,,,,,,,,,,,,,,4.0,2.0,2451.0,1997.0,CanyonGateCincoRanch
+747,747,747,747,,,,,,Cristine Schmidt,,281-989-8753,,,,,,,,,,,,,,4.0,2.0,2204.0,1998.0,CanyonGateCincoRanch
+748,748,748,748,,,,,,,,,,,,,,,,,,,,,,,,,,
+749,749,749,749,,,,,,,,,,,,,,,,,,,,,,,,,,
+750,750,750,750,,,,,,,,,,,,,,,,,,,,,,,,,,
+751,751,751,751,,,,,,,,,,,,,,,,,,,,,,,,,,
+752,752,752,752,,,,,,,,,,,,,,,,,,,,,,,,,,
+753,753,753,753,,,,,,,,,,,,,,,,,,,,,,,,,,
+754,754,754,754,,,,,,,,,,,,,,,,,,,,,,,,,,
+755,755,755,755,,,,,,,,,,,,,,,,,,,,,,,,,,
+756,756,756,756,,,,,,,,,,,,,,,,,,,,,,,,,,
+757,757,757,757,,,,,,,,,,,,,,,,,,,,,,,,,,
+758,758,758,758,,,,,,,,,,,,,,,,,,,,,,,,,,
+759,759,759,759,,,,,,,,,,,,,,,,,,,,,,,,,,
+760,760,760,760,,,,,,,,,,,,,,,,,,,,,,,,,,
+761,761,761,761,,,,,,,,,,,,,,,,,,,,,,,,,,
+762,762,762,762,,,,,,,,,,,,,,,,,,,,,,,,,,
+763,763,763,763,,,,,,,,,,,,,,,,,,,,,,,,,,
+764,764,764,764,,,,,,,,,,,,,,,,,,,,,,,,,,
+765,765,765,765,,,,,,,,,,,,,,,,,,,,,,,,,,
+766,766,766,766,,,,,,,,,,,,,,,,,,,,,,,,,,
+767,767,767,767,,,,,,,,,,,,,,,,,,,,,,,,,,
+768,768,768,768,,,,,,,,,,,,,,,,,,,,,,,,,,
+769,769,769,769,,,,,,,,,,,,,,,,,,,,,,,,,,
+770,770,770,770,,,,,,,,,,,,,,,,,,,,,,,,,,
+771,771,771,771,,,,,,,,,,,,,,,,,,,,,,,,,,
+772,772,772,772,,,,,,,,,,,,,,,,,,,,,,,,,,
+773,773,773,773,,,,,,,,,,,,,,,,,,,,,,,,,,
+774,774,774,774,,,,,,,,,,,,,,,,,,,,,,,,,,
+775,775,775,775,,,,,,,,,,,,,,,,,,,,,,,,,,
+776,776,776,776,,,,,,,,,,,,,,,,,,,,,,,,,,
+777,777,777,777,,,,,,,,,,,,,,,,,,,,,,,,,,
+778,778,778,778,,,,,,,,,,,,,,,,,,,,,,,,,,
+779,779,779,779,,,,,,,,,,,,,,,,,,,,,,,,,,
+780,780,780,780,,,,,,,,,,,,,,,,,,,,,,,,,,
+781,781,781,781,,,,,,,,,,,,,,,,,,,,,,,,,,
+782,782,782,782,,,,,,,,,,,,,,,,,,,,,,,,,,
+783,783,783,783,,,,,,,,,,,,,,,,,,,,,,,,,,
+784,784,784,784,,,,,,,,,,,,,,,,,,,,,,,,,,
+785,785,785,785,,,,,,,,,,,,,,,,,,,,,,,,,,
+786,786,786,786,,,,,,,,,,,,,,,,,,,,,,,,,,
+787,787,787,787,,,,,,,,,,,,,,,,,,,,,,,,,,
+788,788,788,788,,,,,,,,,,,,,,,,,,,,,,,,,,
+789,789,789,789,,,,,,,,,,,,,,,,,,,,,,,,,,
+790,790,790,790,,,,,,,,,,,,,,,,,,,,,,,,,,
+791,791,791,791,,,,,,,,,,,,,,,,,,,,,,,,,,
+792,792,792,792,,,,,,,,,,,,,,,,,,,,,,,,,,
+793,793,793,793,,,,,,,,,,,,,,,,,,,,,,,,,,
+794,794,794,794,,,,,,,,,,,,,,,,,,,,,,,,,,
+795,795,795,795,,,,,,,,,,,,,,,,,,,,,,,,,,
+796,796,796,796,,,,,,,,,,,,,,,,,,,,,,,,,,
+797,797,797,797,,,,,,,,,,,,,,,,,,,,,,,,,,
+798,798,798,798,,,,,,,,,,,,,,,,,,,,,,,,,,
+799,799,799,799,,,,,,,,,,,,,,,,,,,,,,,,,,
+800,800,800,800,,,,,,,,,,,,,,,,,,,,,,,,,,
+801,801,801,801,,,,,,,,,,,,,,,,,,,,,,,,,,
+802,802,802,802,,,,,,,,,,,,,,,,,,,,,,,,,,
+803,803,803,803,,,,,,,,,,,,,,,,,,,,,,,,,,
+804,804,804,804,,,,,,,,,,,,,,,,,,,,,,,,,,
+805,805,805,805,,,,,,,,,,,,,,,,,,,,,,,,,,
+806,806,806,806,,,,,,,,,,,,,,,,,,,,,,,,,,
+807,807,807,807,,,,,,,,,,,,,,,,,,,,,,,,,,
+808,808,808,808,,,,,,,,,,,,,,,,,,,,,,,,,,
+809,809,809,809,,,,,,,,,,,,,,,,,,,,,,,,,,
+810,810,810,810,,,,,,,,,,,,,,,,,,,,,,,,,,
+811,811,811,811,,,,,,,,,,,,,,,,,,,,,,,,,,
+812,812,812,812,,,,,,,,,,,,,,,,,,,,,,,,,,
+813,813,813,813,,,,,,,,,,,,,,,,,,,,,,,,,,
+814,814,814,814,,,,,,,,,,,,,,,,,,,,,,,,,,
+815,815,815,815,,,,,,,,,,,,,,,,,,,,,,,,,,
+816,816,816,816,,,,,,,,,,,,,,,,,,,,,,,,,,
+817,817,817,817,,,,,,,,,,,,,,,,,,,,,,,,,,
+818,818,818,818,,,,,,,,,,,,,,,,,,,,,,,,,,
+819,819,819,819,,,,,,,,,,,,,,,,,,,,,,,,,,
+820,820,820,820,,,,,,,,,,,,,,,,,,,,,,,,,,
+821,821,821,821,,,,,,,,,,,,,,,,,,,,,,,,,,
+822,822,822,822,,,,,,,,,,,,,,,,,,,,,,,,,,
+823,823,823,823,,,,,,,,,,,,,,,,,,,,,,,,,,
+824,824,824,824,,,,,,,,,,,,,,,,,,,,,,,,,,
+825,825,825,825,,,,,,,,,,,,,,,,,,,,,,,,,,
+826,826,826,826,,,,,,,,,,,,,,,,,,,,,,,,,,
+827,827,827,827,,,,,,,,,,,,,,,,,,,,,,,,,,
+828,828,828,828,,,,,,,,,,,,,,,,,,,,,,,,,,
+829,829,829,829,,,,,,,,,,,,,,,,,,,,,,,,,,
+830,830,830,830,,,,,,,,,,,,,,,,,,,,,,,,,,
+831,831,831,831,,,,,,,,,,,,,,,,,,,,,,,,,,
+832,832,832,832,,,,,,,,,,,,,,,,,,,,,,,,,,
+833,833,833,833,,,,,,,,,,,,,,,,,,,,,,,,,,
+834,834,834,834,,,,,,,,,,,,,,,,,,,,,,,,,,
+835,835,835,835,,,,,,,,,,,,,,,,,,,,,,,,,,
+836,836,836,836,,,,,,,,,,,,,,,,,,,,,,,,,,
+837,837,837,837,,,,,,,,,,,,,,,,,,,,,,,,,,
+838,838,838,838,,,,,,,,,,,,,,,,,,,,,,,,,,
+839,839,839,839,,,,,,,,,,,,,,,,,,,,,,,,,,
+840,840,840,840,,,,,,,,,,,,,,,,,,,,,,,,,,
+841,841,841,841,,,,,,,,,,,,,,,,,,,,,,,,,,
+842,842,842,842,,,,,,,,,,,,,,,,,,,,,,,,,,
+843,843,843,843,,,,,,,,,,,,,,,,,,,,,,,,,,
+844,844,844,844,,,,,,,,,,,,,,,,,,,,,,,,,,
+845,845,845,845,,,,,,,,,,,,,,,,,,,,,,,,,,
+846,846,846,846,,,,,,,,,,,,,,,,,,,,,,,,,,
+847,847,847,847,,,,,,,,,,,,,,,,,,,,,,,,,,
+848,848,848,848,,,,,,,,,,,,,,,,,,,,,,,,,,
+849,849,849,849,,,,,,,,,,,,,,,,,,,,,,,,,,
+850,850,850,850,,,,,,,,,,,,,,,,,,,,,,,,,,
+851,851,851,851,,,,,,,,,,,,,,,,,,,,,,,,,,
+852,852,852,852,,,,,,,,,,,,,,,,,,,,,,,,,,
+853,853,853,853,,,,,,,,,,,,,,,,,,,,,,,,,,
+854,854,854,854,,,,,,,,,,,,,,,,,,,,,,,,,,
+855,855,855,855,,,,,,,,,,,,,,,,,,,,,,,,,,
+856,856,856,856,,,,,,,,,,,,,,,,,,,,,,,,,,
+857,857,857,857,,,,,,,,,,,,,,,,,,,,,,,,,,
+858,858,858,858,,,,,,,,,,,,,,,,,,,,,,,,,,
+859,859,859,859,,,,,,,,,,,,,,,,,,,,,,,,,,
+860,860,860,860,,,,,,,,,,,,,,,,,,,,,,,,,,
+861,861,861,861,,,,,,,,,,,,,,,,,,,,,,,,,,
+862,862,862,862,,,,,,,,,,,,,,,,,,,,,,,,,,
+863,863,863,863,,,,,,,,,,,,,,,,,,,,,,,,,,
+864,864,864,864,,,,,,,,,,,,,,,,,,,,,,,,,,
+865,865,865,865,,,,,,,,,,,,,,,,,,,,,,,,,,
+866,866,866,866,,,,,,,,,,,,,,,,,,,,,,,,,,
+867,867,867,867,,,,,,,,,,,,,,,,,,,,,,,,,,
+868,868,868,868,,,,,,,,,,,,,,,,,,,,,,,,,,
+869,869,869,869,,,,,,,,,,,,,,,,,,,,,,,,,,
+870,870,870,870,,,,,,,,,,,,,,,,,,,,,,,,,,
+871,871,871,871,,,,,,,,,,,,,,,,,,,,,,,,,,
+872,872,872,872,,,,,,,,,,,,,,,,,,,,,,,,,,
+873,873,873,873,,,,,,,,,,,,,,,,,,,,,,,,,,
+874,874,874,874,,,,,,,,,,,,,,,,,,,,,,,,,,
+875,875,875,875,,,,,,,,,,,,,,,,,,,,,,,,,,
+876,876,876,876,,,,,,,,,,,,,,,,,,,,,,,,,,
+877,877,877,877,,,,,,,,,,,,,,,,,,,,,,,,,,
+878,878,878,878,,,,,,,,,,,,,,,,,,,,,,,,,,
+879,879,879,879,,,,,,,,,,,,,,,,,,,,,,,,,,
+880,880,880,880,,,,,,,,,,,,,,,,,,,,,,,,,,
+881,881,881,881,,,,,,,,,,,,,,,,,,,,,,,,,,
+882,882,882,882,,,,,,,,,,,,,,,,,,,,,,,,,,
+883,883,883,883,,,,,,,,,,,,,,,,,,,,,,,,,,
+884,884,884,884,,,,,,,,,,,,,,,,,,,,,,,,,,
+885,885,885,885,,,,,,,,,,,,,,,,,,,,,,,,,,
+886,886,886,886,,,,,,,,,,,,,,,,,,,,,,,,,,
+887,887,887,887,,,,,,,,,,,,,,,,,,,,,,,,,,
+888,888,888,888,,,,,,,,,,,,,,,,,,,,,,,,,,
+889,889,889,889,,,,,,,,,,,,,,,,,,,,,,,,,,
+890,890,890,890,,,,,,,,,,,,,,,,,,,,,,,,,,
+891,891,891,891,,,,,,,,,,,,,,,,,,,,,,,,,,
+892,892,892,892,,,,,,,,,,,,,,,,,,,,,,,,,,
+893,893,893,893,,,,,,,,,,,,,,,,,,,,,,,,,,
+894,894,894,894,,,,,,,,,,,,,,,,,,,,,,,,,,
+895,895,895,895,,,,,,,,,,,,,,,,,,,,,,,,,,
+896,896,896,896,,,,,,,,,,,,,,,,,,,,,,,,,,
+897,897,897,897,,,,,,,,,,,,,,,,,,,,,,,,,,
+898,898,898,898,,,,,,,,,,,,,,,,,,,,,,,,,,
+899,899,899,899,,,,,,,,,,,,,,,,,,,,,,,,,,
+900,900,900,900,,,,,,,,,,,,,,,,,,,,,,,,,,
+901,901,901,901,,,,,,,,,,,,,,,,,,,,,,,,,,
+902,902,902,902,,,,,,,,,,,,,,,,,,,,,,,,,,
+903,903,903,903,,,,,,,,,,,,,,,,,,,,,,,,,,
+904,904,904,904,,,,,,,,,,,,,,,,,,,,,,,,,,
+905,905,905,905,,,,,,,,,,,,,,,,,,,,,,,,,,
+906,906,906,906,,,,,,,,,,,,,,,,,,,,,,,,,,
+907,907,907,907,,,,,,,,,,,,,,,,,,,,,,,,,,
+908,908,908,908,,,,,,,,,,,,,,,,,,,,,,,,,,
+909,909,909,909,,,,,,,,,,,,,,,,,,,,,,,,,,
+910,910,910,910,,,,,,,,,,,,,,,,,,,,,,,,,,
+911,911,911,911,,,,,,,,,,,,,,,,,,,,,,,,,,
+912,912,912,912,,,,,,,,,,,,,,,,,,,,,,,,,,
+913,913,913,913,,,,,,,,,,,,,,,,,,,,,,,,,,
+914,914,914,914,,,,,,,,,,,,,,,,,,,,,,,,,,
+915,915,915,915,,,,,,,,,,,,,,,,,,,,,,,,,,
+916,916,916,916,,,,,,,,,,,,,,,,,,,,,,,,,,
+917,917,917,917,,,,,,,,,,,,,,,,,,,,,,,,,,
+918,918,918,918,,,,,,,,,,,,,,,,,,,,,,,,,,
+919,919,919,919,,,,,,,,,,,,,,,,,,,,,,,,,,
+920,920,920,920,,,,,,,,,,,,,,,,,,,,,,,,,,
+921,921,921,921,,,,,,,,,,,,,,,,,,,,,,,,,,
+922,922,922,922,,,,,,,,,,,,,,,,,,,,,,,,,,
+923,923,923,923,,,,,,,,,,,,,,,,,,,,,,,,,,
